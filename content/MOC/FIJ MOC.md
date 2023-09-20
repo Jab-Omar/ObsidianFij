@@ -7,8 +7,8 @@ tags:
 
 ## Weekly Agenda
 
-- [[Week 01 - FIJ]]
-- [[Week 02 - FIJ]]
+- [[Semaine 01 - FIJ]]
+- [[Semaine 02 - FIJ]]
 - [[Semaine 03 - FIJ]]
 
 ## Key Concepts

@@ -1,10 +1,10 @@
 ---
-title: Obsidian Vault FIJ TUI2023
+title: FIJ TUI2023
 ---
 Cliquez sur [[FIJ MOC]] pour commencer
 
 ## Infos
-- [[FIJ MOC]] : Map of content qui permet de voir l'agenda et les concepts. ( Un index en gros).
+- [[FIJ MOC]] : Map of content qui permet de voir l'agenda et les ressources. ( Un index en gros).
 - Depuis la MOC vous pouvez cliquez de hyperliens à hyperliens pour parcourir le site.
 - Il y'a une barre de recherche qui devrait marcher.
 - Je vais essayer de push tt les jours.

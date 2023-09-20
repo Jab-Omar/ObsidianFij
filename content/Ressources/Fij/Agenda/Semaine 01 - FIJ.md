@@ -35,7 +35,6 @@ Fin: 2023-09-08
 - Configuration de base de Windows.
 - Installation des ajouts de VirtualBox Guest additions.
 - Configuration d'un dossier partagé et autorisation du drag'n'drop.
-**Pour aller plus loin :** [[Unités de mémoire]] ; [[VirtualBox Guest additions]]
 ##### Word
 - Professeur malade.
 ##### Anglais

@@ -21,7 +21,7 @@ Fin: 2023-09-22
 
 ## Mardi
 ##### Montage PC
-- Block Diagram de la Carte mère Asus 710A.
+- [[Block Diagram]] de la Carte mère Asus 710A.
 - Recherche d'une Carte mère compatible avec un I7 6th gen.
 - Fin du questionnaire sur la carte mère.
 - Identification des composants d'une carte mère.

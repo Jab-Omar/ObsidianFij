@@ -16,7 +16,7 @@ tags:
 ### Windows
 - [[Mapped network drive]]
 - [[Microsoft exchange]]
-- [[Units of memory]]
+- [[Unités de mémoire]]
 - [[VirtualBox Guest additions]]
 - [[Utilisateurs, profils et groupes dans Windows]]
 - [[MAC]]
@@ -31,7 +31,7 @@ tags:
 	- [[Northbridge]]
 	- [[Southbridge]]
 	- [[FSB (Front Side Bus)]]
-	- [[DMI]]
+	- [[DMI (Direct Media Interface)]]
 	- [[CPU Socket]]
 	- [[Parallel Communication]]
 	- [[Serial Communication]]

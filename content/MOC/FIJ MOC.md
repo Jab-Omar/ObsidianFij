@@ -9,7 +9,7 @@ tags:
 
 - [[Week 01 - FIJ]]
 - [[Week 02 - FIJ]]
-- [[Week 03 - FIJ]]
+- [[Semaine 03 - FIJ]]
 
 ## Key Concepts
 

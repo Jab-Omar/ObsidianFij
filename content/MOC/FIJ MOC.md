@@ -18,7 +18,7 @@ tags:
 - [[Microsoft exchange]]
 - [[Units of memory]]
 - [[VirtualBox Guest additions]]
-- [[Users, Profile and Groups in Windows]]
+- [[Utilisateurs, profils et groupes dans Windows]]
 - [[MAC]]
 
 ##### Commands

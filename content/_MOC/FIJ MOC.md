@@ -11,7 +11,7 @@ tags:
 - [[Semaine 02 - FIJ]]
 - [[Semaine 03 - FIJ]]
 
-## Key Concepts
+## A étudier 
 
 ### Windows
 - [[Mapped network drive]]
@@ -25,7 +25,7 @@ tags:
 [[`ncpa.cpl`]]
 
 ### Montage PC
-- [[Motherboard]]
+- [[Carte mère]]
 	- [[Bus]]
 	- [[Chipset]]
 	- [[Northbridge]]
@@ -33,7 +33,7 @@ tags:
 	- [[FSB (Front Side Bus)]]
 	- [[DMI (Direct Media Interface)]]
 	- [[CPU Socket]]
-	- [[Parallel Communication]]
-	- [[Serial Communication]]
-	- [[Form Factors]]
+	- [[Communication parallèle]]
+	- [[Communication série]]
+	- [[Form Factors Carte mère]]
 	- [[Block Diagram]]

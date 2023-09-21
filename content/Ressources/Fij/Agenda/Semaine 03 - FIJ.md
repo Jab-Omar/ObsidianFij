@@ -14,25 +14,27 @@ Fin: 2023-09-22
 - Exercices + raccourci F4
 
 ##### Windows
-- [[Utilisateurs, profils et groupes dans Windows]]
+- Utilisateurs, profils et groupes dans Windows
 
 ##### English
 - End of the Proust test + Small test to evaluate our level.
+
 ---
 ## Mardi
 ##### Montage PC
-- [[Block Diagram]] de la Carte mère Asus 710A.
+- Block Diagram de la Carte mère Asus 710A.
 - Recherche d'une Carte mère compatible avec un I7 6th gen.
 - Fin du questionnaire sur la carte mère.
 - Identification des composants d'une carte mère.
 
 ##### Windows
--  Fin du cours sur les [[Utilisateurs, profils et groupes dans Windows]] 
+-  Fin du cours sur les Utilisateurs, profils et groupes dans Windows.
 - Utilisation du Event Viewer pour voir les logs.
-- Tentative de création d'un script Powershell.
+- Tentative de création d'un script PowerShell.
 ##### Communication
 -  Charte.
 - La définition de la communication interpersonnelle. 
+
 ---
 ## Mercredi
 
@@ -46,6 +48,7 @@ Fin: 2023-09-22
 - Présentation du syllabus.
 - Calcul écrit (+, -, x, /).
 - Calcul Littéral (Transformation de formules).
+
 ---
 ## Jeudi
 ##### Outlook
@@ -67,4 +70,5 @@ Fin: 2023-09-22
 	- Distinction entre MBR et GPT.
 	- Calcul du nombre de cluster sur une clé USB de 32GB.
 	- Pourquoi une clé USB de 32GB est affiché comme faisant 28,8GB.
+
 ---

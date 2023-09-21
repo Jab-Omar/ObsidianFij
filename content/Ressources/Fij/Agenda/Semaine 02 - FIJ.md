@@ -25,14 +25,15 @@ Fin: 2023-09-15
 	- Nous avons utilisé Système > A propos.
 	- Nous avons utilisé System information.
 	- Nous avons utilisé la commande run `ncpa.cpl`.
-- Le professeur nous a expliqué ce qu'il faut faire si nous ne trouvons pas le [[Mapped network drive]].
+- Le professeur nous a expliqué ce qu'il faut faire si nous ne trouvons pas le Mapped network drive.
 	- Ouvrir run (win + r)
 	- Écrire \dc3 
 	- Aller à tui2023
 - Quels sont les 3 composants qui sont uniques à un PC dans un réseau.
 	- Le nom de l'ordinateur.
 	- L'adresse IP.
-	- [[MAC]].
+	- MAC
+	
 ---
 ## Mardi
 ##### Montage Pc
@@ -46,6 +47,7 @@ Fin: 2023-09-15
 - Découverte du site [scribens.fr](https://www.scribens.com/)
 ##### Communication
 - Petits jeux pour améliorer la communication.
+
 ---
 ## Mercredi
 ##### Outlook
@@ -53,6 +55,7 @@ Fin: 2023-09-15
 ##### Mathématiques appliquées
 - Exercices sur PEMDAS.
 - Unités de mesure.
+
 ---
 ## Jeudi
 ##### Outlook
@@ -61,9 +64,11 @@ Fin: 2023-09-15
 ##### Français
 - Professeur Absent.
 ##### Montage PC
-- Théorie sur la [[Carte mère]].
+- Théorie sur la Carte mère.
 - Petit quizz sur la carte mère.
+
 ---
 ## Vendredi
 - Journée de détente à Ostende.
+
 ---

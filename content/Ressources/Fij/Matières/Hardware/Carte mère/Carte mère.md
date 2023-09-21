@@ -34,9 +34,9 @@ A motherboard, also known as a mainboard or system board, is a fundamental compo
 - The Front Side Bus is a data pathway connecting the CPU to the memory and other components. 
 ### [[DMI (Direct Media Interface)]] 
 - DMI is a high-speed interconnect between the CPU and the chipset. 
-### [[Parallel Communication]] 
+### [[Communication parallèle]] 
 - Parallel communication refers to data transmission using multiple data lines simultaneously. 
-- ### [[Serial Communication]] 
+- ### [[Communication série]] 
 - Serial communication refers to data transmission using a single data line sequentially. 
 ### [[Block Diagram]] 
 - A visual representation of how the components on the motherboard are connected and interact. 
@@ -46,7 +46,7 @@ The motherboard serves several critical functions:
 2. **Data Transfer:** The motherboard facilitates data transfer between different components, such as the CPU, RAM, and storage devices. 
 3. **Initialization and Booting:** It initializes the hardware during the boot-up process, loading the operating system from storage. 
 4. **Expansion and Customization:** Motherboards offer expandability options, allowing users to customize their systems with additional hardware components. 
-## [[Form Factors]] 
+## [[Form Factors Carte mère]] 
 Motherboards come in various form factors, which determine their physical size, shape, and compatibility with computer cases. Common form factors include ATX, MicroATX, Mini-ITX, and more.
 ## Conclusion
 The motherboard is the central backbone of a computer, providing the necessary infrastructure for hardware components to communicate and work together effectively. Understanding its components and functions is essential for building, upgrading, or troubleshooting computer systems.

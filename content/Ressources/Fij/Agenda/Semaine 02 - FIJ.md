@@ -5,7 +5,7 @@ tags:
 Début: 2023-09-11
 Fin: 2023-09-15
 ---
-
+---
 ## Lundi
 ##### Emploi
 - Présentation du cours.
@@ -33,7 +33,7 @@ Fin: 2023-09-15
 	- Le nom de l'ordinateur.
 	- L'adresse IP.
 	- [[MAC]].
-
+---
 ## Mardi
 ##### Montage Pc
 - Apprendre les différents types de vis et quand les utiliser.
@@ -46,14 +46,14 @@ Fin: 2023-09-15
 - Découverte du site [scribens.fr](https://www.scribens.com/)
 ##### Communication
 - Petits jeux pour améliorer la communication.
-
+---
 ## Mercredi
 ##### Outlook
 - Finir l'exercice Helpdesk.
 ##### Mathématiques appliquées
 - Exercices sur PEMDAS.
 - Unités de mesure.
-
+---
 ## Jeudi
 ##### Outlook
 - Test de cybersécurité sur Safeonweb.be
@@ -63,6 +63,7 @@ Fin: 2023-09-15
 ##### Montage PC
 - Théorie sur la [[Carte mère]].
 - Petit quizz sur la carte mère.
-
+---
 ## Vendredi
 - Journée de détente à Ostende.
+---

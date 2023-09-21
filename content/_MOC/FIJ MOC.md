@@ -24,7 +24,7 @@ tags:
 ##### Commands
 [[`ncpa.cpl`]]
 
-### Pc Assembly
+### Montage PC
 - [[Motherboard]]
 	- [[Bus]]
 	- [[Chipset]]

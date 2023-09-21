@@ -5,7 +5,7 @@ tags:
 Début: 2023-09-18
 Fin: 2023-09-22
 ---
-
+---
 ## Lundi
 ##### Emploi
 - Cours sur la création du CV.
@@ -18,7 +18,7 @@ Fin: 2023-09-22
 
 ##### English
 - End of the Proust test + Small test to evaluate our level.
-
+---
 ## Mardi
 ##### Montage PC
 - [[Block Diagram]] de la Carte mère Asus 710A.
@@ -33,7 +33,7 @@ Fin: 2023-09-22
 ##### Communication
 -  Charte.
 - La définition de la communication interpersonnelle. 
-
+---
 ## Mercredi
 
 ##### Outlook
@@ -46,5 +46,25 @@ Fin: 2023-09-22
 - Présentation du syllabus.
 - Calcul écrit (+, -, x, /).
 - Calcul Littéral (Transformation de formules).
-
+---
 ## Jeudi
+##### Outlook
+- Nouvelle feuille d'exercices + Exercices d'helpdesk.
+
+##### Français
+- AEI
+	- Ex 01: correction.
+	- Ex 02 : Faire deviner un proverbe avec l'explication et l'illustration.
+	- Découverte de [Scribrr](https://www.scribbr.fr/correcteur-orthographe/).
+
+##### Windows
+- PowerShell
+	- Lecture du doc 10 - partie 1.
+	- Apprentissage des commandes PowerShell pour gérer : Utilisateurs, profils et groupes dans Windows.
+- File system
+	- Lecture de la théorie sur le file system.
+	- Ajout d'un disque de 20GB sur les VM Win10 et Win11.
+	- Distinction entre MBR et GPT.
+	- Calcul du nombre de cluster sur une clé USB de 32GB.
+	- Pourquoi une clé USB de 32GB est affiché comme faisant 28,8GB.
+---

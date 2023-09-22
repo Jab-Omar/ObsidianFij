@@ -3,50 +3,51 @@ tags:
   - "#hardware"
   - fij
 ---
-## Definition 
-A motherboard, also known as a mainboard or system board, is a fundamental component of a computer. It is a large, rectangular circuit board that serves as the central hub for connecting and integrating various hardware components and peripherals. The motherboard plays a pivotal role in the functionality and communication of these components, allowing the computer to operate effectively. 
-## Key Components and Features 
-### [[CPU Socket ]]
-- The CPU socket is a central slot on the motherboard where the computer's central processing unit (CPU) is installed. It provides the necessary electrical connections for the CPU to communicate with other components. 
-### RAM Slots 
-- Random Access Memory (RAM) slots on the motherboard allow for the installation of memory modules. RAM provides temporary storage for data that the CPU actively uses during processing. 
-- ### Expansion Slots 
-- Expansion slots, such as PCI Express (PCIe) slots, are present on the motherboard to allow for the installation of additional hardware components like graphics cards, sound cards, and networking cards. 
-### Input/Output Ports 
-- The motherboard features a variety of input/output (I/O) ports, including USB, audio, Ethernet, and video ports. These ports provide connections for external devices and peripherals. 
-### BIOS/UEFI Chip 
-- The Basic Input/Output System (BIOS) or Unified Extensible Firmware Interface (UEFI) chip is a small memory chip that stores firmware responsible for booting the computer and initializing hardware components. 
-### Power Connectors 
-- The motherboard includes power connectors that receive electrical power from the power supply unit (PSU) and distribute it to various components, ensuring proper functioning. 
-### SATA and M.2 Connectors 
-- SATA and M.2 connectors on the motherboard allow for the attachment of storage devices like hard drives and solid-state drives (SSDs). 
+## Définition 
+Une carte mère, également appelée carte principale ou carte système, est un composant fondamental d'un ordinateur. Il s'agit d'un grand circuit imprimé rectangulaire qui sert de plaque tournante pour la connexion et l'intégration de divers composants matériels et périphériques. La carte mère joue un rôle essentiel dans la fonctionnalité et la communication de ces composants, permettant à l'ordinateur de fonctionner efficacement. 
+## Principaux composants et caractéristiques 
+### [[CPU Socket]]
+- Le socle de l'unité centrale est un emplacement central de la carte mère où est installée l'unité centrale de traitement (UC) de l'ordinateur. Il fournit les connexions électriques nécessaires à l'unité centrale pour communiquer avec les autres composants. 
+### Emplacements RAM 
+- Les emplacements de mémoire vive (RAM) de la carte mère permettent d'installer des modules de mémoire. La RAM fournit un stockage temporaire pour les données que l'unité centrale utilise activement pendant le traitement. 
+- ### Emplacements d'extension 
+- Les emplacements d'extension, tels que les emplacements PCI Express (PCIe), sont présents sur la carte mère pour permettre l'installation de composants matériels supplémentaires tels que des cartes graphiques, des cartes son et des cartes réseau. 
+### Ports d'entrée/sortie 
+- La carte mère comporte une variété de ports d'entrée/sortie (E/S), notamment des ports USB, audio, Ethernet et vidéo. Ces ports permettent de connecter des appareils et des périphériques externes. 
+### Puce BIOS/UEFI 
+- La puce BIOS (Basic Input/Output System) ou UEFI (Unified Extensible Firmware Interface) est une petite puce mémoire qui stocke le micrologiciel responsable du démarrage de l'ordinateur et de l'initialisation des composants matériels. 
+### Connecteurs d'alimentation 
+- La carte mère comprend des connecteurs d'alimentation qui reçoivent l'énergie électrique du bloc d'alimentation (PSU) et la distribuent aux différents composants, assurant ainsi leur bon fonctionnement. 
+### Connecteurs SATA et M.2 
+- Les connecteurs SATA et M.2 de la carte mère permettent de connecter des périphériques de stockage tels que des disques durs et des disques durs à état solide (SSD). 
 ### [[Chipset ]]
-- The chipset is a set of integrated circuits on the motherboard that control and manage data flow between various components, including the CPU, RAM, and peripheral devices. 
-### CMOS Battery 
-- A small CMOS (Complementary Metal-Oxide-Semiconductor) battery on the motherboard preserves BIOS/UEFI settings and system time even when the computer is powered off. 
+- Le chipset est un ensemble de circuits intégrés sur la carte mère qui contrôlent et gèrent le flux de données entre les différents composants, y compris le CPU, la RAM et les périphériques. 
+### Batterie CMOS 
+- Une petite batterie CMOS (Complementary Metal-Oxide-Semiconductor) sur la carte mère préserve les paramètres BIOS/UEFI et l'heure du système même lorsque l'ordinateur est éteint. 
 ### [[Bus ]]
-- The bus is a communication pathway that connects various hardware components within the motherboard. 
+- Le bus est une voie de communication qui relie divers composants matériels de la carte mère. 
 ### [[Northbridge]] 
-- The Northbridge is a chipset component responsible for high-speed communication between the CPU, RAM, and graphics card. 
+- Le Northbridge est un composant du chipset responsable de la communication à grande vitesse entre le CPU, la RAM et la carte graphique. 
 ### [[Southbridge]] 
-- The Southbridge is another chipset component that handles lower-speed communication and I/O functions. 
+- Le Southbridge est un autre composant du chipset qui gère les fonctions de communication et d'E/S à faible vitesse. 
 ### [[FSB (Front Side Bus)]] 
-- The Front Side Bus is a data pathway connecting the CPU to the memory and other components. 
+- Le bus frontal est une voie de données qui relie le processeur à la mémoire et à d'autres composants. 
 ### [[DMI (Direct Media Interface)]] 
-- DMI is a high-speed interconnect between the CPU and the chipset. 
+- La DMI est une interconnexion à grande vitesse entre l'unité centrale et le chipset. 
 ### [[Communication parallèle]] 
-- Parallel communication refers to data transmission using multiple data lines simultaneously. 
-- ### [[Communication série]] 
-- Serial communication refers to data transmission using a single data line sequentially. 
-### [[Block Diagram]] 
-- A visual representation of how the components on the motherboard are connected and interact. 
-## Functions 
-The motherboard serves several critical functions: 
-1. **Hardware Integration:** It connects and integrates various hardware components, ensuring they work together cohesively. 
-2. **Data Transfer:** The motherboard facilitates data transfer between different components, such as the CPU, RAM, and storage devices. 
-3. **Initialization and Booting:** It initializes the hardware during the boot-up process, loading the operating system from storage. 
-4. **Expansion and Customization:** Motherboards offer expandability options, allowing users to customize their systems with additional hardware components. 
+- La communication parallèle fait référence à la transmission de données en utilisant simultanément plusieurs lignes de données. 
+### [[Communication série]] 
+- La communication série fait référence à la transmission de données utilisant une seule ligne de données de manière séquentielle. 
+### [[Schéma block d'une Carte mère]] 
+- Représentation visuelle de la manière dont les composants de la carte mère sont connectés et interagissent. 
+## Fonctions 
+La carte mère remplit plusieurs fonctions essentielles : 
+1. **Intégration du matériel:** Elle connecte et intègre divers composants matériels, garantissant leur fonctionnement cohérent. 
+2. **Transfert de données:** La carte mère facilite le transfert de données entre les différents composants, tels que l'unité centrale, la mémoire vive et les périphériques de stockage. 
+3. **Initialisation et démarrage:** Elle initialise le matériel pendant le processus de démarrage, en chargeant le système d'exploitation à partir de la mémoire. 
+4. **Extension et personnalisation:** Les cartes mères offrent des options d'extension, permettant aux utilisateurs de personnaliser leurs systèmes avec des composants matériels supplémentaires. 
 ## [[Form Factors Carte mère]] 
-Motherboards come in various form factors, which determine their physical size, shape, and compatibility with computer cases. Common form factors include ATX, MicroATX, Mini-ITX, and more.
+Les cartes mères sont disponibles dans différents facteurs de forme, qui déterminent leur taille physique, leur forme et leur compatibilité avec les boîtiers d'ordinateur. Les facteurs de forme les plus courants sont ATX, MicroATX, Mini-ITX, etc.
+
 ## Conclusion
-The motherboard is the central backbone of a computer, providing the necessary infrastructure for hardware components to communicate and work together effectively. Understanding its components and functions is essential for building, upgrading, or troubleshooting computer systems.
+La carte mère est l'épine dorsale d'un ordinateur. Elle fournit l'infrastructure nécessaire pour que les composants matériels puissent communiquer et fonctionner ensemble de manière efficace. Il est essentiel de comprendre ses composants et ses fonctions pour construire, mettre à niveau ou dépanner des systèmes informatiques.

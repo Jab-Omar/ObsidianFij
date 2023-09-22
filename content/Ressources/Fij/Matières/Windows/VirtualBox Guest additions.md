@@ -4,30 +4,31 @@ tags:
   - fij
 ---
 ## Introduction 
-VirtualBox Guest Additions are a set of software utilities and drivers that enhance the functionality and performance of virtual machines (VMs) running in Oracle VirtualBox, a popular virtualization platform. Guest Additions are designed to provide seamless integration between the host operating system and the guest VM, offering various features and optimizations. 
-## Key Features and Benefits 
-VirtualBox Guest Additions offer several key features and benefits: 
-1. **Enhanced Display and Graphics:** Guest Additions enable better display resolution, dynamic resizing, and improved graphics performance for VMs. 
-2. **Mouse Pointer Integration:** You can seamlessly move the mouse cursor between the host and guest without needing to release it from the VM. 
-3. **Shared Folders:** Guest Additions allow you to share folders between the host and guest, simplifying file transfer and data sharing. 
-4. **Clipboard Sharing:** You can copy and paste text and files between the host and guest, enhancing productivity. 
-5. **Drag and Drop:** Guest Additions support drag-and-drop functionality between the host and guest desktops. 
-6. **Seamless Mode:** This mode allows you to run guest applications alongside host applications, making it easier to work with both environments simultaneously. 
+VirtualBox Guest Additions est un ensemble d'utilitaires logiciels et de pilotes qui améliorent les fonctionnalités et les performances des machines virtuelles (VM) fonctionnant dans Oracle VirtualBox, une plate-forme de virtualisation très répandue. Les Guest Additions sont conçus pour assurer une intégration transparente entre le système d'exploitation hôte et la VM invitée, en offrant diverses fonctionnalités et optimisations. 
+## Principales caractéristiques et avantages 
+Les Guest Additions de VirtualBox offrent plusieurs fonctionnalités et avantages clés : 
+1. **Affichage et graphisme améliorés:** Les Guest Additions permettent une meilleure résolution d'affichage, un redimensionnement dynamique et des performances graphiques améliorées pour les VM. 
+2. **Intégration du curseur de la souris:** Vous pouvez déplacer le curseur de la souris entre l'hôte et l'invité sans avoir à le relâcher de la VM. 
+3. **Dossiers partagés:** Les ajouts de Guest additions vous permettent de partager des dossiers entre l'hôte et l'invité, ce qui simplifie le transfert de fichiers et le partage de données. 
+4. **Partage du tableau de bord:** Vous pouvez copier et coller du texte et des fichiers entre l'hôte et l'invité, ce qui améliore la productivité. 
+5. **Glisser-déposer:** Les ajouts de Guest addition prennent en charge la fonctionnalité de glisser-déposer entre les bureaux de l'hôte et de l'invité. 
+6. **Mode transparent:** Ce mode vous permet d'exécuter des applications invitées en même temps que des applications hôtes, ce qui facilite le travail dans les deux environnements simultanément. 
 ## Installation 
-To install VirtualBox Guest Additions: 
-1. Start the guest VM in VirtualBox. 
-2. In the VM window, go to the "Devices" menu. 
-3. Select "Insert Guest Additions CD Image." This action mounts the Guest Additions ISO file within the VM. 
-4. Open a terminal or file explorer in the guest VM. 
-5. Navigate to the mounted CD/DVD drive. 
-6. Run the appropriate installer for your guest operating system (e.g., VBoxWindowsAdditions.exe for Windows guests or VBoxLinuxAdditions.run for Linux guests). 
-7. Follow the on-screen instructions to complete the installation. 
-## Updating Guest Additions 
-It's essential to keep VirtualBox Guest Additions up to date to ensure compatibility and access to the latest features. To update Guest Additions, follow these steps: 
-1. Start the guest VM. 
-2. Insert the latest Guest Additions CD image by going to the "Devices" menu and selecting "Insert Guest Additions CD Image." 
-3. Follow the installation steps as mentioned above. The installer will replace the older version with the updated one. 
-## Troubleshooting 
-If you encounter issues with VirtualBox Guest Additions, consult the VirtualBox documentation or community forums for troubleshooting steps. Common issues may include display resolution problems, installation errors, or compatibility issues with specific guest operating systems. 
+Pour installer VirtualBox Guest Additions : 
+1. Démarrez la VM invitée dans VirtualBox. 
+2. Dans la fenêtre VM, allez dans le menu "Devices". 
+3. Sélectionnez "Insert Guest Additions CD Image". Cette action monte le fichier ISO de Guest Additions dans la VM. 
+4. Ouvrez un terminal ou un explorateur de fichiers dans la VM invitée. 
+5. Naviguez jusqu'au lecteur de CD/DVD monté. 
+6. Exécutez le programme d'installation approprié pour votre système d'exploitation invité (par exemple, VBoxWindowsAdditions.exe pour les invités Windows ou VBoxLinuxAdditions.run pour les invités Linux). 
+7. Suivez les instructions à l'écran pour terminer l'installation. 
+## Mise à jour des ajouts d'invités 
+Il est essentiel de maintenir les ajouts d'invité VirtualBox à jour pour garantir la compatibilité et l'accès aux dernières fonctionnalités. Pour mettre à jour les compléments d'invité, procédez comme suit : 
+1. Démarrez la VM invitée. 
+2. Insérez la dernière image CD de Guest Additions en allant dans le menu "Devices" et en sélectionnant "Insert Guest Additions CD Image". 
+3. Suivez les étapes d'installation mentionnées ci-dessus. Le programme d'installation remplacera l'ancienne version par la version mise à jour. 
+## Dépannage 
+Si vous rencontrez des problèmes avec VirtualBox Guest Additions, consultez la documentation de VirtualBox ou les forums de la communauté pour connaître les étapes de dépannage. Les problèmes les plus courants peuvent être des problèmes de résolution d'affichage, des erreurs d'installation ou des problèmes de compatibilité avec des systèmes d'exploitation invités spécifiques. 
+
 ## Conclusion 
-VirtualBox Guest Additions significantly enhance the usability and performance of virtual machines, making them an essential component of your virtualization setup. By providing seamless integration between the host and guest systems, Guest Additions improve the overall virtualization experience.
+Les ajouts d'invités de VirtualBox améliorent considérablement la convivialité et les performances des machines virtuelles, ce qui en fait un composant essentiel de votre configuration de virtualisation. En assurant une intégration transparente entre les systèmes hôte et invité, les Guest Additions améliorent l'expérience globale de la virtualisation.

@@ -72,3 +72,20 @@ Fin: 2023-09-22
 	- Pourquoi une clé USB de 32GB est affiché comme faisant 28,8GB.
 
 ---
+
+## Vendredi
+##### Montage PC
+- Théorie sur le BIOS.
+	- Lecture de la théorie sur le BIOS/UEFI.
+	- Ex : Sauvegarde et flashage du BIOS. ( Feuille 1 et 2).
+	- Ex: Clear CMOS.
+
+##### Word
+- Professeur Absent
+
+##### English
+- Conjugation: The present simple
+- E.g. Choose a verb and conjugate it in the present simple tense.
+
+---
+

@@ -25,7 +25,7 @@ tags:
 [[`ncpa.cpl`]]
 
 ### Montage PC
-- [[Carte mère]]
+- [[Carte Mère]]
 	- [[Bus]]
 	- [[Chipset]]
 	- [[Northbridge]]
@@ -36,4 +36,4 @@ tags:
 	- [[Communication parallèle]]
 	- [[Communication série]]
 	- [[Form Factors Carte mère]]
-	- [[Block Diagram]]
+	- [[Schéma block d'une Carte mère]]

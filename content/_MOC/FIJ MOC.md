@@ -25,15 +25,5 @@ tags:
 [[`ncpa.cpl`]]
 
 ### Montage PC
-- [[Carte Mère]]
-	- [[Bus]]
-	- [[Chipset]]
-	- [[Northbridge]]
-	- [[Southbridge]]
-	- [[FSB (Front Side Bus)]]
-	- [[DMI (Direct Media Interface)]]
-	- [[CPU Socket]]
-	- [[Communication parallèle]]
-	- [[Communication série]]
-	- [[Form Factors Carte mère]]
-	- [[Schéma block d'une Carte mère]]
+- [[Index Carte Mère]]
+- [[Index des ports d'un ordinateur]]

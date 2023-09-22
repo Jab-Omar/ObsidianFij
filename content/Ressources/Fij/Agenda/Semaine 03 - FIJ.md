@@ -85,7 +85,7 @@ Fin: 2023-09-22
 
 ##### English
 - Conjugation: The present simple
-- E.g. Choose a verb and conjugate it in the present simple tense.
+- Ex : Choose a verb and conjugate it in the present simple tense.
 
 ---
 

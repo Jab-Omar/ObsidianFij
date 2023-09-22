@@ -1,0 +1,26 @@
+---
+tags:
+  - index
+  - hardware
+  - fij
+---
+## Les ports à connaître :
+- [[USB 2.0]]
+- [[Firewire]]
+- [[Ethernet]]
+- [[Modem RJ-11]]
+- [[PS 2]]
+- [[USB 3.0]]
+- [[DE -9F]]
+- [[e-SATA]]
+- [[Audio Port]]
+- [[S-Video]]
+- [[RF/COAX]]
+- [[Parallel Port/SCSI]]
+- [[DisplayPort]]
+- [[DVI]]
+- [[VGA]]
+- [[HDMI]]
+
+![[LesPortsHardware.jpg]]
+

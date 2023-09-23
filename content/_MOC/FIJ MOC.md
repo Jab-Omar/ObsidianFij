@@ -14,15 +14,9 @@ tags:
 ## A étudier 
 
 ### Windows
-- [[Mapped network drive]]
-- [[Microsoft exchange]]
-- [[Unités de mémoire]]
-- [[VirtualBox Guest additions]]
 - [[Utilisateurs, profils et groupes dans Windows]]
-- [[MAC]]
-
-##### Commands
-[[`ncpa.cpl`]]
+- [[Système de Fichiers]]
+- [[MBR (Master Boot Record) vs GPT (GUID Partition Table)]]
 
 ### Montage PC
 - [[Index Carte Mère]]

@@ -1,8 +1,3 @@
----
-tags:
-  - hardware
-  - fij
----
 ## Définition
 Un schéma de blocs d'une carte mère est une représentation visuelle qui illustre la structure et l'organisation des principaux composants d'une carte mère d'ordinateur. Il offre une vue d'ensemble simplifiée des différentes parties qui composent la carte mère et montre comment elles sont interconnectées.
 

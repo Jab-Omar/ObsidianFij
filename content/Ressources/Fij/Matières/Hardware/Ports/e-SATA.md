@@ -1,8 +1,3 @@
----
-tags:
-  - hardware
-  - fij
----
 
 ## Introduction
 eSATA, qui signifie "External Serial Advanced Technology Attachment", est une norme de connectivité qui permet de connecter des dispositifs de stockage externes, tels que des disques durs, des SSD (Solid State Drives) et des lecteurs optiques, à un ordinateur via une interface SATA. L'avantage principal de l'eSATA est sa vitesse de transfert élevée et sa compatibilité avec les disques SATA internes.

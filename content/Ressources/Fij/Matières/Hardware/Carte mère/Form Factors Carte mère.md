@@ -1,8 +1,3 @@
----
-tags:
-  - hardware
-  - fij
----
 
 ## Définition
 Les form factors de carte mère sont des spécifications standardisées qui définissent la taille, la configuration, les emplacements de montage et les connecteurs d'une carte mère. Ils jouent un rôle essentiel dans la compatibilité entre la carte mère, le boîtier d'ordinateur et d'autres composants. Les form factors de carte mère sont un élément crucial de la conception et de l'assemblage d'un système informatique.

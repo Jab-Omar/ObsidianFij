@@ -1,8 +1,3 @@
----
-tags:
-  - hardware
-  - fij
----
 
 ## Introduction
 Le port modem RJ-11 est un type de connecteur téléphonique couramment utilisé pour connecter un modem à une ligne téléphonique analogique. Ce port est largement répandu dans les modems dial-up et DSL, qui nécessitent une connexion téléphonique pour accéder à Internet ou à d'autres réseaux de données.

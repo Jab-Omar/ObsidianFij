@@ -1,8 +1,3 @@
----
-tags:
-  - hardware
-  - fij
----
 ## Introduction
 Le HDMI, ou High-Definition Multimedia Interface, est une norme de connectivité audio et vidéo numérique qui est devenue la norme de facto pour la transmission de signaux haute définition entre des appareils audiovisuels tels que les téléviseurs, les moniteurs, les lecteurs Blu-ray, les consoles de jeu et les ordinateurs.
 

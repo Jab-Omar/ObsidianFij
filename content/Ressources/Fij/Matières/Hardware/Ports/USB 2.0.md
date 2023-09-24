@@ -1,8 +1,3 @@
----
-tags:
-  - hardware
-  - fij
----
 ## Introduction
 L'USB 2.0, abréviation de Universal Serial Bus 2.0, est une norme de connectivité largement utilisée dans le domaine de l'informatique et de l'électronique grand public. Il s'agit d'une version améliorée de la norme USB d'origine, offrant des taux de transfert de données plus rapides et une meilleure prise en charge des périphériques.
 

@@ -1,8 +1,3 @@
----
-tags:
-  - hardware
-  - fij
----
 
 
 ## Définition

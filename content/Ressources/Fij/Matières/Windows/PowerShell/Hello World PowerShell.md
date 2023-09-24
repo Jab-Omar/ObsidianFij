@@ -1,7 +1,3 @@
----
-tags:
-  - PowerShell
----
 ## Code 
 ```PowerShell
 function Get-HelloWorld {

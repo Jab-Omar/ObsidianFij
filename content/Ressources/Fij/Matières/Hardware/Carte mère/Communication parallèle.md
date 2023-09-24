@@ -1,8 +1,3 @@
----
-tags:
-  - hardware
-  - fij
----
 
 ## Définition
 La communication parallèle est un mode de transmission de données dans lequel plusieurs bits ou signaux sont transmis simultanément sur plusieurs voies de communication ou lignes de transmission. Contrairement à la communication série où les données sont envoyées un bit à la fois, la communication parallèle permet un transfert plus rapide d'informations, ce qui est essentiel dans de nombreuses applications informatiques et électroniques.

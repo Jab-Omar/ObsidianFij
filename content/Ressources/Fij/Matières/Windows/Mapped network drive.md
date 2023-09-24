@@ -1,8 +1,3 @@
----
-tags:
-  - Windows
-  - fij
----
 
 ## Introduction 
 Les lecteurs mappés en réseau constituent un aspect fondamental du partage de fichiers en réseau dans le monde des technologies de l'information. Ils permettent aux utilisateurs d'accéder aux dossiers et ressources partagés sur des serveurs distants comme s'il s'agissait de lecteurs locaux sur leurs propres ordinateurs. 

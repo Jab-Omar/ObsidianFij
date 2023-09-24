@@ -1,7 +1,3 @@
----
-tags:
-  - PowerShell
----
 Les CMDLET (Commandlets) sont des commandes de base utilisées dans PowerShell pour effectuer diverses tâches, de la gestion des fichiers à l'administration système. Apprendre à utiliser efficacement les CMDLET est essentiel pour devenir compétent dans l'utilisation de PowerShell. Voici quelques points clés à retenir lors de l'apprentissage des CMDLET :
 
 ## 1. Comprendre la syntaxe de base

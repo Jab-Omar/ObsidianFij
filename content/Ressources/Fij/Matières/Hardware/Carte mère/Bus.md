@@ -1,8 +1,3 @@
----
-tags:
-  - hardware
-  - fij
----
 
 ## Définition 
 En architecture informatique et en électronique numérique, un bus désigne une voie de communication ou un ensemble de conducteurs qui transmettent des données, des signaux ou de l'énergie électrique entre différents composants d'un ordinateur ou d'un système électronique. Les bus jouent un rôle crucial en facilitant le transfert d'informations et la coordination des opérations entre les différents composants matériels. 

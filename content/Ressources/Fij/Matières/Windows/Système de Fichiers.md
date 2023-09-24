@@ -1,8 +1,3 @@
----
-tags:
-  - Windows
-  - fij
----
 ## Introduction
 Un système de fichiers est une structure de gestion des données utilisée par un système d'exploitation pour organiser, stocker, récupérer et gérer des fichiers sur un support de stockage, tel qu'un disque dur, une clé USB, ou un SSD. Il définit la manière dont les données sont organisées et accessibles.
 

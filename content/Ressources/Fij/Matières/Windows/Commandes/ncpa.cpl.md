@@ -1,8 +1,3 @@
----
-tags:
-  - Windows
-  - fij
----
 ## Introduction 
 `ncpa.cpl` est une commande de Windows qui ouvre le Panneau de configuration des connexions réseau. Ce panneau de configuration offre une interface graphique pour la gestion des connexions et des adaptateurs réseau sur votre ordinateur Windows. Il vous permet de configurer divers paramètres réseau, y compris les adaptateurs réseau, les protocoles, etc. 
 ## Principales fonctions et caractéristiques 

@@ -1,8 +1,3 @@
----
-tags:
-  - Windows
-  - fij
----
 
 ## Introduction 
 Dans le système d'exploitation Windows, les utilisateurs, les profils et les groupes sont des concepts fondamentaux qui jouent un rôle crucial dans la gestion de l'accès, de la sécurité et de la personnalisation des utilisateurs individuels et des ressources dans un environnement en réseau.

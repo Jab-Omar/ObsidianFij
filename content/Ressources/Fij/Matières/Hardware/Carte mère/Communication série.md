@@ -1,8 +1,3 @@
----
-tags:
-  - hardware
-  - fij
----
 
 ## Définition
 La communication série est un mode de transmission de données dans lequel les bits de données sont envoyés séquentiellement, un après l'autre, sur une seule ligne de transmission. Contrairement à la communication parallèle, qui transmet plusieurs bits simultanément sur plusieurs lignes, la communication série est couramment utilisée dans de nombreuses applications électroniques et informatiques pour sa simplicité et sa fiabilité.

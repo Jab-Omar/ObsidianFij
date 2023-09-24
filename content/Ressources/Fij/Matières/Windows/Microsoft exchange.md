@@ -1,8 +1,3 @@
----
-tags:
-  - Windows
-  - fij
----
 ## Introduction 
 Microsoft Exchange est un serveur de messagerie et un logiciel d'agenda très répandu, développé par Microsoft. Il s'agit d'un composant essentiel pour de nombreuses organisations, qui fournit des services de messagerie électronique, de contacts, de calendrier et de collaboration. 
 ## Fonctionnalités principales 

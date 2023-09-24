@@ -1,8 +1,3 @@
----
-tags:
-  - Windows
-  - fij
----
 
 ## Introduction 
 Une adresse MAC, abréviation de Media Access Control address, est un identifiant unique attribué à un contrôleur d'interface réseau (NIC) ou à un adaptateur réseau. Elle joue un rôle essentiel dans la mise en réseau, en aidant les périphériques d'un réseau à s'identifier et à communiquer entre eux. 

@@ -1,8 +1,3 @@
----
-tags:
-  - Windows
-  - fij
----
 ## Introduction 
 VirtualBox Guest Additions est un ensemble d'utilitaires logiciels et de pilotes qui améliorent les fonctionnalités et les performances des machines virtuelles (VM) fonctionnant dans Oracle VirtualBox, une plate-forme de virtualisation très répandue. Les Guest Additions sont conçus pour assurer une intégration transparente entre le système d'exploitation hôte et la VM invitée, en offrant diverses fonctionnalités et optimisations. 
 ## Principales caractéristiques et avantages 

@@ -1,8 +1,3 @@
----
-tags:
-  - Windows
-  - fij
----
 ## Introduction 
 Les unités de mémoire sont essentielles dans le domaine des technologies de l'information et de l'informatique, car elles fournissent un moyen normalisé de mesurer et de représenter la capacité de stockage et de traitement des données. 
 ## Bit (chiffre binaire) 

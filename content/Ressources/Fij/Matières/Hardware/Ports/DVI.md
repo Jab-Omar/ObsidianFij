@@ -1,8 +1,3 @@
----
-tags:
-  - hardware
-  - fij
----
 ## Introduction
 Le DVI, ou Digital Visual Interface, est une norme de connectivité largement utilisée pour la transmission de signaux vidéo numériques entre des ordinateurs, des moniteurs, des téléviseurs et d'autres périphériques d'affichage. Il a été développé pour remplacer les connexions vidéo analogiques plus anciennes, telles que le VGA (Video Graphics Array).
 

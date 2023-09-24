@@ -1,8 +1,3 @@
----
-tags:
-  - "#hardware"
-  - fij
----
 ## Définition 
 Une carte mère, également appelée carte principale ou carte système, est un composant fondamental d'un ordinateur. Il s'agit d'un grand circuit imprimé rectangulaire qui sert de plaque tournante pour la connexion et l'intégration de divers composants matériels et périphériques. La carte mère joue un rôle essentiel dans la fonctionnalité et la communication de ces composants, permettant à l'ordinateur de fonctionner efficacement. 
 ## Principaux composants et caractéristiques 

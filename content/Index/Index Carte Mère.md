@@ -1,9 +1,3 @@
----
-tags:
-  - "#index"
-  - hardware
-  - fij
----
 
 ## Carte Mère
 - [[Une Carte Mère c'est quoi]]

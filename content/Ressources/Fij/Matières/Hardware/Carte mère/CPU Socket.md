@@ -1,8 +1,3 @@
----
-tags:
-  - hardware
-  - fij
----
 
 ## Définition
 Un CPU socket, également appelé support de processeur, est une interface mécanique et électrique sur une carte mère d'ordinateur conçue pour accueillir et connecter le processeur central (CPU). Le socket joue un rôle crucial dans la compatibilité et la communication entre le CPU et la carte mère.

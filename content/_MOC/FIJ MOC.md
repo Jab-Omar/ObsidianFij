@@ -10,10 +10,12 @@ tags:
 - [[Semaine 01 - FIJ]]
 - [[Semaine 02 - FIJ]]
 - [[Semaine 03 - FIJ]]
+- [[Semaine 04 - FIJ]]
 
 ## A étudier 
 
 ### Windows
+- [[Index PowerShell]]
 - [[Utilisateurs, profils et groupes dans Windows]]
 - [[Système de Fichiers]]
 - [[MBR (Master Boot Record) vs GPT (GUID Partition Table)]]

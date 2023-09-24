@@ -5,7 +5,8 @@ tags:
   - fij
 ---
 
-## [[Carte Mère]]
+## Carte Mère
+- [[Une Carte Mère c'est quoi]]
 - [[Bus]]
 - [[Chipset]]
 - [[Northbridge]]

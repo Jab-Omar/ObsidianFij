@@ -14,8 +14,7 @@ title: FIJ TUI2023
 ### Windows
 - [[Index PowerShell]]
 - [[Utilisateurs, profils et groupes dans Windows]]
-- [[Système de Fichiers]]
-- [[MBR (Master Boot Record) vs GPT (GUID Partition Table)]]
+- [[Index File system et stockage]]
 
 ### Montage PC
 - [[Index Carte Mère]]

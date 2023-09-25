@@ -66,6 +66,3 @@ Clear-Disk -Number 1 -RemoveData -Confirm:$false
 
 ## Conclusion
 PowerShell offre un moyen puissant de gérer les disques et les partitions sur un système Windows. Les cmdlets présentés ici vous permettent d'effectuer diverses opérations de gestion, de la modification des lettres de lecteur à la création et à la suppression de partitions, en passant par le formatage, la vérification de l'intégrité et la défragmentation. Assurez-vous de faire preuve de prudence lors de l'utilisation de ces cmdlets, en particulier lors de la suppression de partitions, car elles peuvent entraîner une perte de données si utilisées incorrectement.
-```
-
-N'hésitez pas à copier cette note dans votre Obsidian vault. Si vous avez des questions supplémentaires sur la gestion de disque et de partition avec PowerShell ou sur d'autres sujets liés à PowerShell, n'hésitez pas à les poser.

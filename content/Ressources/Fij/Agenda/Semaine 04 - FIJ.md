@@ -24,3 +24,17 @@ Fin: 2023-09-29
 ---
 
 ## Mardi
+##### Montage pc
+- Discutions sur les examens, Semaine du 23 au 27.
+- Prise de la température du CPU via le BIOS.
+- Montage et démontage du pc + changement de la pâte thermique du CPU.
+- Inventaire du pc. 
+##### Français
+- Ex 03 - Le travail. ( Comprendre et résumer un texte.)
+##### Communication
+- Les valeurs.
+---
+## Mercredi
+- Congé 
+---
+## Jeudi

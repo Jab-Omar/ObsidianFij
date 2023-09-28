@@ -1,6 +1,13 @@
 ## File system
 - [[ Système de Fichiers]]
+- [[CHKDSK (Check Disk) Vérification et Réparation des Disques]]
+
+## Table des partitions
+- [[Table des Partitions Définition et Fonction]]
 -  [[MBR (Master Boot Record) vs GPT (GUID Partition Table)]]
+	- [[Somme de Contrôle (Checksum) GPT vs. MBR]]
+	- [[Journalisation (Journaling) GPT vs. MBR]]
+
 
 ## Gestion des stockages de masses
 - [[Gestion des stockages de masses]]

@@ -20,6 +20,7 @@ title: FIJ TUI2023
 - [[Index Carte Mère]]
 - [[Index des ports d'un ordinateur]]
 - [[Index BIOS]]
+- [[Index File system et stockage]]
 
 ### Anglais
 - [[Le Présent Simple en Anglais]]

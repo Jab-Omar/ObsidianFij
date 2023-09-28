@@ -7,3 +7,4 @@
 - [[EEPROM (Electrically Erasable Programmable Read-Only Memory)]]
 - [[CMOS (Complementary Metal-Oxide-Semiconductor)]]
 - [[Flasher le BIOS (Mise à Jour du BIOS)]]
+- [[Méthodes de Démarrage de l'Ordinateur Du BIOS au PXE]]

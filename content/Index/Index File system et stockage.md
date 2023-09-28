@@ -16,4 +16,7 @@
 	- [[Fragmentation et Défragmentation des Disques Durs]]
 	- [[Les Secteurs Défectueux (Bad Sectors) sur les Disques Durs]]
 - [[Diskpart Gestion des Disques et des Partitions en Ligne de Commande]]
+- [[GParted]]
+- [[Parted]]
+	- [[Commandes Parted]]
 - [[Gestion des stockages de masses via PowerShell]]

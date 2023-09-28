@@ -38,3 +38,15 @@ Fin: 2023-09-29
 - Congé 
 ---
 ## Jeudi
+##### Outlook
+- Fin des exercices de helpdesk du 20/09/2023.
+##### Français
+- Relecture des textes sur le travail.
+- Donner son avis sur les texte devant la classe : Expression Oral.
+##### Montage PC
+- Théorie MBR et GPT.
+- Labo GParted et Parted.
+- Correction de la deuxième page de l'inventaire.
+---
+
+## Vendredi

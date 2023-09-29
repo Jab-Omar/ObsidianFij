@@ -50,3 +50,13 @@ Fin: 2023-09-29
 ---
 
 ## Vendredi
+##### Windows
+- Labo Partitions (Nouvelles Feuilles.
+- Découverte de BitLocker.
+##### Word
+- Prof Absent.
+##### Anglais
+- Correction des 7 phrases.
+- Création des 3 phrases au 3 formes avec le passé simple.(à finir pour lundi)
+- Nouveau Vocabulaire.
+---

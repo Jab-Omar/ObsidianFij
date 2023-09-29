@@ -20,3 +20,4 @@
 - [[Parted]]
 	- [[Commandes Parted]]
 - [[Gestion des stockages de masses via PowerShell]]
+- [[BitLocker Chiffrement de Disque sous Windows]]

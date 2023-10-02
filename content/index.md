@@ -8,6 +8,7 @@ title: FIJ TUI2023
 - [[Semaine 02 - FIJ]]
 - [[Semaine 03 - FIJ]]
 - [[Semaine 04 - FIJ]]
+- [[Semaine 05 - FIJ]]
 
 ## A étudier 
 

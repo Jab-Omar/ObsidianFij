@@ -51,7 +51,7 @@ Fin: 2023-09-29
 
 ## Vendredi
 ##### Windows
-- Labo Partitions (Nouvelles Feuilles.
+- Labo Partitions (Nouvelles Feuilles).
 - Découverte de BitLocker.
 ##### Word
 - Prof Absent.

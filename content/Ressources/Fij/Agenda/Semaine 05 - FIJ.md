@@ -19,6 +19,20 @@ Fin: 2023-10-06
 - Jour 4 - ex 1,2,3.
 ##### Anglais
 - Théorie sur le présent continu.
+
 ---
 
 ## Mardi
+##### Montage PC
+- Démontage des nouvelles tours.
+- Remontage.
+- Inventaire.
+- Recherche du manuel.
+##### Français
+- Les connecteurs logiques (exercices 35 à 37)
+##### Comunication
+- Exercices sur les valeurs
+
+---
+
+## Mercredi

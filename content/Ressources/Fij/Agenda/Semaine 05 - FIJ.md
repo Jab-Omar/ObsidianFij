@@ -36,3 +36,18 @@ Fin: 2023-10-06
 ---
 
 ## Mercredi
+##### Outlook
+- Nouvelle feuille d'exercices : ex du 04 octobre 2023.
+##### Math
+- Rappel calcul écrit.
+- Distributivité.
+- Introduction les identités remarquables.
+
+---
+
+## Jeudi
+- J'était absent.
+
+---
+
+## Vendredi

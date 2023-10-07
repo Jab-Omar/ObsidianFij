@@ -5,6 +5,7 @@ tags:
 Début: 2023-10-02
 Fin: 2023-10-06
 ---
+---
 ## Lundi
 ##### Emploi
 - Nouvelle formatrice : Marie.
@@ -51,3 +52,12 @@ Fin: 2023-10-06
 ---
 
 ## Vendredi
+##### Windows
+- Théorie sur les permissions.
+- Labo sur les permissions.
+##### Word
+- Prof Absent.
+##### Anglais
+- Le verbe être et le verbe avoir.
+- Construction de phrases au passé simple avec être et avoir.
+---

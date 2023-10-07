@@ -9,6 +9,7 @@ title: FIJ TUI2023
 - [[Semaine 03 - FIJ]]
 - [[Semaine 04 - FIJ]]
 - [[Semaine 05 - FIJ]]
+- [[Semaine 06 - FIJ]]
 
 ## A étudier 
 
@@ -18,6 +19,7 @@ title: FIJ TUI2023
 - [[Utilisateurs, profils et groupes dans Windows]]
 - [[Index File system et stockage]]
 - [[Index Sauvegarde (Backup)]]
+- [[Index des Permissions Windows]]
 ---
 ### Montage PC
 - [[Index Carte Mère]]

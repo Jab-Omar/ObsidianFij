@@ -21,6 +21,7 @@ title: FIJ TUI2023
 - [[Index File system et stockage]]
 - [[Index Sauvegarde (Backup)]]
 - [[Index des Permissions Windows]]
+- [[Index des Services Windows]]
 
 ---
 ### Montage PC

@@ -41,3 +41,5 @@ title: FIJ TUI2023
 - [[L'Importance des Connecteurs Logiques dans la Rédaction]]
 - [[Liste de Connecteurs Logiques Courants]]
 ---
+### Excel
+- [[Répertoire des Fonctions Excel]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - index
+---
 
 ## Carte Mère
 - [[Une Carte Mère c'est quoi]]

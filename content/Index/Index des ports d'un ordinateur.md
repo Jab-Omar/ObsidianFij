@@ -1,3 +1,8 @@
+---
+tags:
+  - index
+---
+
 ## Les ports à connaître :
 - [[USB 2.0]]
 - [[Firewire]]

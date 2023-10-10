@@ -1,3 +1,8 @@
+---
+tags:
+  - index
+---
+
 ## File system
 - [[ Système de Fichiers]]
 - [[CHKDSK (Check Disk) Vérification et Réparation des Disques]]

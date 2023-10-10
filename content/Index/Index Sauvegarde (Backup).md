@@ -1,3 +1,8 @@
+---
+tags:
+  - index
+---
+
 ##  Sauvegarde (Backup)
 
 - [[C'est quoi une Sauvegarde (Backup)]]

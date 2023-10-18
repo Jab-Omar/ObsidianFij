@@ -8,8 +8,8 @@ title: FIJ TUI2023
 |Septembre|Octobre|
 |---------|-------|
 |[[Semaine 01 - FIJ]]|[[Semaine 05 - FIJ]]|
-|[[Semaine 02 - FIJ]]|[[Semaine 06 - FIJ]]
-|[[Semaine 03 - FIJ]]|
+|[[Semaine 02 - FIJ]]|[[Semaine 06 - FIJ]]|
+|[[Semaine 03 - FIJ]]|[[Semaine 07 - FIJ]]
 |[[Semaine 04 - FIJ]]|
 
 ## A étudier 
@@ -22,6 +22,7 @@ title: FIJ TUI2023
 - [[Index Sauvegarde (Backup)]]
 - [[Index des Permissions Windows]]
 - [[Index des Services Windows]]
+- [[Index sur les registres(à finir)]]
 
 ---
 ### Montage PC
@@ -31,6 +32,8 @@ title: FIJ TUI2023
 - [[Index File system et stockage]]
 - [[Index USB de Type C]]
 - [[Index SSD M.2]]
+- [[Index des Bus Informatiques(à finir)]]
+- [[Index sur la RAM(à finir)]]
 
 ---
 ### Anglais

@@ -40,3 +40,21 @@ Fin: 2023-10-13
 ---
 
 ## Mercredi
+- J'était absent
+
+---
+## Jeudi
+##### Outlook
+- Exercices sur les permissions dans outlook
+##### Français
+- Fin exercice avec la méthode AEI.
+##### Montage PC
+- Théorie sur les Bus.
+- Questionnaire su les Bus.
+
+---
+
+## Vendredi
+- Congé pédagogique.
+
+---

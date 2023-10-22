@@ -38,3 +38,21 @@ Fin: 2023-10-20
 ---
 
 ## Jeudi
+##### Outlook
+- Nouvelle feuille : exercices sur OWA du 19 octobre 2023
+##### Français
+- Evaluation formative sur les connecteurs logiques.
+##### Montage PC
+- Fin des exercices d'upgrade de RAM.
+
+---
+
+## Vendredi
+##### Windows
+- Théorie sur les GPO.
+- TP sur les GPO.
+##### Word 
+- Prof absent
+##### Anglais
+- Révision du vocabulaire
+---

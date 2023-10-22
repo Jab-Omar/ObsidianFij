@@ -47,45 +47,45 @@ L'informatique utilise une variété de bus pour la communication et le transfer
 
 - [[AGP (Accelerated Graphics Port)]] : Un ancien bus destiné aux cartes graphiques haute performance.
 
-- **PCIe (Peripheral Component Interconnect Express)** : Le successeur du PCI, utilisé pour diverses cartes d'extension, y compris les cartes graphiques et les SSD.
+- [[PCIe (Peripheral Component Interconnect Express)]] : Le successeur du PCI, utilisé pour diverses cartes d'extension, y compris les cartes graphiques et les SSD.
 
 ## 7. Bus de Périphériques et de Stockage
 
-- **USB (Universal Serial Bus)** : Un bus commun pour connecter divers périphériques, notamment claviers, souris, imprimantes et disques durs externes.
+- [[USB (Universal Serial Bus)]] : Un bus commun pour connecter divers périphériques, notamment claviers, souris, imprimantes et disques durs externes.
 
-- **Firewire (IEEE 1394)** : Un bus haute vitesse utilisé principalement pour les caméscopes et les appareils audio.
+- [[Firewire (IEEE 1394)]] : Un bus haute vitesse utilisé principalement pour les caméscopes et les appareils audio.
 
-- **ATA (Advanced Technology Attachment)** : Un ancien bus pour les disques durs et les lecteurs optiques.
+- ATA (Advanced Technology Attachment) : Un ancien bus pour les disques durs et les lecteurs optiques.
 
-- **IDE (Integrated Drive Electronics)** : Un autre nom pour ATA.
+- [[IDE (Integrated Drive Electronics)]] : Un autre nom pour ATA.
 
-- **SATA (Serial Advanced Technology Attachment)** : Un bus de stockage en série utilisé pour les disques durs et les SSD.
+- [[SATA (Serial Advanced Technology Attachment)]] : Un bus de stockage en série utilisé pour les disques durs et les SSD.
 
-- **SCSI (Small Computer System Interface)** : Un bus de stockage pour les périphériques professionnels, y compris les disques durs et les scanners.
+- [[SCSI (Small Computer System Interface)]] : Un bus de stockage pour les périphériques professionnels, y compris les disques durs et les scanners.
 
-- **PCMCIA (Personal Computer Memory Card International Association)** : Un bus d'extension pour les cartes d'extension amovibles dans les ordinateurs portables.
+- [[PCMCIA (Personal Computer Memory Card International Association)]] : Un bus d'extension pour les cartes d'extension amovibles dans les ordinateurs portables.
 
-- **SAS (Serial Attached SCSI)** : Un bus de stockage en série pour les applications professionnelles et de serveur.
+- [[SAS (Serial Attached SCSI)]] : Un bus de stockage en série pour les applications professionnelles et de serveur.
 
 ## 8. Autres Bus
 
-- **HyperTransport** : Un bus utilisé principalement pour la communication entre le processeur et le chipset.
+- [[HyperTransport]] : Un bus utilisé principalement pour la communication entre le processeur et le chipset.
 
-- **InfiniBand** : Un bus de réseau utilisé pour les communications à haute vitesse dans les centres de données.
+- [[InfiniBand]] : Un bus de réseau utilisé pour les communications à haute vitesse dans les centres de données.
 
-- **Fibre Channel** : Un bus de réseau utilisé dans les environnements de stockage en réseau.
+- [[Fibre Channel]] : Un bus de réseau utilisé dans les environnements de stockage en réseau.
 
-- **HDMI (High-Definition Multimedia Interface)** : Un bus pour les transferts audio et vidéo de haute qualité.
+- [[HDMI (High-Definition Multimedia Interface)]] : Un bus pour les transferts audio et vidéo de haute qualité.
 
 ## 9. Technologies et Concepts
 
-- **Technologie SMART (Self-Monitoring, Analysis, and Reporting Technology)** : Une technologie intégrée aux disques durs et aux SSD pour surveiller leur état de santé.
+- [[Technologie SMART (Self-Monitoring, Analysis, and Reporting Technology)]] : Une technologie intégrée aux disques durs et aux SSD pour surveiller leur état de santé.
 
-- **Rétrocompatibilité** : La capacité d'un bus à prendre en charge des dispositifs ou des normes plus anciennes, ce qui permet de les utiliser avec des équipements plus récents.
+- [[Rétrocompatibilité]] : La capacité d'un bus à prendre en charge des dispositifs ou des normes plus anciennes, ce qui permet de les utiliser avec des équipements plus récents.
 
-- **Maître et Esclave** : Le concept où un dispositif maître contrôle un ou plusieurs dispositifs esclaves sur un bus, permettant une communication efficace.
+- [[Maître et Esclave]] : Le concept où un dispositif maître contrôle un ou plusieurs dispositifs esclaves sur un bus, permettant une communication efficace.
 
-- **Hot-Plug** : La capacité de connecter ou de déconnecter des périphériques sans éteindre l'ordinateur, souvent utilisée avec des ports USB.
+- [[Hot-Plug]] : La capacité de connecter ou de déconnecter des périphériques sans éteindre l'ordinateur, souvent utilisée avec des ports USB.
 
 ## 10. Images et Bonus
 

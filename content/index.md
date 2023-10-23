@@ -23,7 +23,7 @@ title: FIJ TUI2023
 - [[Index des Permissions Windows]]
 - [[Index des Services Windows]]
 - [[Index sur les registres(à finir)]]
-- GPO
+- (GPO à commencer)
 
 ---
 ### Montage PC
@@ -34,7 +34,7 @@ title: FIJ TUI2023
 - [[Index USB de Type C]]
 - [[Index SSD M.2]]
 - [[Index des Bus Informatiques]]
-- [[Index sur la mémoire informatique]]
+- [[Index sur la mémoire informatique A FINIR]]
 
 ---
 ### Anglais

@@ -34,7 +34,7 @@ title: FIJ TUI2023
 - [[Index USB de Type C]]
 - [[Index SSD M.2]]
 - [[Index des Bus Informatiques]]
-- [[Index sur la RAM(à finir)]]
+- [[Index sur la mémoire informatique]]
 
 ---
 ### Anglais

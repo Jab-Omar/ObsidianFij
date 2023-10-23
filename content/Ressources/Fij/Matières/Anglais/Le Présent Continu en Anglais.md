@@ -1,6 +1,4 @@
 
-# Le Présent Continu en Anglais
-
 Le présent continu, également appelé le présent progressif, est un temps grammatical en anglais utilisé pour décrire une action en cours au moment où l'on parle. Il est souvent formé en utilisant le verbe "to be" (être) conjugué au présent et en ajoutant le participe présent (-ing) du verbe principal.
 
 ## Structure de base

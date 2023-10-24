@@ -1,0 +1,4 @@
+- Déplacement des paillettes 
+- travaille du sol : - débachage ou tondeuse à fléaux+ grelinette
+- désherbage
+- Découverte de la répartition des zones à approfondir.

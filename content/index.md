@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: FIJ TUI2023
 ---
 
 ## Agenda Hebdo
@@ -12,6 +12,10 @@ title: Welcome to Quartz
 |[[Semaine 03 - FIJ]]|[[Semaine 07 - FIJ]]|
 |[[Semaine 04 - FIJ]]|[[Semaine 08 - FIJ]]|
 
+|**Novembre**|
+|--------|
+|[[Semaine 09]]|
+
 ## A étudier 
 
 ---
@@ -22,7 +26,7 @@ title: Welcome to Quartz
 - [[Index Sauvegarde (Backup)]]
 - [[Index des Permissions Windows]]
 - [[Index des Services Windows]]
-- [[Index sur les registres(à finir)]]
+- [[Index sur les registres]]
 - (GPO à commencer)
 
 ---

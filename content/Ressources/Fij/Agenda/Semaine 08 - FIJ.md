@@ -10,7 +10,32 @@ Fin: 2023-10-27
 ##### Windows
 - Eval formative.
 ##### Anglais
-- Eval formative
+- Eval formative.
 ---
 
 ## Mardi
+##### Montage PC
+- Eval Certificative sur la théorie.
+##### Outlook
+- Eval formative.
+##### Excel
+- Eval  Formative
+
+---
+
+## Mercredi
+##### Montage PC
+- Eval formative.
+
+---
+
+## Jeudi
+- Congé
+
+---
+
+## Vendredi
+- Entretiens individuels
+
+---
+

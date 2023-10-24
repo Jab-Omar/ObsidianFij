@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "google",
       tagId: "G-TFJ0Z3CS24", // Your Google Analytics tag ID
     },
-    baseUrl: "https://wildmountainboar.github.io/ObsidianFij", // Include the protocol (https://)
+    baseUrl: "wildmountainboar.github.io/ObsidianFij", // Include the protocol (https://)
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

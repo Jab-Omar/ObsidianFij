@@ -19,33 +19,13 @@ title: FIJ TUI2023
 
 
 ---
-### [[Windows]]
+## Cours
 
----
-### Montage PC
-- [[Index Carte Mère]]
-- [[Index des ports d'un ordinateur]]
-- [[Index BIOS]]
-- [[Index File system et stockage]]
-- [[Index USB de Type C]]
-- [[Index SSD M.2]]
-- [[Index des Bus Informatiques]]
-- [[Index sur la mémoire informatique]]
+#### [[Index Windows]]
+#### [[Index Hardware]]
+#### [[Index Emploi]]
+#### [[Index Anglais Fij]]
 
----
-### Anglais
-- [[Index Anglais Fij]]
-
----
-### Emploi
-- [[L'Importance de la Motivation + SMART]]
-
----
-### Français
-- [[Index Français]]
-
----
-### Excel
-- [[Répertoire des Fonctions Excel]]
+#### [[Index Français]]
 
 ---

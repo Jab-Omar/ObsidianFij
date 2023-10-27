@@ -16,18 +16,10 @@ title: FIJ TUI2023
 |--------|
 |[[Semaine 09]]|
 
-## A étudier 
+
 
 ---
-### Windows
-- [[Index PowerShell]]
-- [[Utilisateurs, profils et groupes dans Windows]]
-- [[Index File system et stockage]]
-- [[Index Sauvegarde (Backup)]]
-- [[Index des Permissions Windows]]
-- [[Index des Services Windows]]
-- [[Index sur les registres]]
-- (GPO à commencer)
+### [[Windows]]
 
 ---
 ### Montage PC
@@ -38,7 +30,7 @@ title: FIJ TUI2023
 - [[Index USB de Type C]]
 - [[Index SSD M.2]]
 - [[Index des Bus Informatiques]]
-- [[Index sur la mémoire informatique (A FINIR)]]
+- [[Index sur la mémoire informatique]]
 
 ---
 ### Anglais

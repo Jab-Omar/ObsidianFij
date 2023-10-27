@@ -2,12 +2,22 @@
 tags:
   - index
 ---
+## Gestion des Utilisateurs et des Profils
+  - [[Index utilisateurs, profils et groupes dans Windows]]
 
-- [[Index PowerShell]]
-- [[Utilisateurs, profils et groupes dans Windows]]
-- [[Index File system et stockage]]
-- [[Index Sauvegarde (Backup)]]
-- [[Index des Permissions Windows]]
-- [[Index des Services Windows]]
-- [[Index sur les registres]]
-- [[(GPO à commencer)]]
+## Gestion du Stockage et du Système de Fichiers
+  - [[Index File system et stockage]]
+  - [[Index Sauvegarde (Backup)]]
+
+## Gestion des Autorisations et des Permissions
+  - [[Index des Permissions Windows]]
+
+## Gestion des Services Windows
+  - [[Index des Services Windows]]
+
+## Configuration des Registres
+  - [[Index sur les registres]]
+
+## Stratégies de Groupe (GPO)
+  - [[Index GPO dans Windows]]
+

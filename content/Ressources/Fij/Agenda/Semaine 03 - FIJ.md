@@ -1,12 +1,11 @@
 ---
 tags:
-  - agenda
   - fij
-Début: 2023-09-18
-Fin: 2023-09-22
+  - agenda
+date: 2023-09-22
 ---
 ---
-## Lundi
+## Lundi 18/09/2023
 ##### Emploi
 - Cours sur la création du CV.
 
@@ -20,7 +19,7 @@ Fin: 2023-09-22
 - End of the Proust test + Small test to evaluate our level.
 
 ---
-## Mardi
+## Mardi 19/09/2023
 ##### Montage PC
 - Block Diagram de la Carte mère Asus 710A.
 - Recherche d'une Carte mère compatible avec un I7 6th gen.
@@ -36,7 +35,7 @@ Fin: 2023-09-22
 - La définition de la communication interpersonnelle. 
 
 ---
-## Mercredi
+## Mercredi 20/09/2023
 
 ##### Outlook
 
@@ -50,7 +49,7 @@ Fin: 2023-09-22
 - Calcul Littéral (Transformation de formules).
 
 ---
-## Jeudi
+## Jeudi 21/09/2023
 ##### Outlook
 - Nouvelle feuille d'exercices + Exercices d'helpdesk.
 
@@ -73,7 +72,7 @@ Fin: 2023-09-22
 
 ---
 
-## Vendredi
+## Vendredi 22/09/2023
 ##### Montage PC
 - Théorie sur le BIOS.
 	- Lecture de la théorie sur le BIOS/UEFI.

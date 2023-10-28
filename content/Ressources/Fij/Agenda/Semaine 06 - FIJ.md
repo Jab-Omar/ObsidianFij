@@ -1,12 +1,11 @@
 ---
 tags:
-  - agenda
   - fij
-Début: 2023-10-09
-Fin: 2023-10-13
+  - agenda
+date: 2023-10-13
 ---
 ---
-## Lundi
+## Lundi 09/10/2023
 ##### Emploi
 - Prof Absent.
 ##### Windows
@@ -22,7 +21,7 @@ Fin: 2023-10-13
 
 ---
 
-## Mardi 
+## Mardi 10/10/2023
 ##### Montage PC
 - Vu la matière des évaluation théorique et pratique.
 - On a fini le TP sur Diskpart.
@@ -39,11 +38,11 @@ Fin: 2023-10-13
 
 ---
 
-## Mercredi
+## Mercredi 11/10/2023
 - J'était absent
 
 ---
-## Jeudi
+## Jeudi 12/10/2023
 ##### Outlook
 - Exercices sur les permissions dans outlook
 ##### Français
@@ -54,7 +53,7 @@ Fin: 2023-10-13
 
 ---
 
-## Vendredi
+## Vendredi 13/10/2023
 - Congé pédagogique.
 
 ---

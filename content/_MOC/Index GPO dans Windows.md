@@ -46,5 +46,3 @@ Les Group Policy Objects (GPO) sont un composant essentiel de la gestion des sys
 - [[GPO et Active Directory]]
 - [[GPO et Windows Server]]
 - [[GPO dans un environnement Cloud]]
-
-Explorez ces notes pour approfondir vos connaissances sur les Group Policy Objects dans Windows et apprendre à gérer efficacement les configurations et les stratégies au sein de votre infrastructure informatique.

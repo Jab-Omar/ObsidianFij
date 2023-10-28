@@ -1,12 +1,11 @@
 ---
 tags:
-  - agenda
   - fij
-Début: 2023-09-11
-Fin: 2023-09-15
+  - agenda
+date: 2023-09-15
 ---
 ---
-## Lundi
+## Lundi 11/09/2023
 ##### Emploi
 - Présentation du cours.
 - Informations sur le stage.
@@ -35,7 +34,7 @@ Fin: 2023-09-15
 	- MAC
 	
 ---
-## Mardi
+## Mardi 12/09/2023
 ##### Montage Pc
 - Apprendre les différents types de vis et quand les utiliser.
 - Identifier la marque et le modèle de la carte mère et télécharger le manuel d'utilisation.
@@ -49,7 +48,7 @@ Fin: 2023-09-15
 - Petits jeux pour améliorer la communication.
 
 ---
-## Mercredi
+## Mercredi 13/09/2023
 ##### Outlook
 - Finir l'exercice Helpdesk.
 ##### Mathématiques appliquées
@@ -57,7 +56,7 @@ Fin: 2023-09-15
 - Unités de mesure.
 
 ---
-## Jeudi
+## Jeudi 14/09/2023
 ##### Outlook
 - Test de cybersécurité sur Safeonweb.be
 - Helpdesk sur le thème de la cybersécurité. 
@@ -68,7 +67,7 @@ Fin: 2023-09-15
 - Petit quizz sur la carte mère.
 
 ---
-## Vendredi
+## Vendredi 15/09/2023
 - Journée de détente à Ostende.
 
 ---

@@ -1,12 +1,11 @@
 ---
 tags:
-  - agenda
   - fij
-Début: 2023-09-25
-Fin: 2023-09-29
+  - agenda
+date: 2023-09-29
 ---
 ---
-## Lundi
+## Lundi 25/09/2021
 ##### Excel
 - Jour 2 ex 4 - Correction.
 - Jour 3 ex 1,2,3.
@@ -23,7 +22,7 @@ Fin: 2023-09-29
 - Traduction par écrit de 7 phrase en français vers l'anglais.
 ---
 
-## Mardi
+## Mardi 26/09/2021
 ##### Montage pc
 - Discutions sur les examens, Semaine du 23 au 27.
 - Prise de la température du CPU via le BIOS.
@@ -34,10 +33,10 @@ Fin: 2023-09-29
 ##### Communication
 - Les valeurs.
 ---
-## Mercredi
+## Mercredi 27/09/2021
 - Congé 
 ---
-## Jeudi
+## Jeudi 28/09/2021
 ##### Outlook
 - Fin des exercices de helpdesk du 20/09/2023.
 ##### Français
@@ -49,7 +48,7 @@ Fin: 2023-09-29
 - Correction de la deuxième page de l'inventaire.
 ---
 
-## Vendredi
+## Vendredi 29/09/2021
 ##### Windows
 - Labo Partitions (Nouvelles Feuilles).
 - Découverte de BitLocker.

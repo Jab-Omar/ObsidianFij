@@ -1,3 +1,8 @@
+---
+tags:
+  - index
+date: 2023-10-29
+---
 
 La gestion des utilisateurs, des profils et des groupes est essentielle dans les systèmes d'exploitation Windows pour garantir la sécurité, l'efficacité et la personnalisation des environnements informatiques. Voici un index pour explorer les différents aspects liés aux utilisateurs, profils et groupes dans Windows :
 
@@ -6,12 +11,14 @@ La gestion des utilisateurs, des profils et des groupes est essentielle dans les
 - [[Gestion des Comptes Utilisateurs avec Computer Management]]
 - [[Comptes utilisateurs locaux vs comptes utilisateurs de domaine]]
 - [[Types de comptes utilisateurs (administrateur, standard, invité)]]
+- *[[Exercices - Gestion des Utilisateurs dans Windows]]*
 
 ## Profils d'Utilisateurs
 - [[Qu'est-ce qu'un profil d'utilisateur]]
 - [[Gestion des profils utilisateur]]
 - [[Profils utilisateur locaux vs profils utilisateur itinérants]]
 - [[Personnalisation du profil utilisateur]]
+- *[[Exercices - Profils d'Utilisateurs dans Windows]]*
 
 ## Groupes dans Windows
 - [[Création de groupes d'utilisateurs]]

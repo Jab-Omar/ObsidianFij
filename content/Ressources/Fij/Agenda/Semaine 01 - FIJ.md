@@ -1,13 +1,12 @@
 ---
 tags:
-  - agenda
   - fij
-Début: 2023-09-06
-Fin: 2023-09-08
+  - agenda
+date: 2023-09-08
 ---
 
 ---
-## Mercredi 
+## Mercredi 06/09/2023
 ##### Outlook
 - Introduction au contenu du cours qui sera abordé en classe.
 - Apprendre à se connecter à l'ordinateur, à Microsoft teams, au serveur ssrv.
@@ -15,7 +14,7 @@ Fin: 2023-09-08
 ##### Mathématiques appliquées
 - Révision du matériel mathématique de base. (arithmétique de base, fractions et règle de PEMDAS). 
 ---
-## Jeudi
+## Jeudi 07/09/2023
 ##### Outlook
 - Créer une signature.
 - J'ai appris à envoyer des mails, à utiliser le dossier des contacts, le dossier des tâches, le dossier des réunions et le dossier des notes.
@@ -27,7 +26,7 @@ Fin: 2023-09-08
 - Démontage du PC.
 - Assemblage du PC.
 ---
-## Vendredi
+## Vendredi 08/09/2023
 ##### Windows
 - Discussion sur le test UAA2.
 - Introduction aux unités de mémoire 

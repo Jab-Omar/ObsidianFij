@@ -1,12 +1,11 @@
 ---
 tags:
-  - agenda
   - fij
-Début: 2023-10-02
-Fin: 2023-10-06
+  - agenda
+date: 2023-10-06
 ---
 ---
-## Lundi
+## Lundi 02/10/2023
 ##### Emploi
 - Nouvelle formatrice : Marie.
 - Présentations.
@@ -23,7 +22,7 @@ Fin: 2023-10-06
 
 ---
 
-## Mardi
+## Mardi 03/10/2023
 ##### Montage PC
 - Démontage des nouvelles tours.
 - Remontage.
@@ -36,7 +35,7 @@ Fin: 2023-10-06
 
 ---
 
-## Mercredi
+## Mercredi 04/10/2023
 ##### Outlook
 - Nouvelle feuille d'exercices : ex du 04 octobre 2023.
 ##### Math
@@ -46,12 +45,12 @@ Fin: 2023-10-06
 
 ---
 
-## Jeudi
+## Jeudi 05/10/2023
 - J'était absent.
 
 ---
 
-## Vendredi
+## Vendredi 06/10/2023
 ##### Windows
 - Théorie sur les permissions.
 - Labo sur les permissions.

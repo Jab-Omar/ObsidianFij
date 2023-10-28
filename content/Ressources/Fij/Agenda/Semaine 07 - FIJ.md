@@ -1,11 +1,11 @@
 ---
 tags:
+  - fij
   - agenda
-Début: 2023-10-16
-Fin: 2023-10-20
+date: 2023-10-20
 ---
 ---
-## Lundi
+## Lundi 16/10/2023
 ##### Emploi
 - Les droits et devoirs.
 - Les structures ou postuler.
@@ -18,7 +18,7 @@ Fin: 2023-10-20
 
 ---
 
-## Mardi
+## Mardi 17/10/2023
 ##### Montage Pc
 - La Ram 
 ##### Français
@@ -28,7 +28,7 @@ Fin: 2023-10-20
 
 ---
 
-## Mercredi
+## Mercredi 18/10/2023
 ##### Outlook
 - Exercice helpdesk sur les permissions.
 ##### Math
@@ -37,7 +37,7 @@ Fin: 2023-10-20
 
 ---
 
-## Jeudi
+## Jeudi 19/10/2023
 ##### Outlook
 - Nouvelle feuille : exercices sur OWA du 19 octobre 2023
 ##### Français
@@ -47,7 +47,7 @@ Fin: 2023-10-20
 
 ---
 
-## Vendredi
+## Vendredi 20/10/2023
 ##### Windows
 - Théorie sur les GPO.
 - TP sur les GPO.

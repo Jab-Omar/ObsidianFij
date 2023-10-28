@@ -1,6 +1,7 @@
 ---
 tags:
-  - index
+  - Windows
+date: 2023-10-29
 ---
 ## Gestion des Utilisateurs et des Profils
   - [[Index utilisateurs, profils et groupes dans Windows]]

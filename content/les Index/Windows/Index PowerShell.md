@@ -1,7 +1,5 @@
 ---
-tags:
-  - index
-  - "#PowerShell"
+tags: []
 ---
 ## Théorie
 - [[PowerShell Intro]]

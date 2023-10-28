@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-28
+---
 
 Dans un environnement Windows, il existe deux types principaux de comptes utilisateurs : les comptes utilisateurs locaux et les comptes utilisateurs de domaine. Chacun de ces types de comptes a ses propres caractéristiques et utilisations spécifiques.
 

@@ -1,7 +1,6 @@
 ---
 tags:
   - fij
-  - agenda
 date: 2023-10-20
 ---
 ---

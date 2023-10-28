@@ -1,6 +1,5 @@
 ---
-tags:
-  - index
+tags: []
 ---
 
 - [[Le Paragraphe A.E.I ( L’Incontournable de l’Argumentation )]]

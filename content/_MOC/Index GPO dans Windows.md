@@ -1,6 +1,5 @@
 ---
-tags:
-  - index
+tags: []
 aliases:
   - Politiques de Groupe (GPO)
   - GPO

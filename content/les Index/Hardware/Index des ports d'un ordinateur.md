@@ -1,6 +1,5 @@
 ---
-tags:
-  - index
+tags: []
 ---
 
 ## Les ports à connaître :

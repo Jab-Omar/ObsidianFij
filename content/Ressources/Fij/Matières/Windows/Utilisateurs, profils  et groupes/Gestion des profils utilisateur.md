@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-28
+---
 
 La gestion des profils utilisateur est une composante clé de l'administration des systèmes informatiques, notamment dans les environnements Windows. Elle englobe la création, la configuration, la sauvegarde et la gestion des profils d'utilisateur pour garantir une expérience informatique personnalisée et sécurisée. Voici un aperçu de la gestion des profils utilisateur :
 

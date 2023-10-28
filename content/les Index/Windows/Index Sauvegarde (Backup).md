@@ -1,6 +1,5 @@
 ---
-tags:
-  - index
+tags: []
 ---
 
 ##  Sauvegarde (Backup)

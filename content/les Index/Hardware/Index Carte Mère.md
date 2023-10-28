@@ -1,6 +1,5 @@
 ---
-tags:
-  - index
+tags: []
 ---
 
 ## Carte Mère

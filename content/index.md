@@ -4,12 +4,11 @@ title: FIJ TUI2023
 
 ## Cours
 
-#### [[Index Windows]]
-#### [[Index Hardware]]
-#### [[Index Emploi]]
-#### [[Index Anglais Fij]]
-
-#### [[Index Français]]
+- **[[Master Index Windows]]**
+- **[[Master Index Hardware]]**
+- **[[Master Index Emploi]]**
+- **[[Master Index Anglais Fij]]**
+- **[[Master Index Français]]**
 
 ---
 ## Agenda Hebdo
@@ -24,6 +23,6 @@ title: FIJ TUI2023
 
 |**Novembre**|
 |--------|
-|[[Semaine 09]]|
+|[[Semaine 09 - FIJ]]|
 
 ---

@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-28
+---
 
 Les profils utilisateur jouent un rôle essentiel dans l'expérience de l'utilisateur sous Windows. Il existe deux types principaux de profils utilisateur : les profils locaux et les profils itinérants. Comprendre la différence entre ces deux types est crucial pour une gestion efficace des utilisateurs dans un environnement Windows.
 

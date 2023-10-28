@@ -1,6 +1,5 @@
 ---
-tags:
-  - index
+tags: []
 ---
 
 L'informatique utilise une variété de bus pour la communication et le transfert de données entre les composants matériels. Voici une liste des principaux types de bus informatiques :

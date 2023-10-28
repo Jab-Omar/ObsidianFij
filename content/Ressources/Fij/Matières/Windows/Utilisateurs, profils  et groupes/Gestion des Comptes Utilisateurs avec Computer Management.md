@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-28
+---
 
 Les techniciens informatiques peuvent utiliser l'outil "Computer Management" (Gestion de l'ordinateur) pour gérer les comptes utilisateurs sur des systèmes Windows. Cet outil offre un contrôle avancé sur la gestion des comptes. Voici comment gérer les comptes utilisateurs avec "Computer Management" :
 

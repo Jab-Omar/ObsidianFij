@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-28
+---
 
 La personnalisation du profil utilisateur dans Windows permet d'adapter l'environnement de travail à vos besoins spécifiques. Voici comment personnaliser un profil utilisateur :
 

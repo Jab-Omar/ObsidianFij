@@ -1,6 +1,5 @@
 ---
-tags:
-  - index
+tags: []
 ---
 
 Index pour comprendre et gérer les services Windows. Les services sont des programmes en arrière-plan qui effectuent diverses tâches et fonctions essentielles pour le fonctionnement de votre système d'exploitation. Voici les principaux sujets liés aux services que vous pouvez explorer :

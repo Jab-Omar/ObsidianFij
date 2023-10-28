@@ -1,6 +1,6 @@
 ---
 tags:
-  - index
+  - Windows
 date: 2023-10-29
 ---
 
@@ -21,22 +21,21 @@ La gestion des utilisateurs, des profils et des groupes est essentielle dans les
 - *[[Exercices - Profils d'Utilisateurs dans Windows]]*
 
 ## Groupes dans Windows
-- [[Création de groupes d'utilisateurs]]
-- [[Ajout et suppression d'utilisateurs dans un groupe]]
-- [[Types de groupes (locaux, globaux, universels)]]
+- [[Groupes dans Windows]]
 - [[Stratégies de groupe basées sur les groupes]]
+- *[[Exercices -  Groupes dans Windows]]*
 
 ## Sécurité et Autorisations
 - [[Contrôle d'accès aux ressources]]
 - [[Permissions de fichiers et de dossiers]]
 - [[Utilisation des groupes pour simplifier la gestion des autorisations]]
 - [[Audits de sécurité pour les utilisateurs et les groupes]]
-
+- *[[Exercices - la Sécurité et les Autorisations]]*
 ## Interactions avec Active Directory
 - [[Intégration d'utilisateurs, profils et groupes dans un domaine Active Directory]]
 - [[Stratégies de groupe dans un environnement Active Directory]]
 - [[Utilisation d'outils d'administration Active Directory]]
-
+- [[Exercices - Interactions avec Active Directory]]
 ## Bonnes Pratiques et Astuces
 - [[Meilleures pratiques pour la gestion des utilisateurs et des groupes]]
 - [[Optimisation des profils d'utilisateurs]]

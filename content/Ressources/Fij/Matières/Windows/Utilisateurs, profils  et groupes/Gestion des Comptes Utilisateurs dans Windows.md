@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-28
+---
 
 La gestion des comptes utilisateurs est une tâche essentielle dans l'administration des systèmes Windows. Elle comprend la création de nouveaux comptes, la modification des paramètres des utilisateurs existants et la suppression des comptes inutiles. Voici un guide sur la gestion des comptes utilisateurs dans un environnement Windows :
 

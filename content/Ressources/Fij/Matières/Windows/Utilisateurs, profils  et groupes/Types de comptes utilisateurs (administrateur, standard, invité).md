@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-28
+---
 
 Windows propose différents types de comptes utilisateurs, chacun avec des privilèges et des autorisations spécifiques. Comprendre ces types de comptes est essentiel pour la gestion de l'accès aux ressources de l'ordinateur. Voici les principaux types de comptes utilisateurs :
 

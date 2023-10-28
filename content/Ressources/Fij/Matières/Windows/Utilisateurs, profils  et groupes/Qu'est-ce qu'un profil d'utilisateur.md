@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-28
+---
 
 Un profil d'utilisateur est un ensemble de données et de paramètres personnalisés associés à un compte utilisateur sur un système d'exploitation, tel que Windows. Il permet de stocker des informations spécifiques à chaque utilisateur, notamment les préférences de bureau, les paramètres d'application, les dossiers personnels et d'autres configurations individuelles.
 

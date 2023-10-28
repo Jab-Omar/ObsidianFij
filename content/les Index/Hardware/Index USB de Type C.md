@@ -1,6 +1,5 @@
 ---
-tags:
-  - index
+tags: []
 ---
 
 L'USB de Type C est une norme de connecteur universel qui a révolutionné la connectivité des appareils électroniques. Cette note servira d'index pour explorer divers aspects de l'USB de Type C, y compris ses caractéristiques, ses avantages, ses utilisations, et bien plus encore.

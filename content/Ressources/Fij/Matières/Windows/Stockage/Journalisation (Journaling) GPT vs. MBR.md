@@ -1,3 +1,9 @@
+---
+tags:
+  - Windows
+date: 2023-10-29
+---
+
 ## Introduction
 La journalisation, également connue sous le nom de journaling en anglais, est une technique utilisée dans les systèmes de fichiers et les structures de stockage pour améliorer la résilience des données et faciliter la récupération en cas de panne ou d'erreur. Les tables des partitions MBR (Master Boot Record) et GPT (GUID Partition Table) utilisent des mécanismes de journalisation pour différents niveaux de protection des données.
 

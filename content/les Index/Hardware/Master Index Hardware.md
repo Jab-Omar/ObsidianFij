@@ -9,7 +9,7 @@ tags: []
 - [[Index BIOS]]
 
 ## Stockage et Mémoire
-- [[Index File system et stockage]]
+- [[Gestion du Stockage et du Système de Fichiers]]
 - [[Index USB de Type C]]
 - [[Index SSD M.2]]
 - [[Index sur la mémoire informatique]]

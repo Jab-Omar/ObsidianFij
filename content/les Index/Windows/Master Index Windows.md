@@ -7,7 +7,7 @@ date: 2023-10-29
   - [[Index utilisateurs, profils et groupes dans Windows]]
 
 ## Gestion du Stockage et du Système de Fichiers
-  - [[Index File system et stockage]]
+  - [[Gestion du Stockage et du Système de Fichiers]]
   - [[Index Sauvegarde (Backup)]]
 
 ## Gestion des Autorisations et des Permissions

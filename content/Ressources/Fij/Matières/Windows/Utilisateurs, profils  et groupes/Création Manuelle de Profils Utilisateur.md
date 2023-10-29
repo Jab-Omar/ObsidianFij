@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-28
+---
 
 La création manuelle de profils utilisateur dans Windows permet aux administrateurs de personnaliser les paramètres spécifiques à chaque compte. Voici comment faire :
 

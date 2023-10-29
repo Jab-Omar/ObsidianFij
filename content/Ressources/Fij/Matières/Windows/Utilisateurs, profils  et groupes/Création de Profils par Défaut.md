@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-28
+---
 
 
 La création de profils par défaut dans Windows permet de définir des paramètres et des préférences qui seront appliqués à tous les nouveaux utilisateurs se connectant à un ordinateur. Voici comment procéder :

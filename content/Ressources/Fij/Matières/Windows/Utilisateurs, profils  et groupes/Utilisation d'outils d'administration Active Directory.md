@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-29
+---
 
 Active Directory est un service d'annuaire de Microsoft qui permet de gérer les ressources, les utilisateurs et les ordinateurs au sein d'un réseau Windows. Pour administrer un environnement Active Directory, il est essentiel de connaître et d'utiliser des outils d'administration dédiés. Voici un aperçu de certains des outils couramment utilisés pour administrer Active Directory :
 

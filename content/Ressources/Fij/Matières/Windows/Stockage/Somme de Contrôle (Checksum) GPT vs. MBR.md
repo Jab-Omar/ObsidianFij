@@ -1,3 +1,9 @@
+---
+tags:
+  - Windows
+date: 2023-10-29
+---
+
 ## Introduction
 La somme de contrôle, également appelée checksum en anglais, est une valeur numérique calculée à partir des données d'un fichier ou d'une structure de données. Elle est utilisée pour vérifier l'intégrité des données en comparant la somme de contrôle calculée avec une valeur préalablement enregistrée. Les tables des partitions MBR (Master Boot Record) et GPT (GUID Partition Table) utilisent des sommes de contrôle pour garantir la fiabilité des informations stockées sur les disques durs.
 

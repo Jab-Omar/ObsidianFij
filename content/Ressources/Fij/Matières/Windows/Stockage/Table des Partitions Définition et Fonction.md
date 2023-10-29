@@ -1,3 +1,9 @@
+---
+tags:
+  - Windows
+date: 2023-10-29
+---
+
 ## Introduction
 Une table des partitions est une structure de données essentielle utilisée pour organiser et gérer les partitions sur un disque dur ou un autre support de stockage. Elle sert de carte routière pour le stockage des données et permet au système d'exploitation d'identifier et d'accéder aux différentes partitions sur un disque.
 

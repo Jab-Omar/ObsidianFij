@@ -1,3 +1,9 @@
+---
+tags:
+  - Windows
+date: 2023-10-29
+---
+
 ## Introduction
 La fragmentation est un phénomène qui se produit sur les disques durs lorsque les fichiers sont stockés de manière non continue. Cela se produit au fil du temps lorsque des fichiers sont créés, modifiés et supprimés. La défragmentation est le processus de réorganisation des fichiers sur un disque dur afin de les rendre plus contigus et d'améliorer les performances du système.
 

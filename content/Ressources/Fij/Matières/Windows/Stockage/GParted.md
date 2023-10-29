@@ -1,3 +1,9 @@
+---
+tags:
+  - Windows
+date: 2023-10-29
+---
+
 **GParted**, ou Gnome Partition Editor, est un logiciel open-source de gestion de partitions pour systèmes Linux et autres systèmes d'exploitation basés sur Unix. Il fournit une interface graphique conviviale pour créer, supprimer, redimensionner, déplacer et gérer les partitions sur un disque dur ou tout autre support de stockage.
 
 ## Principales Fonctionnalités

@@ -1,3 +1,9 @@
+---
+tags:
+  - Windows
+date: 2023-10-29
+---
+
 ## Introduction
 Diskpart est une utilitaire en ligne de commande intégrée dans les systèmes d'exploitation Windows, conçue pour la gestion avancée des disques et des partitions. Il permet aux utilisateurs de réaliser des opérations de gestion de stockage, telles que la création, la suppression, le redimensionnement de partitions, ainsi que la configuration de disques durs.
 

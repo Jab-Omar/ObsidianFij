@@ -1,3 +1,9 @@
+---
+tags:
+  - Windows
+date: 2023-10-29
+---
+
 ## Introduction
 Les secteurs défectueux, souvent appelés "bad sectors" en anglais, sont des zones physiques endommagées ou défectueuses sur la surface d'un disque dur ou d'un autre support de stockage. Ces secteurs ne fonctionnent pas correctement et peuvent provoquer des problèmes de lecture ou d'écriture des données. Il est important de comprendre les types de secteurs défectueux et leur impact sur les disques durs.
 

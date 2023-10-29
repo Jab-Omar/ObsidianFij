@@ -1,3 +1,9 @@
+---
+tags:
+  - Windows
+date: 2023-10-29
+---
+
 ## Introduction
 Dans le domaine de la gestion du stockage informatique, une partition de disque est une division logique d'un disque dur physique en sections distinctes. Chaque partition agit comme un volume de stockage indépendant, avec son propre système de fichiers et sa propre lettre de lecteur (dans le cas de Windows). Les partitions permettent de mieux organiser et gérer l'espace de stockage d'un disque dur.
 

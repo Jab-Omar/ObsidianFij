@@ -1,3 +1,9 @@
+---
+tags:
+  - Windows
+date: 2023-10-29
+---
+
 ## 1. **Afficher des Informations**
 
 - `print devices`: Affiche la liste des disques disponibles.

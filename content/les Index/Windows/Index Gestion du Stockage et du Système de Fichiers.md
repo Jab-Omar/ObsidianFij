@@ -24,10 +24,12 @@ date: 2023-10-29
   - [[Secteurs Défectueux (Bad Sectors)]]
   - [[RAID (Redundant Array of Independent Disks)]]
   - [[Stockage en Réseau (NAS et SAN)]]
+  - *[[Exercices - Gestion des Stockages de Masse]]*
 
-## Outils de Gestion du Stockage
+## Outils de Gestion du Stockage de Masse
 - [[Diskpart Gestion des Disques et des Partitions en Ligne de Commande]]
 - [[GParted]]
 - [[Parted]]
   - [[Commandes Parted]]
 - [[Gestion du Stockage via PowerShell]]
+- *[[Exercices - Outils de Gestion du Stockage de Masse]]*

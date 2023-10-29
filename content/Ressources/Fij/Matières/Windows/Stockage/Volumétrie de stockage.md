@@ -1,3 +1,9 @@
+---
+tags:
+  - Windows
+date: 2023-10-29
+---
+
 ## Introduction
 Un volume de stockage, souvent simplement appelé "volume", est un espace de stockage logique sur un disque dur ou un autre support de stockage. Les volumes sont utilisés pour organiser et gérer les données de manière efficace. Ils sont essentiels pour stocker des fichiers, des applications et d'autres types de données sur un système informatique.
 ## Pourquoi Utiliser des Volumes ?

@@ -1,3 +1,9 @@
+---
+tags:
+  - Windows
+date: 2023-10-29
+---
+
 ## Introduction
 La gestion du stockage de masse fait référence à la gestion et à l'administration des dispositifs de stockage physiques et logiques, tels que les disques durs, les clés USB, les cartes mémoire et les volumes de stockage sur un système informatique. C'est une partie essentielle de l'administration des systèmes et de la gestion des données, permettant aux utilisateurs de stocker, organiser et accéder à leurs données de manière efficace.
 

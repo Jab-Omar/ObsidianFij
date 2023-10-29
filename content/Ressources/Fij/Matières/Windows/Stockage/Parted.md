@@ -1,3 +1,9 @@
+---
+tags:
+  - Windows
+date: 2023-10-29
+---
+
 **Parted** est un utilitaire en ligne de commande open-source de gestion de partitions pour systèmes Linux et autres systèmes d'exploitation basés sur Unix. Il offre des fonctionnalités similaires à GParted, mais contrairement à GParted, qui est une application avec une interface graphique, Parted est une application en ligne de commande qui s'exécute dans un terminal.
 
 ## Principales Fonctionnalités

@@ -1,3 +1,9 @@
+---
+tags:
+  - Windows
+date: 2023-10-29
+---
+
 ## Introduction
 PowerShell offre un ensemble puissant de cmdlets pour gérer les disques et les partitions sur un système Windows. Vous pouvez effectuer diverses opérations de gestion, notamment la modification de lettres de lecteur, la réduction et l'extension de partitions, la création et la suppression de partitions, le formatage, la vérification de l'intégrité et de la fragmentation des partitions, la défragmentation, ainsi que le nettoyage de l'espace disque.
 

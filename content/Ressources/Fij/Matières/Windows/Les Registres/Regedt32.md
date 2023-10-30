@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 **Regedt32**, également connu sous le nom d'"Éditeur du Registre" dans les versions plus anciennes de Windows, est un utilitaire intégré dans le système d'exploitation Windows pour la gestion du registre. C'est une version améliorée de l'éditeur du registre standard (Regedit), offrant des fonctionnalités avancées pour la gestion du registre. Voici ce que vous devez savoir sur Regedt32 :
 

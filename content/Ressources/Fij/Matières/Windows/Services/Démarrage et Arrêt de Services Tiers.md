@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 La gestion du démarrage et de l'arrêt des services tiers dans Windows est cruciale pour optimiser les performances et la stabilité du système. Les services tiers, bien qu'utiles, peuvent également devenir une source de ralentissement ou de problèmes si leur démarrage n'est pas géré correctement. Voici ce que vous devez savoir sur le démarrage et l'arrêt de services tiers :
 

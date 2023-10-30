@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 Dans le contexte de la sécurité informatique, il existe une distinction essentielle entre l'antivirus client et la console de gestion. Cette différence repose sur leurs rôles et leurs fonctions dans une solution de sécurité globale. Comprendre cette distinction est crucial pour maintenir un environnement informatique sûr. Voici ce qu'il faut savoir :
 

@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Windows
+---
 
 Les Autorisations de Service dans Windows font référence aux autorisations et aux droits accordés à un service Windows pour lui permettre d'interagir avec le système d'exploitation et les ressources. Comprendre et gérer correctement ces autorisations est essentiel pour garantir la sécurité et le bon fonctionnement de votre système. Voici ce que vous devez savoir à leur sujet :
 

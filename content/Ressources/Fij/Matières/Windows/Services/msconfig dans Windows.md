@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 L'outil msconfig, abréviation de "Microsoft System Configuration Utility", est une application intégrée à Windows qui permet aux utilisateurs de gérer divers aspects de la configuration du système, y compris le démarrage des services et des programmes. Cet outil est utile pour optimiser les performances et résoudre les problèmes de démarrage. Voici comment utiliser msconfig efficacement :
 

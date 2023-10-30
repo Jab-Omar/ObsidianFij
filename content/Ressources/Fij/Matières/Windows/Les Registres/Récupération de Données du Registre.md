@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 La récupération de données du registre est une tâche courante dans l'administration système Windows. Elle consiste à extraire des informations spécifiques à partir des clés et des valeurs du registre pour diverses raisons, notamment la résolution de problèmes, la configuration des systèmes, la maintenance, et bien d'autres. Voici quelques points importants à prendre en compte :
 

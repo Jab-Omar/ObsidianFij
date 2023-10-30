@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 MSConfig, ou Microsoft System Configuration Utility, est un outil intégré à Windows qui permet de configurer le démarrage du système en sélectionnant les services et les programmes qui seront exécutés au démarrage de l'ordinateur. Cela peut aider à optimiser les performances et à résoudre les problèmes de démarrage. Voici comment configurer le démarrage avec MSConfig de manière efficace :
 

@@ -1,3 +1,9 @@
+---
+date: 2023-10-30
+tags:
+  - Windows
+---
+
 Les Services de Démarrage Manuel sont un type de service Windows qui ne démarre pas automatiquement lorsque vous démarrez votre ordinateur, mais qui peut être démarré manuellement lorsque nécessaire. Ils offrent une flexibilité accrue pour gérer les fonctions du système d'exploitation et des applications. Voici ce que vous devez savoir à leur sujet :
 
 ## Caractéristiques des Services de Démarrage Manuel

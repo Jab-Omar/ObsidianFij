@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 La gestion des services tiers dans Windows est essentielle pour maintenir un système d'exploitation stable, sécurisé et performant. Les services tiers, qui sont développés par des éditeurs de logiciels indépendants, peuvent ajouter des fonctionnalités utiles, mais ils nécessitent une gestion proactive pour éviter les problèmes. Voici ce que vous devez savoir sur la gestion des services tiers :
 

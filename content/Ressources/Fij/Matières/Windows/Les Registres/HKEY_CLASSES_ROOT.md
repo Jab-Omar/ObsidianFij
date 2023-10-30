@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 **HKEY_CLASSES_ROOT** est l'une des principales clés de registre dans le système d'exploitation Windows. Cette clé joue un rôle essentiel dans l'association des fichiers, des extensions de fichiers et des programmes. Elle contient des informations sur les types de fichiers, les extensions et les applications associées. Voici un aperçu des principales sous-clés et des données stockées dans **HKEY_CLASSES_ROOT** :
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 PowerShell est un puissant outil de gestion en ligne de commande dans Windows, et il offre une variété de commandes pour gérer les services Windows. Vous pouvez utiliser PowerShell pour démarrer, arrêter, suspendre, reprendre, configurer, obtenir des informations et gérer les dépendances entre les services. Voici comment ajouter et supprimer des dépendances entre les services :
 

@@ -1,3 +1,9 @@
+---
+date: 2023-10-30
+tags:
+  - Windows
+---
+
 # Dépannage des Services dans Windows
 
 Le dépannage des services dans Windows est une compétence essentielle pour résoudre les problèmes liés à la gestion des services système. Lorsque les services ne fonctionnent pas correctement, cela peut entraîner des dysfonctionnements du système ou d'applications. Voici ce que vous devez savoir pour dépanner efficacement les services Windows :

@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 **HKEY_USERS** est une des principales clés de registre dans le système d'exploitation Windows. Cette clé contient des informations sur les profils d'utilisateurs du système. Chaque utilisateur qui se connecte à un système Windows dispose d'un profil utilisateur unique, et ces profils sont stockés dans **HKEY_USERS**. Voici un aperçu des principales sous-clés et des données stockées dans **HKEY_USERS** :
 

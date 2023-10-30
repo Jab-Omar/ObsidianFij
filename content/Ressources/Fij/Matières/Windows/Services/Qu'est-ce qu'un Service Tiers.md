@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 Dans l'environnement Windows, un service tiers fait référence à un service ou à un processus qui n'est pas développé ni fourni par Microsoft. Ces services sont généralement créés par des éditeurs de logiciels tiers ou des développeurs indépendants. Comprendre les services tiers est important pour maintenir la sécurité, la stabilité et les performances de votre système d'exploitation.
 

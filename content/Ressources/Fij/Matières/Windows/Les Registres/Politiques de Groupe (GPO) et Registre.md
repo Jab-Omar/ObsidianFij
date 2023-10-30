@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 Les Politiques de Groupe (GPO) sont un ensemble d'outils de gestion utilisés dans les systèmes Windows pour définir des paramètres, des configurations et des restrictions pour les utilisateurs et les ordinateurs dans un environnement réseau. Le registre Windows joue un rôle essentiel dans la mise en œuvre des GPO, car de nombreuses configurations de GPO sont stockées dans le registre. Voici ce que vous devez savoir sur la relation entre les GPO et le registre :
 

@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Windows
+---
 
 Les services Windows jouent un rôle essentiel dans le fonctionnement du système d'exploitation, mais ils peuvent également avoir un impact significatif sur les performances de l'ordinateur. Il est important de gérer judicieusement les services pour maintenir un système rapide et réactif. Voici ce que vous devez savoir sur les services Windows et leur impact sur la performance :
 

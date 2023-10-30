@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 **HKEY_CURRENT_USER** est une des principales clés de registre dans le système d'exploitation Windows. Contrairement à **HKEY_LOCAL_MACHINE**, qui stocke des données système globales, **HKEY_CURRENT_USER** est spécifique à chaque utilisateur. Cette clé contient des informations liées à la configuration et aux préférences de l'utilisateur actuellement connecté sur le système. Voici un aperçu des principales sous-clés et des données stockées dans **HKEY_CURRENT_USER** :
 

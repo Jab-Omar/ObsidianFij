@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 Le **Gestionnaire de Stratégie de Sécurité Locale (Local Security Policy Manager)**, souvent abrégé sous le nom **secpol.msc**, est un outil de gestion intégré dans les systèmes d'exploitation Windows qui permet de configurer des paramètres de sécurité au niveau local. Il est principalement utilisé pour gérer la sécurité des ordinateurs individuels ou des systèmes non inclus dans un domaine Windows Active Directory. Voici ce que vous devez savoir sur le Gestionnaire de Stratégie de Sécurité Locale :
 

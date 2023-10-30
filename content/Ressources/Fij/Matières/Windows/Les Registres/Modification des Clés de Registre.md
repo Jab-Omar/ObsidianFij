@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 La modification des clés de registre est une tâche importante dans le contexte de Windows. Les clés de registre contiennent des informations essentielles pour la configuration du système, les préférences des utilisateurs, les associations de fichiers, les pilotes de périphériques et bien plus encore. Il est crucial de comprendre comment modifier les clés de registre de manière appropriée et sécurisée. Voici quelques points clés à considérer :
 

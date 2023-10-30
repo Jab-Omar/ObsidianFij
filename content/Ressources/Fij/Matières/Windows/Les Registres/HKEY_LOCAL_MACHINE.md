@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 **HKEY_LOCAL_MACHINE** est l'une des principales clés de registre dans le système d'exploitation Windows. Cette clé contient des informations essentielles liées à la configuration matérielle et logicielle du système. Voici un aperçu des principales sous-clés et des données stockées dans **HKEY_LOCAL_MACHINE** :
 

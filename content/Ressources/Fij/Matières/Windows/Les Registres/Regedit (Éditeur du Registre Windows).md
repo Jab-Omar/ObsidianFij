@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 **Regedit** est l'abréviation de "Registry Editor" ou "Éditeur du Registre" en français. Il s'agit d'un outil intégré à Windows qui permet d'accéder et de modifier les entrées du registre du système. Le registre est une base de données hiérarchique utilisée par Windows pour stocker des informations de configuration, des paramètres système, des préférences utilisateur et bien plus encore. Voici ce que vous devez savoir sur Regedit :
 

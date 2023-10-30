@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 La sauvegarde et la restauration du registre Windows sont des pratiques essentielles pour la gestion de systèmes stables et la prévention de problèmes liés au registre. Le registre contient des informations cruciales pour le fonctionnement du système, et une sauvegarde adéquate peut vous aider à éviter des situations indésirables. Voici ce que vous devez savoir :
 

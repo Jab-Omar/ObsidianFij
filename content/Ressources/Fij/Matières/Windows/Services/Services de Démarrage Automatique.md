@@ -1,3 +1,9 @@
+---
+date: 2023-10-30
+tags:
+  - Windows
+---
+
 Les Services de Démarrage Automatique sont un type de service Windows qui démarre automatiquement lorsque vous démarrez votre ordinateur. Ces services sont essentiels au fonctionnement de votre système d'exploitation et de vos applications. Voici ce que vous devez savoir à leur sujet :
 
 ## Caractéristiques des Services de Démarrage Automatique

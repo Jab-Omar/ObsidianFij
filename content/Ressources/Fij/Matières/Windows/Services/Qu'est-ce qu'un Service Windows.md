@@ -1,3 +1,9 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
+
 Un Service Windows est un programme en arrière-plan qui s'exécute de manière autonome sur un système d'exploitation Windows, sans nécessiter d'interaction directe de la part de l'utilisateur. Les Services Windows sont conçus pour effectuer des tâches essentielles au fonctionnement du système d'exploitation et des applications, qu'il s'agisse de fonctions de gestion, de sécurité, de réseau, ou d'autres services essentiels.
 
 ## Caractéristiques Principales des Services Windows

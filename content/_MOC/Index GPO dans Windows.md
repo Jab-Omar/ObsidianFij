@@ -8,7 +8,7 @@ aliases:
 Les Group Policy Objects (GPO) sont un composant essentiel de la gestion des systèmes Windows. Ils permettent de définir des paramètres de configuration, des stratégies de sécurité et d'autres directives pour les ordinateurs et utilisateurs au sein d'un environnement Windows. Voici un index pour explorer les aspects liés aux GPO :
 
 ## Introduction aux GPO
-- [[Qu'est-ce qu'une GPO ?]]
+- [[Qu'est-ce qu'une GPO]]
 - [[Utilité des GPO]]
 - [[Application des GPO]]
 

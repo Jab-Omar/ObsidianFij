@@ -1,3 +1,8 @@
+---
+tags:
+  - Windows
+date: 2023-10-30
+---
 
 **HKEY_CURRENT_CONFIG** est une des principales clés de registre dans le système d'exploitation Windows. Cette clé contient des informations sur la configuration matérielle actuelle du système, y compris les pilotes de périphériques et les paramètres matériels. Voici un aperçu des principales sous-clés et des données stockées dans **HKEY_CURRENT_CONFIG** :
 

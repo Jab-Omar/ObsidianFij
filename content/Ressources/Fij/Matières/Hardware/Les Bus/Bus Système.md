@@ -1,3 +1,8 @@
+---
+tags:
+  - Hardware
+date: 2023-10-30
+---
 
 Le bus système est un composant fondamental de tout ordinateur. Il s'agit du principal moyen de communication entre le processeur, la mémoire et d'autres composants essentiels de la carte mère. Comprendre le bus système est essentiel pour appréhender le fonctionnement interne d'un ordinateur. Voici ce que vous devez savoir sur le bus système :
 

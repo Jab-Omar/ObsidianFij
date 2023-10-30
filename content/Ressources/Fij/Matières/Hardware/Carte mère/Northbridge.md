@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 ## Définition
 Le Northbridge est un composant essentiel d'une carte mère d'ordinateur, faisant partie du chipset. Il est responsable de la gestion des communications à haute vitesse entre le processeur central (CPU), la mémoire vive (RAM) et d'autres composants essentiels du système.

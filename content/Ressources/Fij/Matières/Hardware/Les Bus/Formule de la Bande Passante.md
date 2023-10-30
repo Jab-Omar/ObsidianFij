@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La bande passante d'un bus informatique est une mesure importante de sa capacité à transférer des données rapidement. La bande passante est calculée en fonction de la largeur du bus et de sa fréquence. Voici la formule de la bande passante et ce que vous devez savoir à ce sujet :
 

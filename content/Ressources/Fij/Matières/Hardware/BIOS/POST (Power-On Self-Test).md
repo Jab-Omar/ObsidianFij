@@ -1,3 +1,9 @@
+---
+tags:
+  - Hardware
+date: 2023-10-30
+---
+
 ## Introduction
 Le POST, ou Power-On Self-Test, est une série de tests automatisés effectués par l'ordinateur ou l'appareil électronique au moment de sa mise sous tension (allumage). Cette procédure est essentielle pour vérifier que le matériel de l'appareil fonctionne correctement avant que le système d'exploitation ou le logiciel principal ne soit chargé.
 

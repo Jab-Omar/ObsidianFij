@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 ## Définition
 Le Direct Media Interface (DMI) est une interface de communication haute vitesse utilisée dans les ordinateurs, en particulier sur les cartes mères, pour établir une connexion directe entre le processeur central (CPU) et le chipset. Cette interface joue un rôle crucial dans la transmission rapide des données entre ces composants essentiels.

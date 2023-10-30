@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 L'USB de Type C et Thunderbolt 3 sont deux technologies de connectivité qui utilisent le même connecteur physique, mais qui offrent des performances et des fonctionnalités différentes. Voici une comparaison entre l'USB de Type C et Thunderbolt 3 :
 

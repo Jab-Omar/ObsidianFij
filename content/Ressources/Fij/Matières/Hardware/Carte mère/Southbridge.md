@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 ## Définition
 Le Southbridge est une composante importante du chipset d'une carte mère d'ordinateur. Il remplit un rôle essentiel dans la gestion des fonctions d'entrée/sortie (E/S) et de la connectivité des périphériques, ce qui permet à l'ordinateur de communiquer avec une grande variété de composants externes.

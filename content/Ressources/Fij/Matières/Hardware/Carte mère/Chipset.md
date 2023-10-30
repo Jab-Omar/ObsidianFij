@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 ## Définition 
 Un chipset est un ensemble de circuits intégrés (IC) ou de puces conçus pour gérer et contrôler le flux de données entre les différents composants et périphériques d'un ordinateur ou d'un appareil électronique. Les chipsets jouent un rôle essentiel dans le fonctionnement efficace et coordonné d'un système informatique en facilitant la communication et le transfert de données entre les différents composants matériels. 

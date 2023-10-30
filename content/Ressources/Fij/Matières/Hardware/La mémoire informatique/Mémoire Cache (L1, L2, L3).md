@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La mémoire cache est un composant clé de l'architecture d'un processeur qui joue un rôle essentiel dans l'optimisation des performances. Elle agit comme un tampon entre la mémoire principale (RAM) et le processeur, en stockant temporairement des données fréquemment utilisées pour un accès plus rapide. Il existe généralement trois niveaux de mémoire cache : L1, L2 et L3. Voici un aperçu de leur fonctionnement et de leur utilité :
 

@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 L'USB de Type C, ou USB-C, est un connecteur polyvalent qui a trouvé sa place dans de nombreuses applications différentes en raison de ses caractéristiques avancées. Voici quelques-unes des utilisations courantes de l'USB de Type C :
 

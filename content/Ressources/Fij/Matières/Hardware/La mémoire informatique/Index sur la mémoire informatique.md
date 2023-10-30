@@ -1,3 +1,9 @@
+---
+tags:
+  - Hardware
+date: 2023-10-30
+---
+
 ## Mémoire Vive (RAM - Random Access Memory)
 
 - [[Fonctionnement de la RAM]]
@@ -51,5 +57,4 @@
 - [[Histoire et évolution des technologies de mémoire]]
 - - [[NVRAM (Non-Volatile RAM)]]
 	- [[MRAM (Magnetic RAM)]]
-	
 

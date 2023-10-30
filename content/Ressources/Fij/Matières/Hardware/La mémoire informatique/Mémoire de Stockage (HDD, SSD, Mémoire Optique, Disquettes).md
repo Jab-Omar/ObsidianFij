@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La mémoire de stockage englobe une variété de technologies utilisées pour stocker des données de manière permanente ou temporaire. Parmi ces technologies, on trouve les disques durs (HDD), les disques SSD (Solid-State Drive), la mémoire optique, ainsi que les disquettes. Chacune de ces technologies a ses caractéristiques et ses utilisations spécifiques. Voici un aperçu de leur fonctionnement et de leur utilité :
 

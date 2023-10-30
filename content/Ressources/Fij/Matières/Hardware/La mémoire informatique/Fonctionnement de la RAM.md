@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La RAM (Random Access Memory) est un composant essentiel de tout ordinateur, permettant de stocker temporairement les données nécessaires pour les opérations en cours. Comprendre son fonctionnement est essentiel pour optimiser les performances de votre système.
 

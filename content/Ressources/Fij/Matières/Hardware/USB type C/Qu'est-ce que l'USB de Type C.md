@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 L'USB de Type C, également connu sous le nom d'USB-C, est un standard de connecteur universel qui a révolutionné la connectivité des appareils électroniques. Cette technologie offre de nombreuses fonctionnalités et avantages par rapport aux connecteurs USB précédents, tels que l'USB-A ou l'USB-B. Voici ce que vous devez savoir sur l'USB de Type C :
 

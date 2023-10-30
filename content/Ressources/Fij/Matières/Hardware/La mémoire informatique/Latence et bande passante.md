@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La latence et la bande passante sont deux aspects cruciaux de la mémoire RAM (Random Access Memory) qui ont un impact significatif sur les performances de l'ordinateur.
 

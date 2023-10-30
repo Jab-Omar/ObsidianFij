@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La MRAM, ou Magnetic RAM, est une forme avancée de mémoire informatique qui repose sur des propriétés magnétiques pour stocker des données. Elle présente des caractéristiques uniques qui en font une technologie de mémoire prometteuse. Voici un aperçu de son fonctionnement et de son utilité :
 

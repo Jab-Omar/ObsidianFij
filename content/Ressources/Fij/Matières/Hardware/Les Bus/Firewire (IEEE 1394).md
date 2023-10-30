@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 Le Firewire, également connu sous le nom d'IEEE 1394, est un bus haute vitesse principalement utilisé pour les caméscopes et les appareils audio. Voici ce que vous devez savoir sur le Firewire :
 

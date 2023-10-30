@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La NVRAM, ou Non-Volatile RAM, est une catégorie de mémoire informatique qui combine les caractéristiques de la mémoire RAM (Random Access Memory) et de la mémoire non volatile, ce qui en fait une technologie polyvalente. Elle est conçue pour conserver les données même en l'absence d'alimentation électrique. Voici un aperçu de son fonctionnement et de son utilité :
 

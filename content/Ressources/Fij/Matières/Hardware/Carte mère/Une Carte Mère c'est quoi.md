@@ -1,3 +1,9 @@
+---
+tags:
+  - Hardware
+date: 2023-10-30
+---
+
 ## Définition 
 Une carte mère, également appelée carte principale ou carte système, est un composant fondamental d'un ordinateur. Il s'agit d'un grand circuit imprimé rectangulaire qui sert de plaque tournante pour la connexion et l'intégration de divers composants matériels et périphériques. La carte mère joue un rôle essentiel dans la fonctionnalité et la communication de ces composants, permettant à l'ordinateur de fonctionner efficacement. 
 ## Principaux composants et caractéristiques 
@@ -19,21 +25,21 @@ Une carte mère, également appelée carte principale ou carte système, est un 
 - Le chipset est un ensemble de circuits intégrés sur la carte mère qui contrôlent et gèrent le flux de données entre les différents composants, y compris le CPU, la RAM et les périphériques. 
 ### Batterie CMOS 
 - Une petite batterie CMOS (Complementary Metal-Oxide-Semiconductor) sur la carte mère préserve les paramètres BIOS/UEFI et l'heure du système même lorsque l'ordinateur est éteint. 
-### [[Bus ]]
+### [[Index des Bus Informatiques|Bus]]
 - Le bus est une voie de communication qui relie divers composants matériels de la carte mère. 
 ### [[Northbridge]] 
 - Le Northbridge est un composant du chipset responsable de la communication à grande vitesse entre le CPU, la RAM et la carte graphique. 
 ### [[Southbridge]] 
 - Le Southbridge est un autre composant du chipset qui gère les fonctions de communication et d'E/S à faible vitesse. 
-### [[FSB (Front Side Bus)]] 
+### FSB (Front Side Bus)
 - Le bus frontal est une voie de données qui relie le processeur à la mémoire et à d'autres composants. 
 ### [[DMI (Direct Media Interface)]] 
 - La DMI est une interconnexion à grande vitesse entre l'unité centrale et le chipset. 
-### [[Communication parallèle]] 
+### [[Connectivité Parallèle]]
 - La communication parallèle fait référence à la transmission de données en utilisant simultanément plusieurs lignes de données. 
-### [[Communication série]] 
+### [[Connectivité Série]] 
 - La communication série fait référence à la transmission de données utilisant une seule ligne de données de manière séquentielle. 
-### [[Schéma block d'une Carte mère]] 
+### [[Schéma Bloc d'une Carte Mère]] 
 - Représentation visuelle de la manière dont les composants de la carte mère sont connectés et interagissent. 
 ## Fonctions 
 La carte mère remplit plusieurs fonctions essentielles : 

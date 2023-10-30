@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 Un bus informatique est un élément essentiel de tout système informatique. Il s'agit d'un ensemble de câbles, de pistes ou de connexions électriques qui permettent la communication entre les différents composants matériels d'un ordinateur. Les bus servent de voies de données, de contrôle et d'adresse, permettant aux composants tels que le processeur, la mémoire, les périphériques de stockage et les périphériques d'entrée/sortie de travailler ensemble de manière coordonnée.
 

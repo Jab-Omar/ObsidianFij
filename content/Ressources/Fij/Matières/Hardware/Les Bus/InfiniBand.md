@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 
 InfiniBand est un bus de réseau utilisé pour les communications à haute vitesse dans les centres de données. Voici un aperçu de ce qu'est InfiniBand et de son utilisation :

@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La mémoire flash est largement utilisée pour le stockage de données en raison de ses avantages en termes de rapidité, de compacité et de faible consommation d'énergie. Cependant, il est important de comprendre sa durabilité et les cycles d'écriture pour une utilisation efficace. Voici ce que vous devez savoir :
 

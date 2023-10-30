@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La mémoire virtuelle est une technique utilisée par les systèmes d'exploitation pour gérer la mémoire physique (RAM) de manière plus efficace en simulant une mémoire plus grande que la RAM réelle disponible. Elle permet d'exécuter des applications qui pourraient ne pas tenir entièrement en mémoire physique. Voici un aperçu de son fonctionnement et de son utilité :
 

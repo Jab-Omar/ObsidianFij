@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 Dans l'évolution constante de l'informatique, de nombreuses technologies de bus obsolètes ont été utilisées dans les ordinateurs plus anciens. Ces technologies ont joué un rôle essentiel dans le développement de l'informatique moderne. Voici quelques-unes de ces technologies :
 

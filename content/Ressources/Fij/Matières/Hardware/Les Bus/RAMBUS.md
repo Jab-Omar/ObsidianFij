@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 RAMBUS était un ancien bus mémoire à haute vitesse conçu pour améliorer les performances des systèmes informatiques en augmentant la vitesse de transfert de données entre la mémoire et le processeur. Voici ce que vous devez savoir sur le RAMBUS :
 

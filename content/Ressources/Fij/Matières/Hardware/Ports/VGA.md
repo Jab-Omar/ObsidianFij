@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 ## Introduction
 Le VGA, ou Video Graphics Array, est une norme de connectivité vidéo analogique qui a été largement utilisée dans le passé pour la transmission de signaux vidéo entre des ordinateurs et des moniteurs. Il a été développé par IBM en 1987 et a été l'une des premières normes d'affichage pour les ordinateurs personnels.
 

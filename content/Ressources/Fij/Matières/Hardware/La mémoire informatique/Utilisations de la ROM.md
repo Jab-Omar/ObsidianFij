@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La ROM, abréviation de Read-Only Memory, est un type de mémoire informatique dont le contenu est préenregistré en usine et ne peut pas être modifié ou effacé par l'utilisateur. La ROM est utilisée dans divers contextes pour stocker des données permanentes et des instructions. Voici un aperçu des utilisations courantes de la ROM.
 

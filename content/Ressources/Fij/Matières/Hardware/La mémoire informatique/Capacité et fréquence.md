@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La RAM (Random Access Memory) d'un ordinateur est caractérisée par deux aspects importants : sa capacité et sa fréquence. Ces facteurs jouent un rôle clé dans la performance et la capacité d'un système informatique.
 

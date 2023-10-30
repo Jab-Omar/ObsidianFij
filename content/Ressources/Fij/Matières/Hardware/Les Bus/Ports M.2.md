@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 Les ports M.2 sont devenus populaires dans le monde de l'informatique, en particulier pour l'installation de SSD (Solid-State Drive). Ils offrent une solution compacte et haute performance pour le stockage et d'autres fonctionnalités. Voici ce que vous devez savoir sur les ports M.2 :
 

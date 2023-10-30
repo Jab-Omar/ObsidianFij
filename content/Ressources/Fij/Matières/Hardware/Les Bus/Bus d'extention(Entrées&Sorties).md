@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 Les bus d'extension d'entrées/sorties jouent un rôle crucial dans la connectivité des périphériques d'entrée et de sortie, tels que les claviers, les souris, les imprimantes et d'autres appareils, avec l'ordinateur. Ils permettent à ces périphériques de communiquer de manière efficace avec le système. Voici ce que vous devez savoir sur les bus d'extension d'entrées/sorties :
 

@@ -1,3 +1,9 @@
+---
+tags:
+  - Hardware
+date: 2023-10-30
+---
+
 ## Introduction
 Le BIOS, ou Basic Input/Output System, est un logiciel intégré dans la carte mère d'un ordinateur. Il joue un rôle essentiel au démarrage de l'ordinateur et dans la configuration matérielle de base. Le BIOS est l'une des premières étapes du processus de démarrage d'un ordinateur.
 

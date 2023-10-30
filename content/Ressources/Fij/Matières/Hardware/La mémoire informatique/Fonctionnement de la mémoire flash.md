@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La mémoire flash est un type de mémoire non volatile utilisée pour stocker des données dans de nombreux dispositifs électroniques, tels que les clés USB, les disques SSD, les cartes mémoire, et même les smartphones. Comprendre son fonctionnement est essentiel pour apprécier son utilisation. Voici les principes de base du fonctionnement de la mémoire flash :
 

@@ -1,3 +1,9 @@
+---
+tags:
+  - Hardware
+date: 2023-10-30
+---
+
 ## Introduction
 Le CMOS, ou Complementary Metal-Oxide-Semiconductor, est une technologie de fabrication de semi-conducteurs utilisée pour créer des composants électroniques, notamment des circuits intégrés, des processeurs, et plus particulièrement, la puce CMOS du BIOS d'un ordinateur.
 

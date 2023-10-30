@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 
 L'installation d'un SSD M.2 est généralement simple et peut être réalisée par la plupart des utilisateurs, que ce soit pour une mise à niveau ou pour l'installation d'un nouvel appareil. Voici les étapes de base pour installer un SSD M.2 :

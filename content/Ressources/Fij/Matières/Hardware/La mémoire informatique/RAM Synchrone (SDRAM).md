@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La RAM synchrone, abrégée SDRAM (Synchronous Dynamic Random Access Memory), est un type de mémoire RAM qui a apporté des améliorations significatives par rapport à la mémoire RAM dynamique (DRAM) traditionnelle. Elle est largement utilisée dans les ordinateurs et autres appareils électroniques. Voici un aperçu de la SDRAM.
 

@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 L'histoire de la mémoire informatique est marquée par une évolution constante, caractérisée par des avancées technologiques majeures. Depuis les premiers ordinateurs jusqu'à nos jours, la mémoire a joué un rôle central dans le stockage et l'accès aux données. Cette note explore l'histoire et l'évolution des technologies de mémoire informatique :
 

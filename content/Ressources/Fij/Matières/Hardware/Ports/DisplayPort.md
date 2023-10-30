@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 ## Introduction
 Le DisplayPort est une norme de connectivité audio et vidéo largement utilisée dans le domaine de l'informatique et de l'affichage numérique. Il a été développé pour répondre aux besoins de transmission de signaux haute résolution et haute qualité, en particulier pour les écrans d'ordinateur, les moniteurs, les téléviseurs et d'autres périphériques d'affichage.
 

@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 L'USB, ou Universal Serial Bus, est un bus commun utilisé pour connecter divers périphériques à un ordinateur. Voici ce que vous devez savoir sur l'USB :
 

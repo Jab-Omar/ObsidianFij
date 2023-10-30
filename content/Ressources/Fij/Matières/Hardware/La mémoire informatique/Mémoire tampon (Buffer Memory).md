@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La mémoire tampon, également appelée "buffer memory" en anglais, est une zone de stockage temporaire utilisée pour stocker des données en transit entre deux composants ou périphériques. Elle joue un rôle essentiel dans le maintien de l'efficacité et de la fluidité des opérations de transfert de données. Voici un aperçu de son fonctionnement et de son utilité :
 

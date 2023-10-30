@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La largeur en bits d'un bus informatique est une caractéristique essentielle qui détermine la quantité de données qu'il peut transférer simultanément. Cette caractéristique est cruciale pour évaluer la capacité de transfert de données d'un bus. Voici ce que vous devez savoir sur la largeur en bits d'un bus informatique :
 

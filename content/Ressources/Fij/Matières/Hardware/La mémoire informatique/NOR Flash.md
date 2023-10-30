@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La NOR Flash est un autre type de mémoire flash utilisée pour le stockage de données, souvent dans des applications où la fiabilité, la vitesse de lecture et l'accès aléatoire aux données sont essentiels. Voici un aperçu de la NOR Flash :
 

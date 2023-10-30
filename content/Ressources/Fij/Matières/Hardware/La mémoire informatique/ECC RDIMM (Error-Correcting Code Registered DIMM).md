@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 Les modules de mémoire ECC RDIMM, abréviation d'Error-Correcting Code Registered Dual In-Line Memory Module, sont un type de module de mémoire RAM utilisé dans les serveurs et les systèmes informatiques où la fiabilité, la correction d'erreurs de mémoire et la gestion de la mémoire sont essentielles. Les ECC RDIMMs sont conçus pour offrir des performances stables et une correction d'erreurs avancée. Voici un aperçu des ECC RDIMMs.
 

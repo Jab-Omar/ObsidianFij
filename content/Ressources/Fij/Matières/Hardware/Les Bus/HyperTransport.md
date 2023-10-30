@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 HyperTransport est un bus utilisé principalement pour la communication entre le processeur et le chipset. Voici ce que vous devez savoir sur HyperTransport :
 

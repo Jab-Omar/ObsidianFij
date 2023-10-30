@@ -1,3 +1,9 @@
+---
+tags:
+  - Hardware
+date: 2023-10-30
+---
+
 ## Introduction
 Flasher le BIOS d'un ordinateur consiste à mettre à jour le micrologiciel du BIOS. Cette opération est parfois nécessaire pour bénéficier de nouvelles fonctionnalités, corriger des problèmes de compatibilité matérielle ou améliorer la sécurité. Cependant, elle comporte des risques potentiels, et il est essentiel de suivre des étapes précises pour réussir la mise à jour.
 

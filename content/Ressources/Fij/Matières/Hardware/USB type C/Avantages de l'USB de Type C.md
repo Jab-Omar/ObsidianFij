@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 L'USB de Type C, également connu sous le nom d'USB-C, présente de nombreux avantages qui en ont fait un standard de connecteur universel de choix pour de nombreux appareils électroniques. Voici quelques-uns des principaux avantages de l'USB de Type C :
 

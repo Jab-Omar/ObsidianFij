@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La mémoire graphique, également connue sous le nom de VRAM (Video Random Access Memory) en anglais, est une forme de mémoire spécialement conçue pour stocker et gérer les données graphiques utilisées par une carte graphique. Elle joue un rôle essentiel dans l'affichage des images, des vidéos et des éléments visuels sur un écran d'ordinateur. Voici un aperçu de son fonctionnement et de son utilité :
 

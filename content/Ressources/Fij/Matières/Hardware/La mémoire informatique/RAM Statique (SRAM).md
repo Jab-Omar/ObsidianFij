@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La RAM statique, abrégée SRAM (Static Random Access Memory), est un type de mémoire RAM qui se distingue de la RAM dynamique (DRAM) par ses caractéristiques de stockage de données et de fonctionnement. Voici un aperçu de la RAM statique (SRAM).
 

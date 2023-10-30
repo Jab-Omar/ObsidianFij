@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - Hardware
+date: 2023-10-30
 ---
 
 L'informatique utilise une variété de bus pour la communication et le transfert de données entre les composants matériels. Voici une liste des principaux types de bus informatiques :
@@ -86,6 +88,3 @@ L'informatique utilise une variété de bus pour la communication et le transfer
 
 - [[Hot-Plug]] : La capacité de connecter ou de déconnecter des périphériques sans éteindre l'ordinateur, souvent utilisée avec des ports USB.
 
-## 10. Images et Bonus
-
-![[PC slots.jpg]]

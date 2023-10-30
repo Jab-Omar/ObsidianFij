@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 ## Introduction
 Le port PS/2 est un connecteur informatique utilisé pour connecter des périphériques d'entrée tels que les claviers et les souris à un ordinateur. Il tire son nom du système PS/2 développé par IBM, qui a introduit ce type de port dans les années 1980.
 

@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 Le SAS, abréviation de Serial Attached SCSI, est un bus de stockage en série principalement utilisé pour les applications professionnelles et de serveur. Voici ce que vous devez savoir sur le SAS :
 

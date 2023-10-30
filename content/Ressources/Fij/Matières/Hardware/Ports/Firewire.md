@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 ## Introduction
 FireWire, également connu sous le nom d'IEEE 1394, est une norme de connectivité développée pour la transmission rapide de données entre périphériques électroniques, notamment les ordinateurs, les caméscopes, les disques durs externes et d'autres équipements multimédias. FireWire a été initialement créé par Apple dans les années 1990, puis standardisé par l'Institute of Electrical and Electronics Engineers (IEEE).
 

@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 Lorsque vous choisissez un SSD pour votre système, vous devez souvent décider entre les SSD NVMe (Non-Volatile Memory Express) et les SSD SATA (Serial ATA). Voici une comparaison des deux pour vous aider à prendre une décision éclairée :
 

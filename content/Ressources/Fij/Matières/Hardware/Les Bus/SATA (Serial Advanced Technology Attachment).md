@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 Le SATA, ou Serial Advanced Technology Attachment, est un bus de stockage en série largement utilisé pour les disques durs et les SSD (Solid State Drives). Voici ce que vous devez savoir sur le SATA :
 

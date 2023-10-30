@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 MCA, ou Micro Channel Architecture, était un bus d'extension propriétaire développé principalement par IBM dans les années 1980. Il a été conçu comme une alternative à l'ISA (Industry Standard Architecture) pour les ordinateurs personnels IBM PS/2. Voici ce que vous devez savoir sur le MCA :
 

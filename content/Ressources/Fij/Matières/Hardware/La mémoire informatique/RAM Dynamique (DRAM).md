@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La RAM dynamique, abrégée DRAM (Dynamic Random Access Memory), est l'un des types les plus courants de mémoire RAM utilisés dans les ordinateurs. Elle présente des caractéristiques uniques et est essentielle pour le stockage temporaire de données. Voici un aperçu de la RAM dynamique (DRAM).
 

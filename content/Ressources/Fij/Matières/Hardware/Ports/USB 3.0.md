@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 ## Introduction
 L'USB 3.0, également connu sous le nom de SuperSpeed USB, est une norme de connectivité largement utilisée pour la transmission de données entre des périphériques et des ordinateurs. Il s'agit d'une évolution majeure par rapport à l'USB 2.0, offrant des vitesses de transfert de données beaucoup plus rapides et une meilleure efficacité énergétique.
 

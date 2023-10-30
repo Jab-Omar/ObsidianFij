@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - Hardware
+date: 2023-10-30
 ---
 
 ## Composants Essentiels
@@ -10,6 +12,6 @@ tags: []
 
 ## Stockage et Mémoire
 - [[Index Gestion du Stockage et du Système de Fichiers]]
+- - [[Index sur la mémoire informatique]]
 - [[Index USB de Type C]]
 - [[Index SSD M.2]]
-- [[Index sur la mémoire informatique]]

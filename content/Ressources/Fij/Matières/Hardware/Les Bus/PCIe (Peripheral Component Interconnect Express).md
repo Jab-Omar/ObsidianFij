@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 PCIe, ou Peripheral Component Interconnect Express, est un bus d'extension moderne qui a succédé au PCI. Il est utilisé pour diverses cartes d'extension, y compris les cartes graphiques et les SSD. Voici ce que vous devez savoir sur le PCIe :
 

@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 Les modules de mémoire DIMM, abréviation de Dual In-Line Memory Module, sont un type courant de module de mémoire RAM utilisé dans les ordinateurs de bureau standard, les serveurs, et d'autres systèmes informatiques. Ils se caractérisent par leur format rectangulaire et leur capacité à stocker plusieurs puces de mémoire. Voici un aperçu des DIMMs.
 

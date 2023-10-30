@@ -1,3 +1,8 @@
+---
+date: 2023-10-30
+tags:
+  - Hardware
+---
 
 La mémoire Optane, également connue sous le nom de 3D XPoint (prononcé "cross-point"), est une technologie de mémoire non volatile développée par Intel et Micron. Elle se situe entre la mémoire vive (RAM) et le stockage traditionnel (disques durs ou SSD) en termes de performances et de caractéristiques. Voici un aperçu de la mémoire Optane :
 

@@ -1,57 +1,79 @@
 
-Le présent simple est un temps grammatical de base en anglais qui est souvent utilisé pour décrire des actions habituelles, des vérités générales, des routines et des faits permanents. Il est relativement simple à former et à comprendre.
+# Le présent simple
 
-## Formation
+## 1. Rappel :
 
-La formation du présent simple varie en fonction du sujet du verbe. Voici comment le former pour les verbes réguliers :
+Le présent simple se forme en ajoutant un **-S** à la **troisième personne du singulier** **(he / she / it)**. Les **autres personnes** sont **identiques** à la **base verbale**.
 
-### Affirmative :
-- Pour la plupart des verbes, ajoutez simplement "s" à la troisième personne du singulier (he, she, it).
+_Exemples :_
 
-    Exemple : 
-    - I eat (Je mange)
-    - She eats (Elle mange)
+|   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|
+||**WALK**|**GO**|**WATCH**|**CRY**|**PLAY**|
+|I|walk|go|watch|cry|play|
+|You|walk|go|watch|cry|play|
+|He/She/It|walks|goes|watches|cries|plays|
+|We|walk|go|watch|cry|play|
+|You|
+|They|
 
-- Pour les verbes se terminant par "s", "x", "sh", "ch" ou "o", ajoutez "es" à la troisième personne du singulier.
+Pour les verbes se terminant par :<br><br>- **-O** : on ajoute la **terminaison -ES** à la troisième personne du singulier<br>- **- consonne + -Y** : le **Y se transforme en I et on ajoute la terminaison -ES**<br>- **-CH ou -X ou -SH :**  on ajoute également la **terminaison -ES** à la troisième personne du singulier|
 
-    Exemple :
-    - He passes (Il passe)
-    - It goes (Ça va)
+## 2. Les questions :
 
-### Négative :
-- Utilisez "do not" (ou sa forme contractée "don't") pour la plupart des sujets, suivis du verbe à l'infinitif sans "to".
 
-    Exemple :
-    - I do not eat (Je ne mange pas)
-    - She does not eat (Elle ne mange pas)
+Les questions au présent simple se forment selon le schéma suivant :
 
-### Interrogative :
-- Utilisez "do" ou "does" (en fonction du sujet) suivi du sujet, puis du verbe à l'infinitif sans "to".
+|   |
+|---|
+|**- DO/DOES + SUJET + VERBE + COMPLÉMENT(S)**<br><br>**- MOT INTERROGATIF + DO/DOES + SUJET + VERBE + COMPLÉMENT(S) (sauf who)**|
 
-    Exemple :
-    - Do you eat? (Manges-tu ?)
-    - Does she eat? (Mange-t-elle ?)
+_Exemples :_  Do you ever go to the swimming pool? / When do you go to the swimming pool?  
 
-## Utilisation
+## 3. La forme négative :
 
-Le présent simple est utilisé dans les situations suivantes :
+Il suffit de rajouter **DO NOT (= DON'T)** ou **DOES NOT (=DOESN'T)** entre le sujet et le verbe
 
-1. **Actions habituelles :** Pour décrire des actions qui se répètent régulièrement.
+_Exemples :_ I don't like liars but it doesn't mean that I never lie !  
 
-    Exemple : I walk to work every day. (Je vais au travail à pied tous les jours.)
+**4. Les auxiliaires :**  
 
-2. **Vérités générales :** Pour décrire des faits universels ou des vérités éternelles.
+|   |   |   |   |
+|---|---|---|---|
+||**BE  <br>**|**HAVE  <br>**|**DO  <br>**|
+|I|am|have|do|
+|You|are|have|do|
+|He / She / It|is|has|does|
+|We|are|have|do|
+|You|
+|They|
 
-    Exemple : The Earth revolves around the sun. (La Terre tourne autour du soleil.)
+## 5. Utilisation :
 
-3. **Routines :** Pour décrire les étapes d'une routine quotidienne.
-
-    Exemple : She wakes up at 6 AM, brushes her teeth, and has breakfast. (Elle se réveille à 6 heures, se brosse les dents et prend son petit-déjeuner.)
-
-4. **Faits permanents :** Pour décrire des caractéristiques permanentes ou des états.
-
-    Exemple : He speaks Spanish fluently. (Il parle couramment l'espagnol.)
-
-## Conclusion
-
-Le présent simple est un temps essentiel en anglais pour décrire des actions et des situations qui se produisent régulièrement, des vérités générales et des états permanents. Il est relativement facile à former et à utiliser une fois que vous comprenez les règles de base.
+1. **Habitudes et routines :** Le présent simple est couramment utilisé pour décrire des actions habituelles, des routines, ou des faits généraux. Par exemple :
+    
+    - She goes to the gym every morning. (Elle va à la salle de sport tous les matins.)
+    - I usually eat lunch at noon. (Je déjeune généralement à midi.)
+    - Water boils at 100 degrees Celsius. (L'eau bout à 100 degrés Celsius.)
+2. **Vérités universelles :** Il est utilisé pour décrire des vérités universelles ou des faits généraux qui sont toujours vrais. Par exemple :
+    
+    - The Earth orbits the Sun. (La Terre orbite autour du Soleil.)
+    - Birds fly. (Les oiseaux volent.)
+3. **Commentaires sur les médias, les livres, les films, etc. :** Le présent simple est employé pour donner des avis ou des commentaires sur des œuvres artistiques et médiatiques.
+    
+    - The movie is interesting. (Le film est intéressant.)
+    - This book tells a great story. (Ce livre raconte une superbe histoire.)
+4. **Verbes d'état (State Verbs) :** Certains verbes, appelés verbes d'état, sont utilisés au présent simple pour décrire des états plutôt que des actions. Par exemple :
+    
+    - She **likes** chocolate. (Elle **aime** le chocolat.)
+    - He **knows** the answer. (Il **connaît** la réponse.)
+5. **Instructions, ordres et emplois du temps :** On utilise le présent simple pour donner des instructions, des ordres, ou pour indiquer un emploi du temps. Par exemple :
+    
+    - You **turn** left at the corner. (Tu **tournes** à gauche au coin.)
+    - The train **departs** at 9 AM. (Le train **départ** à 9 heures du matin.)
+6. **Commentaires sportifs :** Le présent simple est souvent utilisé pour commenter des événements sportifs en direct.
+    
+    - He **shoots** and scores! (Il **tire** et marque !)
+7. **Journalisme :** Dans les reportages journalistiques, le présent simple est couramment utilisé pour rendre les informations actuelles plus immédiates.
+    
+    - The President **announces** a new policy. (Le président **annonce** une nouvelle politique.)

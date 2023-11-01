@@ -88,7 +88,7 @@ Les distributions peuvent être basées sur le gestionnaire de packages RPM ou D
 
 - **Bibliothèques partagées (Shared Libraries) :** Les bibliothèques partagées utilisées par les programmes sont stockées dans des répertoires tels que `/lib` ou `/usr/lib`.
 
-![[linuxDirectories.png|]]
+![[linuxDirectories.png]]
 
 Linux est un système d'exploitation polyvalent avec une riche histoire et une grande variété d'applications. La compréhension de la hiérarchie des répertoires est essentielle pour travailler efficacement en DevOps et en administration système.
 

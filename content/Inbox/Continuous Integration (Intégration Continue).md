@@ -5,7 +5,7 @@ date: 2023-10-31
 ---
 # Continuous Integration (Intégration Continue)
 
-La Continuous Integration (CI) est un processus fondamental en DevOps qui vise à garantir un développement logiciel fluide, efficace et de haute qualité. Elle repose sur l'intégration constante et automatisée des modifications apportées par les développeurs dans un environnement partagé. La CI s'appuie sur plusieurs principes clés pour atteindre ces objectifs.
+Continuous Integration (CI) est un processus fondamental en DevOps qui vise à garantir un développement logiciel fluide, efficace et de haute qualité. Elle repose sur l'intégration constante et automatisée des modifications apportées par les développeurs dans un environnement partagé. La CI s'appuie sur plusieurs principes clés pour atteindre ces objectifs.
 
 ## Principes Fondamentaux de la CI
 

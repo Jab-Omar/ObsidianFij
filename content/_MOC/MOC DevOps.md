@@ -14,9 +14,8 @@ date: 2023-10-31
 ## Configuration de Machines Virtuelles
 
 - [[Comprendre la Virtualisation]]
-- [[Introduction aux Machines Virtuelles]]
-- [[Création Manuelle de VMs]]
-- [[Automatisation de la Création de VMs]]
+- [[Automatisation de la Création de VM avec Vagrant]]
+- [[Exercices - Automatisation de la Création de VM avec Vagrant]]
 
 ## Linux
 

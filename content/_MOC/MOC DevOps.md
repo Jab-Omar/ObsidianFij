@@ -4,6 +4,7 @@ tags:
 date: 2023-10-31
 ---
 # Table des matières - Formation DevOps
+[Roadmap](https://roadmap.sh/devops)
 
 ## Introduction
 
@@ -15,7 +16,7 @@ date: 2023-10-31
 
 - [[Comprendre la Virtualisation]]
 - [[Automatisation de la Création de VM avec Vagrant]]
-	*[[Exercices - Automatisation de la Création de VM avec Vagrant]]*
+	- *[[Exercices - Automatisation de la Création de VM avec Vagrant]]*
 
 
 ## Linux
@@ -30,6 +31,9 @@ date: 2023-10-31
 	- [[Vimtutor - Apprendre Vim en Pratiquant]]
 	- [[Alternatives à Vim - Explorer les Éditeurs de Texte pour Linux]]
 - [[Types de Fichiers sur Linux]]
+	-  *[[Exercices - Types de Fichiers sur Linux]]*
+---
+
 - [[Filtrage de Données sur Linux]]
 - [[Redirections sur Linux]]
 - [[Gestion des Utilisateurs et Groupes sur Linux]]

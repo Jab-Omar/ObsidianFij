@@ -23,7 +23,7 @@ La CI repose sur les principes suivants :
 
 - **Objectif de la CI :** La CI a pour objectif de détecter et de résoudre les problèmes dès leur apparition, ce qui réduit les coûts et les retards de correction.
 
-![[CIDevOps.webp]]
+![[CIDevOps.jpg]]
 
 ## Outils et Technologies de la CI
 

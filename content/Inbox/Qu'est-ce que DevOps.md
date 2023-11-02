@@ -11,7 +11,7 @@ Le DevOps est une approche de développement logiciel qui vise à combler le fos
 
 Le SDLC comprend plusieurs phases, telles que le développement, les tests, la livraison, le déploiement et la maintenance. Différents modèles de développement, tels que le modèle en cascade (Waterfall), Agile, Spiral, Big Bang, etc., définissent comment ces phases sont organisées. Chaque modèle a ses avantages et ses inconvénients, et le choix dépend du budget, du temps et du niveau de risque.
 
-![[SDLC.webp]]
+![[SDLCDevOps.png]]
 ## Le Défi d'Agile SDLC pour l'Ops
 
 L'approche Agile du SDLC met un stress particulier sur l'équipe Ops. Les changements fréquents de code, de déploiement et de tests, parfois plusieurs fois par itération, sollicitent considérablement l'équipe Ops. Les demandes de déploiement sont fréquentes, et il n'y a souvent pas d'instructions claires. Cela crée des retards et des tensions entre les équipes Dev et Ops.

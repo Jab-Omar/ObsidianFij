@@ -15,14 +15,20 @@ date: 2023-10-31
 
 - [[Comprendre la Virtualisation]]
 - [[Automatisation de la Création de VM avec Vagrant]]
-- [[Exercices - Automatisation de la Création de VM avec Vagrant]]
+	*[[Exercices - Automatisation de la Création de VM avec Vagrant]]*
+
 
 ## Linux
 
 - [[Introduction à Linux]]
-- [[Commandes et Système de Fichiers Linux]]
-- [[Commandes Avancées sur Linux (mkdir, cp, mv, touch, etc)]]
+- [[Structure des Répertoires Linux]]
+- [[Symboles et Notions Clés en Linux]]
+- [[Commandes Gestion de Fichiers]]
+	- *[[Exercices - Commandes de Gestion de Fichiers et de Répertoires sous Linux]]*
+	- *[[Projet - Gestion de Fichiers et de Répertoires sous Linux]]*
 - [[Utilisation de l'Éditeur Vim]]
+	- [[Vimtutor - Apprendre Vim en Pratiquant]]
+	- [[Alternatives à Vim - Explorer les Éditeurs de Texte pour Linux]]
 - [[Types de Fichiers sur Linux]]
 - [[Filtrage de Données sur Linux]]
 - [[Redirections sur Linux]]

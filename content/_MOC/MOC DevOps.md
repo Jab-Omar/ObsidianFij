@@ -35,6 +35,8 @@ date: 2023-10-31
 ---
 
 - [[Filtrage de Données sur Linux]]
+	- [[Filtrage Avancé avec des Wildcarts]]
+	- *[[Exercices Faciles - Filtrage de Données sur Linux]]*
 - [[Redirections sur Linux]]
 - [[Gestion des Utilisateurs et Groupes sur Linux]]
 - [[Gestion des Permissions de Fichiers sur Linux]]

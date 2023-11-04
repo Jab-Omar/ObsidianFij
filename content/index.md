@@ -14,7 +14,8 @@ title: FIJ TUI2023
 ## Notes Perso
 
 - [[MOC DevOps]]
-
+- [[Prompts pour optimiser son apprentissage]]
+- [[Mon annuaire de sites]]
 ---
 ## Agenda Hebdo
 

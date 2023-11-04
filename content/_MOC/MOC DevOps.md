@@ -32,11 +32,10 @@ date: 2023-10-31
 	- [[Alternatives à Vim - Explorer les Éditeurs de Texte pour Linux]]
 - [[Types de Fichiers sur Linux]]
 	-  *[[Exercices - Types de Fichiers sur Linux]]*
----
-
 - [[Filtrage de Données sur Linux]]
 	- [[Filtrage Avancé avec des Wildcarts]]
 	- *[[Exercices Faciles - Filtrage de Données sur Linux]]*
+	- *[[Exercices de Filtrage de Données sous Linux]]*
 - [[Redirections sur Linux]]
 - [[Gestion des Utilisateurs et Groupes sur Linux]]
 - [[Gestion des Permissions de Fichiers sur Linux]]

@@ -13,9 +13,10 @@ title: FIJ TUI2023
 ---
 ## Notes Perso
 
-- [[MOC DevOps]]
+- **[[MOC DevOps]]**
 - [[Prompts pour optimiser son apprentissage]]
 - [[Mon annuaire de sites]]
+- [[Progression OvertheWire privé]]
 ---
 ## Agenda Hebdo
 
@@ -30,5 +31,6 @@ title: FIJ TUI2023
 |**Novembre**|
 |--------|
 |[[Semaine 09 - FIJ]]|
+|[[Semaine 10 - FIJ]]|
 
 ---

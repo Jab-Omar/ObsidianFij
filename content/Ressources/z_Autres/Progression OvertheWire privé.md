@@ -1,5 +1,5 @@
 ---
-draft: "True"
+draft: "False"
 date: 2023-11-06
 ---
 
@@ -16,3 +16,5 @@ bandit6 - P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
 pour bandit6 ne pas oublier de 2 > /dev/null 
 `find / -user bandit7 -group bandit6 -size 33c 2> /dev/null` ok ?
+
+![[corrupted ai.gif]]

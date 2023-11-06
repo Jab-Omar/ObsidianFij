@@ -22,3 +22,11 @@ date: 2023-10-29
 ## Stratégies de Groupe (GPO)
   - [[Index GPO dans Windows]]
 
+## Les Tâches Planifiées
+- [[Index Les Tâches Planifiées (Task Scheduler)]]
+
+
+---
+##### projets
+
+1. Je dois encore Élaborer une note sur les outils couramment utilisés dans Windows, tels que la Console de gestion Microsoft (MMC), l'Observateur d'événements, les Services, le Gestionnaire de disques, les objets de stratégie de groupe (GPO), le Registre, et bien d'autres

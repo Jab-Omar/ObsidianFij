@@ -16,7 +16,7 @@ title: FIJ TUI2023
 - **[[MOC DevOps]]**
 - [[Prompts pour optimiser son apprentissage]]
 - [[Mon annuaire de sites]]
-- [[Progression OvertheWire privé]]
+- [[Progression OverTheWire privé]]
 ---
 ## Agenda Hebdo
 

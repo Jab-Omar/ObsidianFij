@@ -44,3 +44,5 @@ date: 2023-11-06
 	- Exercices en groupe.
 	- Création de 5 phrases. 
 ##### Communication
+- Arnaud est venu présenter l'espacit, et introduire les 2 prochains cours de communication
+- L'estime de soi.

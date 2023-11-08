@@ -46,3 +46,13 @@ date: 2023-11-06
 ##### Communication
 - Arnaud est venu présenter l'espacit, et introduire les 2 prochains cours de communication
 - L'estime de soi.
+
+---
+## Mercredi 08/11/2023
+
+##### Word
+- Presentations
+- Exercices sur La mise en forme des paragraphes et sur l'allignement.
+- Exercices sur l'allignement des paragraphes.
+- Exercice mise en forme d'un texte brut.
+##### Outlook

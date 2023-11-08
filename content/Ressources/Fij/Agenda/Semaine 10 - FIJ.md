@@ -44,16 +44,16 @@ date: 2023-11-06
 	- Exercices en groupe.
 	- Création de 5 phrases. 
 ##### Communication
-- Arnaud est venu présenter l'espacit, et introduire les 2 prochains cours de communication
+- Arnaud est venu présenter l'Espacit, et introduire les 2 prochains cours de communication
 - L'estime de soi.
 
 ---
 ## Mercredi 08/11/2023
 
 ##### Word
-- Presentations
-- Exercices sur La mise en forme des paragraphes et sur l'allignement.
-- Exercices sur l'allignement des paragraphes.
+- Présentations
+- Exercices sur La mise en forme des paragraphes et sur l'alignement.
+- Exercices sur l'alignement des paragraphes.
 - Exercice mise en forme d'un texte brut.
 ##### Outlook
 - Exercice sur les protocoles : Trouver les numéros de ports + acronymes.
@@ -61,6 +61,6 @@ date: 2023-11-06
 ##### Mathématiques 
 - La notation scientifique.
 - La notation ingénieur.
-- Théorie sur le calcul literal. 
+- Théorie sur le calcul littéral. 
  ---
  

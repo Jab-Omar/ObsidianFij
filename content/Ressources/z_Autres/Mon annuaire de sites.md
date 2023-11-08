@@ -6,7 +6,6 @@ date: 2023-11-06
 - [linuxsurvival](https://linuxsurvival.com/)
 - [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 - [hackerrank](https://www.hackerrank.com/domains/shell)
-- 
 ## Apprentissage Développement 
 
 - [**W3Schools**](https://www.w3schools.com/) est un site web populaire qui propose des tutoriels et des ressources éducatives pour l'apprentissage du développement web, de la programmation, des langages de balisage (comme HTML, CSS) et des langages de programmation (comme JavaScript, Python, etc.). Il est largement utilisé comme une ressource de référence pour les développeurs web et ceux qui souhaitent apprendre la création de sites web et la programmation.

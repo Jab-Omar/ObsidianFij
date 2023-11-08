@@ -4,7 +4,7 @@ tags:
 date: 2023-11-06
 ---
 ---
-## Mercredi 06/11/2023
+## Lundi 06/11/2023
 
 ##### Emploi
 - Les compétences.
@@ -33,3 +33,34 @@ date: 2023-11-06
 - Règle : Dans une subordonnée de temps, jamais le futur mais le présent.
 - Construction de 3 phrases en anglais au futur simple.
 ---
+## Mardi 07/11/2023
+
+##### Hardware
+- Retour d'évalutaion.
+- Tp installation windows + Pilotes(drivers)
+	- Il faut être particulièrement attentif au pilotes pour le display.
+##### Français
+- Distinguer un fait, une opinion, un sentiment. 
+	- Exercices en groupe.
+	- Création de 5 phrases. 
+##### Communication
+- Arnaud est venu présenter l'espacit, et introduire les 2 prochains cours de communication
+- L'estime de soi.
+
+---
+## Mercredi 08/11/2023
+
+##### Word
+- Presentations
+- Exercices sur La mise en forme des paragraphes et sur l'allignement.
+- Exercices sur l'allignement des paragraphes.
+- Exercice mise en forme d'un texte brut.
+##### Outlook
+- Exercice sur les protocoles : Trouver les numéros de ports + acronymes.
+- Correction de l'exercice.
+##### Mathématiques 
+- La notation scientifique.
+- La notation ingénieur.
+- Théorie sur le calcul literal. 
+ ---
+ 

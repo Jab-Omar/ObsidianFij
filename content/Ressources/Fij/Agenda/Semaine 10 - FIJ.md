@@ -56,3 +56,11 @@ date: 2023-11-06
 - Exercices sur l'allignement des paragraphes.
 - Exercice mise en forme d'un texte brut.
 ##### Outlook
+- Exercice sur les protocoles : Trouver les numéros de ports + acronymes.
+- Correction de l'exercice.
+##### Mathématiques 
+- La notation scientifique.
+- La notation ingénieur.
+- Théorie sur le calcul literal. 
+ ---
+ 

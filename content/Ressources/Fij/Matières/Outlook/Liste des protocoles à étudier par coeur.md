@@ -11,7 +11,7 @@ date: 2023-11-08
    - *Port* : 443
    - *Explication* : HTTPS est une version sécurisée de HTTP qui chiffre les données échangées entre le navigateur et le serveur web, assurant ainsi la confidentialité et l'intégrité des informations.
 
-3. **POP3 (Post Office Protocol version 3)**
+3. **[[POP3 (Post Office Protocol version 3)]]**
    - *Port* : 110
    - *Explication* : POP3 est un protocole utilisé pour récupérer des e-mails à partir d'un serveur de messagerie. Il permet de télécharger les e-mails du serveur vers le client.
 

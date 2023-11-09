@@ -2,4 +2,6 @@
 tags: 
 date: 2023-11-08
 ---
-[[Liste des protocoles à étudier par coeur]]
+## Les protocoles pour le mailing
+
+- [[Liste des protocoles à étudier par coeur]]

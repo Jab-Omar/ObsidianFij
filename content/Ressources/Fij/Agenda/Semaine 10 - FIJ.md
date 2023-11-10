@@ -85,3 +85,13 @@ date: 2023-11-06
 ---
 
 ## Vendredi 10/11/2023
+##### Word
+- Exercices du cours 2.
+##### Windows
+- Evaluation et correction collective.
+- Retour d'évaluation.
+##### Anglais
+- Traduire des phrases en anglais vers le français.
+- 
+
+---

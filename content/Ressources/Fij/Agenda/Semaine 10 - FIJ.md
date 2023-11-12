@@ -92,6 +92,5 @@ date: 2023-11-06
 - Retour d'évaluation.
 ##### Anglais
 - Traduire des phrases en anglais vers le français.
-- 
 
 ---

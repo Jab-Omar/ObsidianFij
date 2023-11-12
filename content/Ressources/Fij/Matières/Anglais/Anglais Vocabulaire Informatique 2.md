@@ -8,11 +8,11 @@ date: 2023-11-10
 | **Customer**       | Client                   |
 | **Laptop**       | Ordinateur Portable                    |
 | **Intranet**         | L'intranet                    |
-| **The acess**        | l'accés                  |
+| **The acess**        | L'accés                  |
 | **The staff**         | Le personel                    |
-| **The team**        | l'équipe                  |
+| **The team**        | L'équipe                  |
 | **The clients**        | Les clients                  |
-| **Connection**       | connexion                  |
+| **Connection**       | Connexion                  |
 
 
 

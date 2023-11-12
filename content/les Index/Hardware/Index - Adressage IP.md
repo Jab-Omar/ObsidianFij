@@ -13,7 +13,7 @@ date: 2023-11-09
 ## IPv4
 - [[Structure d'une adresse IPv4]]
 - [[Classes d'adresses IPv4]]
-- [[Adresses IP Privées et Publiques]
+- [[Adresses IP Privées et Publiques]]
 - [[CIDR (Classless Inter-Domain Routing)]]
 - [[Adresses IPv4 Réservées]]
 

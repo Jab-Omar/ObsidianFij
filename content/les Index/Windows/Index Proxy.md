@@ -3,6 +3,6 @@ tags:
   - Windows
 date: 2023-11-13
 ---
-- Cache
-- adresse privée
-- 
+
+1. [[C'est quoi un proxy]]
+2. 

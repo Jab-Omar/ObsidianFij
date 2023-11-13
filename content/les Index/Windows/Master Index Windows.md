@@ -26,7 +26,7 @@ date: 2023-10-29
 - [[Index Les Tâches Planifiées (Task Scheduler)]]
 
 ## Proxy et les adds-on
-- [[Index Proxy et les adds-on]]
+- [[Index Proxy]]
 
 
 

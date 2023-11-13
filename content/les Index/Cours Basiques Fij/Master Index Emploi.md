@@ -14,3 +14,5 @@ date: 2023-10-30
 - [[Hard skills vs soft skills]]
 - [[Ikigai]]
 - [[Les Valeurs]]
+
+## Semaine 4

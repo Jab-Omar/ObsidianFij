@@ -34,4 +34,4 @@ date: 2023-10-29
 ---
 ##### projets
 
-1. Je dois encore Élaborer une note sur les outils couramment utilisés dans Windows, tels que la Console de gestion Microsoft (MMC), l'Observateur d'événements, les Services, le Gestionnaire de disques, les objets de stratégie de groupe (GPO), le Registre, et bien d'autres
+1. Je dois encore Élaborer une note sur les outils couramment utilisés dans Windows, tels que la Console de gestion Microsoft (MMC), l'Observateur d'événements, les Services, le Gestionnaire de disques, les objets de stratégie de groupe (GPO), le Registre, Task scheduler, et bien d'autres

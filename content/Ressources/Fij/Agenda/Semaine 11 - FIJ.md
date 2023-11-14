@@ -25,4 +25,14 @@ date: 2023-11-12
 ##### Français
 - Prof Absent.
 ##### Communication
-- 
+- Définir la captologie.
+- Vidéos sur la captologie.
+
+---
+
+## Mercredi 15/11/2023
+##### Outlook 
+- Prof en formation.
+##### Word
+
+ 

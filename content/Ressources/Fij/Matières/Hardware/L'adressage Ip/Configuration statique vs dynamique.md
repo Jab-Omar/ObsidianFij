@@ -21,7 +21,7 @@ La configuration des paramètres réseau, tels que les adresses IP, peut être e
 ## Configuration Dynamique
 
 ### Avantages :
-1. **Automatisation :** Les paramètres sont attribués automatiquement par un serveur DHCP.
+1. **Automatisation :** Les paramètres sont attribués automatiquement par un serveur [[DHCP (Dynamic Host Configuration Protocol)|DHCP]].
 2. **Évolutivité :** Idéal pour des réseaux en constante évolution.
 3. **Réduction des Erreurs :** Moins de risques d'erreurs humaines liées à la configuration manuelle.
 

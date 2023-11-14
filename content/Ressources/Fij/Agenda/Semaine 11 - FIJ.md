@@ -13,4 +13,11 @@ date: 2023-11-12
 - Exercices cours 7.
 - Nouvelles fonctions.
 ##### Anglais
-- 
+- Théorie sur l'utilisation du Présent dans les Subordonnées de Temps en Anglais
+
+---
+
+## Mardi 14/11/2023
+
+##### Montage Pc
+- Rappel Théorie sur l'adressage IP.

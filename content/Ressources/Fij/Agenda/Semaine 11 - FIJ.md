@@ -21,3 +21,4 @@ date: 2023-11-12
 
 ##### Montage Pc
 - Rappel Théorie sur l'adressage IP.
+- Fin du labo sur les drivers.

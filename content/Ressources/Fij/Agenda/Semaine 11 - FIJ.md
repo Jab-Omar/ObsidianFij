@@ -34,5 +34,7 @@ date: 2023-11-12
 ##### Outlook 
 - Prof en formation.
 ##### Word
-
- 
+- Suite des exercices du dossier 2.
+###### Mathématique 
+- Rappel de la notation scientifique et ingénieur.
+- Le calcul littéral théorie + exercices 

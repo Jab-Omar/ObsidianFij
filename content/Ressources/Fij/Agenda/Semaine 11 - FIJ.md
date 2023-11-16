@@ -38,3 +38,14 @@ date: 2023-11-12
 ###### Mathématique 
 - Rappel de la notation scientifique et ingénieur.
 - Le calcul littéral théorie + exercices 
+
+---
+
+## Jeudi 16/11/2023
+##### Outlook
+- Théorie + pratique sur le paramétrage de boîte mail avec le serveur exchange de FIJ (Nouvelle Feuille)
+##### Français
+- Fin de la rédaction des réformes scolaire + présentation lors du prochain cours.
+- Théorie sur le résumé + exercice pratique.
+##### Montage PC
+-

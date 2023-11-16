@@ -51,3 +51,9 @@ date: 2023-11-12
 - Exercice Ip 10.3.
 - TP 11 Connectivité et Mappage du dossier pub.
 - Petite explication sur les firewall. 
+
+---
+
+## Vendredi 17/11/2023
+##### Word
+- 

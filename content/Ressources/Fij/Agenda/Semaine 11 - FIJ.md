@@ -48,4 +48,6 @@ date: 2023-11-12
 - Fin de la rédaction des réformes scolaire + présentation lors du prochain cours.
 - Théorie sur le résumé + exercice pratique.
 ##### Montage PC
--
+- Exercice Ip 10.3.
+- TP 11 Connectivité et Mappage du dossier pub.
+- Petite explication sur les firewall. 

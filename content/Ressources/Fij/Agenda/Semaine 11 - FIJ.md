@@ -56,4 +56,14 @@ date: 2023-11-12
 
 ## Vendredi 17/11/2023
 ##### Word
-- 
+- Typo plus mise en page à partir d'une feuille.
+- Exercices pour styliser une page.
+##### Windows 
+- Théorie sur les Firewall.
+- Théorie sur le partage. 
+- Labo firewall et partage de dossier.
+
+---
+
+## Tâche
+- Je dois faire un index firewall, Index des outils de management windows, 

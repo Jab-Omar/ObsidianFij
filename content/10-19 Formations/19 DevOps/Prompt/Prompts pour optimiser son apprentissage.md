@@ -1,6 +1,4 @@
 ---
-tags:
-  - IA
 date: 2023-11-04
 ---
 1. [[Prompt - Loi de Pareto]]

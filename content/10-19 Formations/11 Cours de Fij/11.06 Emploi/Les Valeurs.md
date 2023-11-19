@@ -1,5 +1,4 @@
 ---
-tags: 
 date: 2023-11-06
 ---
 # Comprendre les Valeurs

@@ -1,5 +1,4 @@
 ---
-tags: 
 date: 2023-11-06
 ---
 L'ikigai est un concept japonais qui est souvent traduit par "la raison d'être" ou "la joie de vivre." Il est utilisé pour décrire le sentiment de trouver un sens profond et une satisfaction dans la vie. L'ikigai repose sur l'idée que chaque individu possède un objectif unique qui résulte de la combinaison de ses passions, de ses compétences, de ses valeurs et des besoins du monde qui l'entoure.

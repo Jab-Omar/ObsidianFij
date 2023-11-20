@@ -23,16 +23,16 @@ title: FIJ TUI2023
 
 |**Novembre 2023**|
 |--------|
-|[[10.09 Semaine 44 2023]]|
-|[[10.10 Semaine 45 2023]]|
-|[[10.11 Semaine 46 2023]]|
-|[[10.12 Semaine 47 2023]]|
+|[[Semaine 44 2023]]|
+|[[Semaine 45 2023]]|
+|[[Semaine 46 2023]]|
+|[[Semaine 47 2023]]|
 
 |**Septembre 2023**|**Octobre 2023**|
 |---------|-------|
-|[[10.01 Semaine 36 2023]]|[[10.05 Semaine 40 2023]]|
-|[[10.02 Semaine 37 2023]]|[[10.06 Semaine 41 2023]]|
-|[[10.03 Semaine 38 2023]]|[[10.07 Semaine 42 2023]]|
-|[[10.04 Semaine 39 2023]]|[[10.08 Semaine 43 2023]]|
+|[[Semaine 36 2023]]|[[Semaine 40 2023]]|
+|[[Semaine 37 2023]]|[[Semaine 41 2023]]|
+|[[Semaine 38 2023]]|[[Semaine 42 2023]]|
+|[[Semaine 39 2023]]|[[Semaine 43 2023]]|
 
 ---

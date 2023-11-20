@@ -35,7 +35,7 @@ date: 2023-11-20
 - [[Nettoyage de disque]]
 - [[Outils de récupération]]
 - [[Diagnostic de mémoire Windows]]
-
+- [[Windows Recovery Environment (WinRE)]]
 ## Développement et Programmation
 
 - [[Éditeur du Registre (regedit)]]

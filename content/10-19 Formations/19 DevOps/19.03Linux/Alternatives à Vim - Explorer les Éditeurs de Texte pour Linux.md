@@ -1,6 +1,4 @@
 ---
-tags:
-  - DevOps
 date: 2023-11-02
 ---
 # Alternatives à Vim : Explorer les Éditeurs de Texte pour Linux

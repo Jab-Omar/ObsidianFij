@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 Les modules de mémoire RDIMM, abréviation de Registered Dual In-Line Memory Module, sont un type de module de mémoire RAM couramment utilisé dans les serveurs et les systèmes informatiques où la fiabilité et la gestion de la mémoire sont essentielles. Les RDIMMs se distinguent par l'inclusion de registres ou de tampons intermédiaires pour améliorer la stabilité. Voici un aperçu des RDIMMs.

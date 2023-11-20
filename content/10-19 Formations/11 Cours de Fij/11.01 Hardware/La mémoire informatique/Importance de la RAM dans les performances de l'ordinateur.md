@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 La mémoire RAM (Random Access Memory) joue un rôle central dans les performances d'un ordinateur. Elle a un impact sur de nombreux aspects du fonctionnement de l'ordinateur, et son importance ne doit pas être sous-estimée.

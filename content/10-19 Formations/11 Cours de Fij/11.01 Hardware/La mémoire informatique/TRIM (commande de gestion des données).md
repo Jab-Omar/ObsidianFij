@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 TRIM est une commande de gestion des données spécialement conçue pour les disques SSD (Solid-State Drives). Elle joue un rôle essentiel dans l'optimisation des performances et de la durabilité des SSD. Voici ce que vous devez savoir à ce sujet :

@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Windows
 ---
 
 La sécurité des services dans Windows est un aspect critique de la gestion des systèmes informatiques. Les services Windows peuvent représenter des points d'entrée potentiels pour les menaces de sécurité, il est donc essentiel de les configurer et de les gérer de manière sécurisée. Voici ce que vous devez savoir pour assurer la sécurité des services Windows :

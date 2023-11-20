@@ -1,8 +1,3 @@
----
-date: 2023-10-30
-tags:
-  - Hardware
----
 
 AGP, ou Accelerated Graphics Port, était un ancien bus spécialement conçu pour les cartes graphiques haute performance dans les ordinateurs. Voici ce que vous devez savoir sur l'AGP :
 

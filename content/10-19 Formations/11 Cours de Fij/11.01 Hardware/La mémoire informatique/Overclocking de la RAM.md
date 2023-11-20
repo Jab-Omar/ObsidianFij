@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 L'overclocking de la RAM est une méthode avancée qui permet d'augmenter la fréquence et les performances de la mémoire RAM au-delà des spécifications d'usine. Cela peut entraîner des améliorations significatives des performances, mais cela comporte également des risques.

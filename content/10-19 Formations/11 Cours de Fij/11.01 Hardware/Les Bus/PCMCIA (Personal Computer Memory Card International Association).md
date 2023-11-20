@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 La PCMCIA, abréviation de Personal Computer Memory Card International Association, est un bus d'extension utilisé pour les cartes d'extension amovibles dans les ordinateurs portables. Voici ce que vous devez savoir sur la PCMCIA :

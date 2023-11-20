@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 La DDR SDRAM, abrégée DDR (Double Data Rate) Synchronous Dynamic Random Access Memory, est une génération avancée de mémoire SDRAM qui a apporté des améliorations significatives en termes de vitesse de transfert de données par rapport à la SDRAM traditionnelle. Elle est largement utilisée dans les ordinateurs et autres appareils électroniques. Voici un aperçu de la DDR SDRAM.

@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 Le terme "Hot-Plug" fait référence à la capacité de connecter ou de déconnecter des périphériques d'un ordinateur sans avoir à éteindre ou redémarrer l'ordinateur. Cette fonctionnalité est couramment utilisée avec des ports USB, bien qu'elle puisse s'appliquer à d'autres types de connexions.

@@ -1,6 +1,4 @@
 ---
-tags:
-  - Hardware
 date: 2023-11-09
 ---
 Les firewalls et le filtrage IP sont des composants essentiels pour la sécurité des réseaux. Ils permettent de contrôler le trafic entrant et sortant, en appliquant des règles de filtrage pour autoriser ou bloquer le passage de données. Voici un aperçu des firewalls et du filtrage IP :

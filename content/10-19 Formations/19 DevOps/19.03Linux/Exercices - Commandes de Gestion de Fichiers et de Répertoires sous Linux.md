@@ -1,6 +1,4 @@
 ---
-tags:
-  - Linux
 date: 2023-11-01
 ---
 # Exercices : Commandes de Gestion de Fichiers et de Répertoires sous Linux

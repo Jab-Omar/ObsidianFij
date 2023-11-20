@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Windows
 ---
 
 Les Services de Démarrage Différé sont un type de service Windows qui démarre automatiquement après le démarrage initial de votre ordinateur, mais avec un délai pour optimiser les performances de démarrage. Ils sont conçus pour améliorer l'efficacité du processus de démarrage. Voici ce que vous devez savoir à leur sujet :

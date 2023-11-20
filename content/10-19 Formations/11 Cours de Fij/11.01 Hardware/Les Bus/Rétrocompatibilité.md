@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 La rétrocompatibilité est un concept essentiel dans le domaine des bus informatiques et des normes de connectivité. Elle se réfère à la capacité d'un bus ou d'une interface à prendre en charge des dispositifs ou des normes plus anciennes, ce qui permet aux équipements plus récents de communiquer avec des dispositifs plus anciens. La rétrocompatibilité joue un rôle crucial pour garantir la continuité et la compatibilité dans l'évolution des technologies informatiques.

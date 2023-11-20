@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 L'HDMI (High-Definition Multimedia Interface) est une technologie de connectivité numérique largement utilisée pour transmettre des signaux audio et vidéo haute définition. Cette note vous explique ce qu'est HDMI, ses utilisations, ses caractéristiques clés et son évolution.

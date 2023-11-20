@@ -1,6 +1,4 @@
 ---
-tags:
-  - Hardware
 date: 2023-10-30
 ---
 # Clear CMOS (Réinitialisation de la CMOS)

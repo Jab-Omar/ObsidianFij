@@ -1,6 +1,4 @@
 ---
-tags:
-  - Windows
 date: 2023-10-30
 ---
 # Héritage des Permissions

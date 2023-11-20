@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 Les modules de mémoire LRDIMM, abréviation de Load-Reduced Dual In-Line Memory Module, sont un type de module de mémoire RAM utilisé dans les serveurs et les systèmes informatiques où la capacité de mémoire élevée est essentielle. Les LRDIMMs sont conçus pour réduire la charge électrique sur le contrôleur mémoire, ce qui les rend adaptés aux environnements exigeants. Voici un aperçu des LRDIMMs.

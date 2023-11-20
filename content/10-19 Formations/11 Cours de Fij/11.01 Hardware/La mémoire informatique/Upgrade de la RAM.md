@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 L'upgrade de la RAM est l'une des manières les plus simples et efficaces d'améliorer les performances de votre ordinateur, en particulier si vous trouvez que votre système est lent ou incapable de gérer les tâches que vous souhaitez effectuer. Voici ce que vous devez savoir sur l'upgrade de la RAM.

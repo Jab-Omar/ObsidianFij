@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 Le débit en mégaoctets par seconde (Mo/s) est une mesure qui indique le taux de transfert de données maximal qu'un bus informatique peut atteindre. Il est influencé par la largeur du bus et sa fréquence, et il est essentiel pour évaluer les performances de transfert de données d'un bus. Voici ce que vous devez savoir sur le débit en Mo/s d'un bus informatique :

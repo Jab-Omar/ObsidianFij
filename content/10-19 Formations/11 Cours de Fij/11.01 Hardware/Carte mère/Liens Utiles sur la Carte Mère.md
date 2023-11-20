@@ -1,6 +1,4 @@
 ---
-tags:
-  - Hardware
 date: 2023-10-30
 ---
 La carte mère est l'un des composants essentiels de votre ordinateur, et il peut être utile d'avoir accès à des ressources en ligne pour mieux comprendre, dépanner et optimiser son fonctionnement. Voici quelques liens utiles sur la carte mère :

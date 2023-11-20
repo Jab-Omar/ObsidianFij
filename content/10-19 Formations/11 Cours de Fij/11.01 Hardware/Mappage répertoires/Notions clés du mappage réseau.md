@@ -1,6 +1,4 @@
 ---
-tags:
-  - Hardware
 date: 2023-11-17
 ---
 Les notions clés du mappage réseau comprennent des éléments importants à comprendre pour utiliser cette fonctionnalité de manière efficace. Voici quelques-unes de ces notions :

@@ -1,6 +1,4 @@
 ---
-tags:
-  - Linux
 date: 2023-11-02
 ---
 ==Note importante : Vim est une compétence à part entière et mérite une section dédiée.==

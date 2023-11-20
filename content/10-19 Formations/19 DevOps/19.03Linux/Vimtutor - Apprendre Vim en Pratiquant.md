@@ -1,6 +1,4 @@
 ---
-tags:
-  - Linux
 date: 2023-11-02
 ---
 Bien sûr, voici une note spécifiquement pour Vimtutor :

@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 La technologie SMART, abréviation de Self-Monitoring, Analysis, and Reporting Technology, est une technologie intégrée aux disques durs et aux SSD pour surveiller leur état de santé. Elle joue un rôle essentiel dans la prévention des pannes de stockage et la protection des données. Cette note explore ce qu'est la technologie SMART, comment elle fonctionne et son importance.

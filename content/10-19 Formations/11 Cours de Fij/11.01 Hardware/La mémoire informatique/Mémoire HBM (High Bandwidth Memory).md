@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 La mémoire HBM (High Bandwidth Memory) est une technologie de mémoire avancée utilisée principalement dans les cartes graphiques haute performance et les accélérateurs de calcul. Elle offre des avantages significatifs en termes de bande passante mémoire et d'efficacité énergétique par rapport aux technologies de mémoire traditionnelles. Voici un aperçu de son fonctionnement et de son utilité :

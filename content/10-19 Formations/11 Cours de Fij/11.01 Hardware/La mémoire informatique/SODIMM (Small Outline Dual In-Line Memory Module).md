@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 Les modules de mémoire SODIMM, abréviation de Small Outline Dual In-Line Memory Module, sont un type courant de module de mémoire RAM utilisé dans les ordinateurs portables, les mini-PC, les ordinateurs de bureau compacts et d'autres appareils électroniques compacts. Ils se distinguent par leur petite taille et leur format unique. Voici un aperçu des SODIMMs.

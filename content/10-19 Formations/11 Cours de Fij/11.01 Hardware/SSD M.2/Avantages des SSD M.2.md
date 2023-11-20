@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 Les SSD M.2 présentent plusieurs avantages significatifs par rapport à d'autres solutions de stockage. Leur conception compacte et leurs performances élevées en font un choix populaire pour de nombreux utilisateurs. Voici quelques-uns des avantages clés des SSD M.2 :

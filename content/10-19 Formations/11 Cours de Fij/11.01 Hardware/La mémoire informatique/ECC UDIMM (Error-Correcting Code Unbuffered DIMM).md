@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 Les modules de mémoire ECC UDIMM, abréviation d'Error-Correcting Code Unbuffered Dual In-Line Memory Module, sont un type de module de mémoire RAM couramment utilisé dans les ordinateurs de bureau et les stations de travail où la fiabilité et la correction d'erreurs de mémoire sont essentielles. Les ECC UDIMMs offrent des fonctionnalités de correction d'erreurs pour garantir la stabilité du système. Voici un aperçu des ECC UDIMMs.

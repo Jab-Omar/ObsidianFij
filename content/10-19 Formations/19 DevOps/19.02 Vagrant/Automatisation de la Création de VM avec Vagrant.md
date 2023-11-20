@@ -1,6 +1,4 @@
 ---
-tags:
-  - DevOps
 date: 2023-10-31
 ---
 # Automatisation de la Création de VM avec Vagrant

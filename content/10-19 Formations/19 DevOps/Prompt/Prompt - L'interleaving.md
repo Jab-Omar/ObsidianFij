@@ -1,6 +1,4 @@
 ---
-tags:
-  - IA
 date: 2023-11-04
 ---
 ## Le Prompt en français et en anglais.

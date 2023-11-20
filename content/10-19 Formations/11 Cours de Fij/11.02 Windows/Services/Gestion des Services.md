@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Windows
 ---
 
 La gestion des services dans Windows est une compétence essentielle pour administrer efficacement un système d'exploitation Windows. Les services sont des programmes en arrière-plan qui effectuent diverses tâches, et leur gestion vous permet de contrôler le fonctionnement du système et des applications. Voici un aperçu de la gestion des services sous Windows :

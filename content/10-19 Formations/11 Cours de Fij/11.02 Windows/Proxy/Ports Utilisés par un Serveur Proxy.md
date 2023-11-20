@@ -1,6 +1,4 @@
 ---
-tags:
-  - Windows
 date: 2023-11-14
 ---
 # Ports Utilisés par un Serveur Proxy

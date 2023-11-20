@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 IDE, abréviation d'Integrated Drive Electronics, est un autre nom pour l'ATA (Advanced Technology Attachment), un ancien bus largement utilisé pour les disques durs et les lecteurs optiques. Voici ce que vous devez savoir sur l'IDE :

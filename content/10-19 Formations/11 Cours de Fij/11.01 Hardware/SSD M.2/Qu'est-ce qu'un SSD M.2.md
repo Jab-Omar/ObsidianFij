@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 Les SSD M.2, également appelés "M.2 SSD" ou "NGFF" (Next Generation Form Factor), sont une forme de stockage flash utilisée dans les ordinateurs et d'autres appareils électroniques. Ils se distinguent par leur petite taille, leur rapidité et leur polyvalence. Voici les caractéristiques clés d'un SSD M.2 :

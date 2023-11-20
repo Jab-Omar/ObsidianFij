@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 PCI, ou Peripheral Component Interconnect, est un bus d'extension standard qui a joué un rôle central dans la connectivité des cartes d'extension dans les ordinateurs. Voici ce que vous devez savoir sur le PCI :

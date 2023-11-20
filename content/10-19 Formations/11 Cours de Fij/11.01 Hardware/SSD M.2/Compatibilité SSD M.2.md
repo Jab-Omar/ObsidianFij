@@ -1,8 +1,3 @@
----
-date: 2023-10-30
-tags:
-  - Hardware
----
 
 Lors de l'installation ou de la mise à jour d'un SSD M.2, il est essentiel de prendre en compte la compatibilité avec votre matériel existant. Voici quelques aspects importants à considérer :
 

@@ -1,6 +1,4 @@
 ---
-tags:
-  - Hardware
 date: 2023-11-09
 ---
 # Adresses IPv4 Réservées

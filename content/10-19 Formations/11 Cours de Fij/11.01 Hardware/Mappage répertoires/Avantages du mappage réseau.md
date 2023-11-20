@@ -1,6 +1,4 @@
 ---
-tags:
-  - Hardware
 date: 2023-11-17
 ---
 Les avantages du mappage réseau sont nombreux et offrent des facilités d'accès et de gestion des ressources partagées. Voici une liste des principaux avantages :

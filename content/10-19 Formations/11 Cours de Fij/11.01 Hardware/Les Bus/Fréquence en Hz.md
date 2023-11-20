@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 La fréquence en hertz (Hz) est une mesure importante qui indique la vitesse à laquelle les données sont transférées sur un bus informatique. Une fréquence plus élevée signifie un transfert de données plus rapide, ce qui a un impact direct sur les performances d'un système. Voici ce que vous devez savoir sur la fréquence en Hz d'un bus informatique :

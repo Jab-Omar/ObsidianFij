@@ -1,6 +1,4 @@
 ---
-tags:
-  - Hardware
 date: 2023-11-17
 ---
 La gestion et le dépannage du mappage réseau sont essentiels pour maintenir des connexions stables et résoudre les problèmes éventuels. Voici des points importants pour gérer et dépanner le mappage réseau :

@@ -1,6 +1,4 @@
 ---
-tags:
-  - Windows
 date: 2023-11-14
 ---
 # Proxy de Mise en Cache

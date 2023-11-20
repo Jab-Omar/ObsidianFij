@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 Le concept de "Maître et Esclave" est couramment utilisé dans les bus informatiques pour organiser et gérer la communication entre plusieurs dispositifs. Dans ce concept, un dispositif maître contrôle un ou plusieurs dispositifs esclaves sur un bus, permettant une communication efficace. Chaque dispositif esclave est soumis à l'autorité du dispositif maître et agit en réponse à ses commandes.

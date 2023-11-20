@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 Le SCSI, abréviation de Small Computer System Interface, est un bus de stockage conçu principalement pour les périphériques professionnels, y compris les disques durs, les scanners et d'autres dispositifs. Voici ce que vous devez savoir sur le SCSI :

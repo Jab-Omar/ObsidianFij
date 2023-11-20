@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 ## Introduction
 Ethernet est une norme de communication réseau largement utilisée pour la transmission de données entre des périphériques connectés à un réseau local (LAN - Local Area Network). Cette technologie a joué un rôle essentiel dans le développement et l'expansion d'Internet, en permettant aux ordinateurs et aux périphériques de partager des données et des ressources.

@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 ISA, ou Industry Standard Architecture, était un ancien bus d'extension largement utilisé dans les premiers ordinateurs personnels. Il a joué un rôle essentiel dans l'expansion des capacités des ordinateurs de l'époque. Voici ce que vous devez savoir sur l'ISA :

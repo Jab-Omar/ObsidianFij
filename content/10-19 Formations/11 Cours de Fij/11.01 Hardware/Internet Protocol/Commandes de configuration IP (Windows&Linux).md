@@ -1,7 +1,5 @@
 ---
 date: 2023-11-09
-tags:
-  - Hardware
 ---
 Les commandes de configuration IP peuvent varier légèrement entre les systèmes d'exploitation. Voici les commandes couramment utilisées pour configurer l'adresse IP sur Windows et Linux.
 

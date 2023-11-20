@@ -1,6 +1,4 @@
 ---
-tags:
-  - Hardware
 date: 2023-11-09
 ---
 Les commandes de diagnostic IP, telles que `ping` et `traceroute`, sont des outils essentiels pour évaluer la connectivité réseau et identifier les problèmes potentiels. Voici comment utiliser ces commandes :

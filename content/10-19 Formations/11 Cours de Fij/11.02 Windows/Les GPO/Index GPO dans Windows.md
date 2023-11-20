@@ -1,6 +1,4 @@
 ---
-tags:
-  - Windows
 aliases:
   - Politiques de Groupe (GPO)
   - GPO

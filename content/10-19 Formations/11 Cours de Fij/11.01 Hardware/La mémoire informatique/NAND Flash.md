@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 La NAND Flash est un type courant de mémoire flash utilisée pour le stockage de données dans une grande variété d'applications, notamment les disques SSD, les cartes mémoire, les clés USB et bien plus encore. Voici un aperçu de la NAND Flash :

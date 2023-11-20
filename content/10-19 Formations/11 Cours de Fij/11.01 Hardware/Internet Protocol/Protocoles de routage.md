@@ -1,6 +1,4 @@
 ---
-tags:
-  - Hardware
 date: 2023-11-09
 ---
 Il existe plusieurs protocoles de routage utilisés pour échanger des informations entre les routeurs et déterminer les meilleures routes pour acheminer le trafic à travers un réseau. Voici quelques-uns des protocoles de routage les plus couramment utilisés :

@@ -1,6 +1,4 @@
 ---
-tags:
-  - Hardware
 date: 2023-10-30
 ---
 # Une Carte Mère, qu'est-ce que c'est ?

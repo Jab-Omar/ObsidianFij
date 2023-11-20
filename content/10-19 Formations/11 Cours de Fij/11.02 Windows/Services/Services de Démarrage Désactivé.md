@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Windows
 ---
 
 Les Services de Démarrage Désactivé sont un type de service Windows qui ne démarre pas automatiquement lors du démarrage de votre ordinateur et qui ne peut pas être démarré manuellement par l'utilisateur. Ils sont généralement désactivés car ils ne sont pas nécessaires au fonctionnement du système d'exploitation ou des applications. Voici ce que vous devez savoir à leur sujet :

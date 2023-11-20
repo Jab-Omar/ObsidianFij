@@ -1,6 +1,4 @@
 ---
-tags:
-  - Hardware
 date: 2023-11-17
 ---
 1. **Utilisation de Connexions Sécurisées :** Si possible, privilégie les connexions chiffrées (comme SMB3 pour Windows) pour protéger les données transitant sur le réseau.

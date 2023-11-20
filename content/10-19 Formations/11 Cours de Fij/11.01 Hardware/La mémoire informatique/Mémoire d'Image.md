@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 La mémoire d'image est une forme de mémoire informatique utilisée pour stocker et gérer des images, des graphiques et d'autres types de données visuelles. Elle joue un rôle essentiel dans de nombreuses applications, notamment la gestion d'images, la vidéo, les jeux vidéo et la conception graphique. Voici un aperçu de son fonctionnement et de son utilité :

@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 L'USB de Type C et l'USB-A sont deux types de connecteurs USB largement utilisés, mais ils présentent des différences significatives en termes de conception et de fonctionnalités. Voici une comparaison entre l'USB de Type C et l'USB-A :

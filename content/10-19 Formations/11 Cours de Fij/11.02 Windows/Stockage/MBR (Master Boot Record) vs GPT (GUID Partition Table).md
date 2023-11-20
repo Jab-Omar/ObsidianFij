@@ -1,6 +1,4 @@
 ---
-tags:
-  - Windows
 date: 2023-10-29
 ---
 # MBR (Master Boot Record) vs GPT (GUID Partition Table)

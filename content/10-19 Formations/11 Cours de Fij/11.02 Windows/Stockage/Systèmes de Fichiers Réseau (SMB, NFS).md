@@ -1,6 +1,4 @@
 ---
-tags:
-  - Windows
 date: 2023-10-29
 ---
 # Systèmes de Fichiers Réseau (SMB, NFS)

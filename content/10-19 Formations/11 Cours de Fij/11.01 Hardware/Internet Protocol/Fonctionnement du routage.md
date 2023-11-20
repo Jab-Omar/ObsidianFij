@@ -1,6 +1,4 @@
 ---
-tags:
-  - Hardware
 date: 2023-11-09
 ---
 Le routage est le processus qui permet de diriger les données d'un réseau à un autre, en choisissant le meilleur chemin possible à travers le réseau. Voici comment fonctionne le routage de manière générale :

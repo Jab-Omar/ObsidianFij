@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 VLB, ou VESA Local Bus, était un bus local accéléré par vidéo utilisé dans les ordinateurs de bureau. Il a été développé par la Video Electronics Standards Association (VESA) et a joué un rôle important dans l'amélioration des performances graphiques des PC. Voici ce que vous devez savoir sur le VLB :

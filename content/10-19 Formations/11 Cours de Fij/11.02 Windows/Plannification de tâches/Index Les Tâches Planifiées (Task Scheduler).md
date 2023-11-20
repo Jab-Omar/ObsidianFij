@@ -1,6 +1,4 @@
 ---
-tags:
-  - Windows
 date: 2023-11-06
 ---
 # Les tâches planifiées (Task Scheduler)

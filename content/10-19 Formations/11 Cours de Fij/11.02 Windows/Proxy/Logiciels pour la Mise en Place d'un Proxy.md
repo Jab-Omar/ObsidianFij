@@ -1,6 +1,4 @@
 ---
-tags:
-  - Windows
 date: 2023-11-14
 ---
 # Logiciels pour la Mise en Place d'un Proxy

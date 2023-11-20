@@ -1,6 +1,4 @@
 ---
-tags:
-  - Hardware
 date: 2023-11-09
 ---
 Wireshark est un outil puissant d'analyse de paquets réseau qui permet de capturer et d'inspecter le trafic IP sur un réseau. Voici comment utiliser Wireshark pour l'analyse du trafic IP :

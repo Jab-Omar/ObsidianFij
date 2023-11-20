@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 Fibre Channel est un bus de réseau utilisé dans les environnements de stockage en réseau. Découvrez ce qu'est Fibre Channel, comment il est utilisé et ses caractéristiques clés :

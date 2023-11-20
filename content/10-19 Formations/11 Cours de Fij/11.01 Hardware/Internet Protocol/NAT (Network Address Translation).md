@@ -1,5 +1,3 @@
 ---
-tags:
-  - Hardware
 date: 2023-11-09
 ---

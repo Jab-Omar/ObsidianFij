@@ -1,8 +1,7 @@
 ---
-tags:
-  - Windows
-date: 2023-10-29
+date: 2023-11-20
 ---
+# Index utilisateurs, profils et groupes dans Windows 
 
 La gestion des utilisateurs, des profils et des groupes est essentielle dans les systèmes d'exploitation Windows pour garantir la sécurité, l'efficacité et la personnalisation des environnements informatiques. Voici un index pour explorer les différents aspects liés aux utilisateurs, profils et groupes dans Windows :
 

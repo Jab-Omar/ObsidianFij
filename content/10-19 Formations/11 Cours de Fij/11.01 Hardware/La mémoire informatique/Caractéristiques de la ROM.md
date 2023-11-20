@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 La ROM, abréviation de Read-Only Memory, est un type de mémoire informatique dont le contenu est préenregistré en usine et ne peut pas être modifié ou effacé par l'utilisateur. Les caractéristiques de la ROM définissent son rôle, ses avantages et ses limites. Voici un aperçu des principales caractéristiques de la ROM.

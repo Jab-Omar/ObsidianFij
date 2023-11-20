@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 Les modules de mémoire UDIMM, abréviation d'Unbuffered Dual In-Line Memory Module, sont un type courant de module de mémoire RAM utilisé dans les ordinateurs de bureau standard. Contrairement aux modules RDIMM (Registered DIMM) et LRDIMM (Load-Reduced DIMM), les UDIMMs ne disposent pas de registres ou de tampons supplémentaires, ce qui les rend plus simples et économiques. Voici un aperçu des UDIMMs.

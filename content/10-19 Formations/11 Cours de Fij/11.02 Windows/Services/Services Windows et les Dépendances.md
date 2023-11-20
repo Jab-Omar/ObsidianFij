@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Windows
 ---
 
 Les services Windows sont souvent interconnectés, et certains services peuvent dépendre d'autres services pour fonctionner correctement. Comprendre les dépendances des services est essentiel pour maintenir la stabilité du système d'exploitation. Voici ce que vous devez savoir sur les services Windows et leurs dépendances :

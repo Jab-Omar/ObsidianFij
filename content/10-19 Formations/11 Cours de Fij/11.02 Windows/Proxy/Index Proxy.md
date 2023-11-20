@@ -1,6 +1,4 @@
 ---
-tags:
-  - Windows
 date: 2023-11-13
 ---
 1. **Introduction aux Proxies**

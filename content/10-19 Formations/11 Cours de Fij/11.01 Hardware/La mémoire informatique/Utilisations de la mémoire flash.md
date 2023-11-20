@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 La mémoire flash est un type de mémoire non volatile très polyvalent, utilisée dans une grande variété d'applications et de dispositifs électroniques en raison de ses avantages en matière de stockage de données. Voici un aperçu des principales utilisations de la mémoire flash :

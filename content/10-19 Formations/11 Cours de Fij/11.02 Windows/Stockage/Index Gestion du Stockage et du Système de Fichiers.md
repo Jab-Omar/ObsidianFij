@@ -1,7 +1,4 @@
 ---
-tags:
-  - Windows
-  - Hardware
 date: 2023-10-29
 ---
 ## Système de Fichiers

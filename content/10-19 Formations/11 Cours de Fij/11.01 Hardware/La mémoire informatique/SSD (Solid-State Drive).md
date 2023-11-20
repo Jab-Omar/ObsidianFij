@@ -1,7 +1,5 @@
 ---
 date: 2023-10-30
-tags:
-  - Hardware
 ---
 
 Un SSD, ou Solid-State Drive, est un type de dispositif de stockage de données non volatile qui a largement remplacé les disques durs traditionnels (HDD) dans de nombreuses applications. Il offre des avantages en termes de performances, de fiabilité et de durabilité. Voici un aperçu des caractéristiques clés des SSD :

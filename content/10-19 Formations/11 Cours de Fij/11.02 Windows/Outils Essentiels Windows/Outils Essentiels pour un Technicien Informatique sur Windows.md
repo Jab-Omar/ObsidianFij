@@ -1,6 +1,5 @@
 ---
-tags:
-  - àfinir
+date: 2023-11-20
 ---
 # Outils Essentiels pour un Technicien Informatique
 
@@ -11,12 +10,12 @@ tags:
 - [[Outil de Gestion des Services]]
 - [[Gestionnaire de disques]]
 - [[Objets de stratégie de groupe (GPO)]]
-- [[Éditeur du Registre]]
+- [[Éditeur du Registre (regedit)]]
 - [[Task Scheduler]]
 
 ## Surveillance et Gestion
 
-- [[Gestionnaire des tâches]]
+- [[Gestionnaire des tâches Windows]]
 - [[Invite de commandes (CMD)]]
 - [[Panneau de configuration]]
 - [[Explorateur de fichiers]]
@@ -39,7 +38,7 @@ tags:
 
 ## Développement et Programmation
 
-- [[Éditeur de Registre (Regedit)]]
+- [[Éditeur du Registre (regedit)]]
 - [[Débogueur de Windows (WinDbg)]]
 - [[Visual Studio]]
 - [[PowerShell ISE]]

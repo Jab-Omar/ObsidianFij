@@ -21,12 +21,6 @@ title: FIJ TUI2023
 ---
 ## Agenda Hebdo
 
-|**Novembre 2023**|
-|--------|
-|[[Semaine 44 2023]]|
-|[[Semaine 45 2023]]|
-|[[Semaine 46 2023]]|
-|[[Semaine 47 2023]]|
 
 |**Septembre 2023**|**Octobre 2023**|
 |---------|-------|
@@ -34,5 +28,12 @@ title: FIJ TUI2023
 |[[Semaine 37 2023]]|[[Semaine 41 2023]]|
 |[[Semaine 38 2023]]|[[Semaine 42 2023]]|
 |[[Semaine 39 2023]]|[[Semaine 43 2023]]|
+
+|**Novembre 2023**|
+|--------|
+|[[Semaine 44 2023]]|
+|[[Semaine 45 2023]]|
+|[[Semaine 46 2023]]|
+|[[Semaine 47 2023]]|
 
 ---

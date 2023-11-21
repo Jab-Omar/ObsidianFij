@@ -8,12 +8,16 @@
 	- Mettre son cv dans cv des étudiants emploi.
 	- Dresser la liste de sa présence numérique.
 ##### Windows
-- WinRe : Théorie 
+- WinRE : Théorie 
 ##### Excel
-- J'était absent.
+- Correction + Nouveaux exercices + Nouvelles formules
 ##### Anglais
-- J'était absent.
+- Pronoms possessifs + phrases et corrections 
 ---
 
 ## Mardi
-
+##### Hardware
+- Laboratoire TCP/IP
+- Commande `nslookup`, `tracert`.
+##### Français
+- Fin du résumé 

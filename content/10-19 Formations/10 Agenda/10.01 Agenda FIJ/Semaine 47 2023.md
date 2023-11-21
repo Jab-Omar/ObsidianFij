@@ -21,3 +21,12 @@
 - Commande `nslookup`, `tracert`.
 ##### Français
 - Fin du résumé 
+- Réforme scolaire 
+	- Devoir : Préparer l'éxposition oral de la réforme scolaire pour le prochain cours.
+
+##### Communication
+- 
+
+--- 
+
+## Mercredi 

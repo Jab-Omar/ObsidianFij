@@ -12,7 +12,7 @@
 ##### Excel
 - Correction + Nouveaux exercices + Nouvelles formules
 ##### Anglais
-- Pronoms possessifs + phrases et corrections 
+- Adjectifs possessifs + phrases et corrections 
 ---
 
 ## Mardi
@@ -25,8 +25,15 @@
 	- Devoir : Préparer l'éxposition oral de la réforme scolaire pour le prochain cours.
 
 ##### Communication
-- 
+- Fin de l'EP dur la captologie.
 
 --- 
 
 ## Mercredi 
+##### Word
+- Test sur TOSA +Exercices sur Les styles et typographie.
+##### Outlook
+- Fin du paramétrage de boîte mail avec le serveur exchange de fij.
+##### Mathématique
+- Révision sur les fractions.
+- Exercices sur les équation du premier degré.

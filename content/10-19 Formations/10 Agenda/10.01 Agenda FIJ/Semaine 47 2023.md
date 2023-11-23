@@ -37,3 +37,14 @@
 ##### Mathématique
 - Révision sur les fractions.
 - Exercices sur les équation du premier degré.
+
+---
+
+## Jeudi
+##### Outlook
+- Configuration de mail en pop3 et imap4 sur opera.
+##### Français
+- Les réformes : exposé oral.
+##### Montage Pc 
+- Théorie sur les Imprimantes.
+- TP installation d'une imprimante sous windows.

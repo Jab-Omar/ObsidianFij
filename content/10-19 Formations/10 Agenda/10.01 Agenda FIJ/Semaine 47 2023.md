@@ -1,7 +1,7 @@
 # Semaine 47 - Fij
 
 ---
-## Lundi
+## Lundi20/11/2023
 ##### Emploi
 - Le C.V. 
 - Devoir :
@@ -15,7 +15,7 @@
 - Adjectifs possessifs + phrases et corrections 
 ---
 
-## Mardi
+## Mardi 21/11/2023
 ##### Hardware
 - Laboratoire TCP/IP
 - Commande `nslookup`, `tracert`.
@@ -29,7 +29,7 @@
 
 --- 
 
-## Mercredi 
+## Mercredi 22/11/2023
 ##### Word
 - Test sur TOSA +Exercices sur Les styles et typographie.
 ##### Outlook
@@ -37,3 +37,26 @@
 ##### Mathématique
 - Révision sur les fractions.
 - Exercices sur les équation du premier degré.
+
+---
+
+## Jeudi 23/11/2023
+##### Outlook
+- Configuration mail sur d'autres clients.
+##### Français
+- Exposé réformes scolaires.
+##### Montage PC
+- TP Imprimantes. 
+
+---
+
+## Vendredi 24/11/2023
+- J'était absent.
+
+---
+
+
+
+
+
+

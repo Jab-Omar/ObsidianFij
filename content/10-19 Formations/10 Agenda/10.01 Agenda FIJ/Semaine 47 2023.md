@@ -1,7 +1,7 @@
 # Semaine 47 - Fij
 
 ---
-## Lundi
+## Lundi 17/11/2023
 ##### Emploi
 - Le C.V. 
 - Devoir :
@@ -15,7 +15,7 @@
 - Adjectifs possessifs + phrases et corrections 
 ---
 
-## Mardi
+## Mardi 18/11/2023
 ##### Hardware
 - Laboratoire TCP/IP
 - Commande `nslookup`, `tracert`.
@@ -29,7 +29,7 @@
 
 --- 
 
-## Mercredi 
+## Mercredi 19/11/2023
 ##### Word
 - Test sur TOSA +Exercices sur Les styles et typographie.
 ##### Outlook
@@ -40,7 +40,7 @@
 
 ---
 
-## Jeudi
+## Jeudi 20/11/2023
 ##### Outlook
 - Configuration de mail en pop3 et imap4 sur opera.
 ##### Français
@@ -48,3 +48,7 @@
 ##### Montage Pc 
 - Théorie sur les Imprimantes.
 - TP installation d'une imprimante sous windows.
+
+---
+
+## Vendredi  21/11/2023

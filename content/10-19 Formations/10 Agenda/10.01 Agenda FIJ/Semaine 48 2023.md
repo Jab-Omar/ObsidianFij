@@ -23,3 +23,7 @@ date: 2023-11-24
 - TP sur la configuration de client mail.
 ##### Viste d'entreprise
 - Visite de Bruxelles Environnement.
+
+---
+
+## Mercredi 29/11/2023

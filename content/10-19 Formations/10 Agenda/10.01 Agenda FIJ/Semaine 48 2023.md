@@ -10,11 +10,11 @@ date: 2023-11-24
 ##### Emploi
 - Fin du PowerPoint sur le CV.
 ##### Windows
-
+- x-copy + aomii clonage
 ##### Excel
 - Exercices sur les graphiques dans excel.
 ##### Anglais
-
+- Traduction d'un texte.
 
 ---
 ## Mardi 28/11/2023

@@ -52,3 +52,7 @@
 ---
 
 ## Vendredi  21/11/2023
+##### Word
+- Exercices 
+##### Anglais
+- Fin des phrases sur les pronoms.

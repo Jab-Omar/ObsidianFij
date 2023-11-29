@@ -80,3 +80,28 @@ D’une superficie de 16.750 m², le nouveau siège administratif de Bruxelles E
 Le bâtiment, grâce notamment à sa ventilation de l’air et son apport en lumière naturelle, est aménagé pour favoriser le confort et le bien-être de ses occupants. Moderne, flexible, adapté aux nouvelles techno logies... 
 l’environnement de travail favorise les interactions, mais aussi les pratiques d’éco-management comme la gestion électronique des dossiers (abandon progressif du papier), le télétravail ou encore l’optimalisation de l’occupation des espaces pour éviter de chauffer ou nettoyer des bureaux inoccupés.
 
+## Partie 2 : Présentation Rapide de Paradigm
+
+### Centre d’Informatique pour la Région Bruxelloise – CIRB
+
+Fondé en 1987 comme fournisseur de service IT, Le CIRB est l’organisme d’intérêt public qui, en Région de Bruxelles-Capitale, entend devenir le partenaire technologiquement neutre, compétitif, fiable et de qualité de toute institution publique qui souhaite, en connaissance de cause et de manière pro-active, introduire des TIC novatrices et cohérentes afin de maximiser d’une part, l’efficacité de son fonctionnement et d’autre part, la convivialité des services aux Bruxellois, aux entreprises et aux visiteurs.
+
+### Le CIRB devient paradigm.brussels
+
+Depuis 2020, le CIRB est en pleine réorganisation et se développe de jour en jour afin de garder sa position d’orchestrateur de capacités numériques en Region bruxelloise. Pour marquer le changement et la volonté d’aller vers le progrès, le centre informatique prend une nouvelle identité et devient Paradigm.
+
+La mission de Paradigm est de développer de nouveaux projets à l’aide de partenariat avec des administrations, des entreprises et autres usagers bruxellois. Une volonté de travailler en cohésion pour amener de la plus-value aux pratiques numériques.
+
+### Présentation des employées de Paradigm 
+
+C'est trois professionnelles travaillent à temps plein à et pour Bruxelles environnement mais leurs employeur est Paradim.Bruxelles.  
+
+#### Nicolas Hamande - Team Leader chez paradigm.brussels @ Bruxelles Environnement et ancien stagiaire chez fij.
+- était l'intervenant principale de cette visite d'entreprise. Il nous à présenter Bruxelles Environnement et sa section IT. Il nous à aussi fait part de son parcours professionel.
+
+#### Hugo RENOULT - IT Technician chez paradigm.brussels @ Bruxelles Environnement ancien stagiaire chez fij. 
+ - à accompagné tout du long Nicolas Hamande et nous à fait part de son parcourt et de son quotidien de Technicien informatique.
+
+#### Xavier Lefèvre-Wastelain - IT Operation Manager chez paradigm.brussels @ Bruxelles Environnement
+- Nous à présenté la salle des serveur et les serveurs en physiques présent à  Bruxelles Environnement.
+

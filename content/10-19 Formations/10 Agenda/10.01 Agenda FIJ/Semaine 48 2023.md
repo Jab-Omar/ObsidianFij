@@ -27,3 +27,10 @@ date: 2023-11-24
 ---
 
 ## Mercredi 29/11/2023
+##### Word
+- Eval Formative (Rapport de visite d'entreprise)
+##### Outlook
+- La mise en cache, L'archivage et les backups dans Outlook. 
+- Helpdesk sur La mise en cache, L'archivage et les backups dans Outlook.
+##### Mathématiques 
+- 

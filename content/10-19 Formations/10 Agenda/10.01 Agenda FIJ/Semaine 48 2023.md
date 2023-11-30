@@ -33,4 +33,23 @@ date: 2023-11-24
 - La mise en cache, L'archivage et les backups dans Outlook. 
 - Helpdesk sur La mise en cache, L'archivage et les backups dans Outlook.
 ##### Mathématiques 
-- 
+- Révisions.
+- Les identités remarquables.
+
+---
+
+## Jeudi 30/11/2023
+##### Outlook
+- Fin du help desk.
+- Jeux pour réviser.
+##### Français
+- Exercice sur la réforme des devoirs.
+### Montage Pc
+- Révisions
+
+---
+
+## Vendredi 01/12/2023
+##### Word
+- évaluation formative Word.
+

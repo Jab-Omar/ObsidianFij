@@ -52,4 +52,6 @@ date: 2023-11-24
 ## Vendredi 01/12/2023
 ##### Word
 - évaluation formative Word.
-
+##### Windows
+- Xcopy
+- SysPrep

@@ -32,7 +32,7 @@ title: FIJ TUI2023
 |**Novembre 2023**|**Décembre** 2023|
 |--------|---------|
 |[[Semaine 44 2023]]|[[Semaine 48 2023]]|
-|[[Semaine 45 2023]]|
+|[[Semaine 45 2023]]|[[Semaine 49 2023]]|
 |[[Semaine 46 2023]]|
 |[[Semaine 47 2023]]|
 

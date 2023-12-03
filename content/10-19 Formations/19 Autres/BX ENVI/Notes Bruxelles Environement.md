@@ -6,6 +6,16 @@ draft: "True"
 ## Liens utiles
 [A propos](https://environnement.brussels/citoyen/a-propos-bruxelles-environnement)
 [paradigm](https://be.brussels/fr/propos-de-la-region/structure-et-organisation/apercu-des-administrations-et-institutions-de-la-region/paradigm/nos-services#Externaliser-l'hebergement-de-l'ecosysteme-IT-4950)
+[EcoConception](https://environnement.brussels/citoyen/comment-bruxelles-environnement-concu-un-site-internet-plus-durable-et-plus-ecologique?highlight=eco%20responsable)
+[Eco resbonsabilité SciencePresse Canada](https://www.sciencepresse.qc.ca/blogue/2011/04/15/leco-responsabilite-dela-green-washing)
+[Eco resbonasabilité Wikipedia Fr](https://fr.wikipedia.org/wiki/Responsabilit%C3%A9_environnementale)
+[mpleo]([We do it for human experiences | mpleo](https://www.mpleo.com/))
+[Trellix]([Trellix | Revolutionary Threat Detection and Response](https://www.trellix.com/))
+[BA4]([Qu’est-ce qu’une attestation BA4 ou BA5 ? - Mensura](https://www.mensura.be/fr/acces-client/news/qu-est-ce-qu-une-attestation-ba4-ou-ba5))
+
+
+Utilisation de l'IA pour : Bruxelles Environnement qu'est ce que c'est ? 
+
 
 ## Partie 1 : Présentation de Bruxelles Environnement
 
@@ -63,7 +73,7 @@ La Direction générale chapeaute 8 divisions (et quelques entités liées à la
 
 ### Le déménagement 
 
-Dans un souci de cohérence par rapport à ses missions et valeurs, l’administration de l’Environnement et de l’Energie de la Région de Bruxelles-Capitale qi été basée au Guledéle  à déménagé fin 2014 sur le site de Tour et Taxis, dans un bâtiment éco construit et très performant d’un point de vue énergétique. Cette relocalisation doit être située dans une perspective de renouvellement global : 
+Dans un souci de cohérence par rapport à ses missions et valeurs, l’administration de l’Environnement et de l’Energie de la Région de Bruxelles-Capitale qui été basée au Guledéle  à déménagé fin 2014 sur le site de Tour et Taxis, dans un bâtiment éco construit et très performant d’un point de vue énergétique. Cette relocalisation doit être située dans une perspective de renouvellement global : 
 - Une optimalisation de l’empreinte écologique grâce à un bâtiment exemplaire . 
 - Une éco-organisation du travail permettant une plus grande efficacité et un meilleur service. 
 - Un renforcement des relations avec ses bénéficiaires. •
@@ -88,14 +98,14 @@ Le week-end même du déménagement :
 
 ### UN BÂTIMENT ÉCO-CONÇU
 
-D’une superficie de 16.750 m², le nouveau siège administratif de Bruxelles Environnement est aussi l’un des plus grands bâtiments de bureaux répondant au standard passif en Europe. • Sa conception passive (dont une isolation poussée et une bonne étanchéité à l’air) permet de consommer jusqu’à 96% de gaz en moins par rapport à l’ancien bâtiment. • 700 m² de panneaux photovoltaïques (intégrés au bâtiment pour raisons esthétiques) produisent près de 88.000 kWh d’électricité verte par an. • L’enveloppe du bâtiment, faite de métal et de verre, laisse large - ment entrer la lumière naturelle. Elle est conçue pour pouvoir activer une protection solaire automatique. • La géothermie permet de réguler la température toute l’année. Une pompe à chaleur utilise la température des eaux de la nappe phréatique. • Le système de ventilation à double flux associé à un échan - geur thermique permet de mettre en contact l’air froid qui entre dans le bâtiment avec l’air chaud qui en sort. L’air entrant est ainsi préchauffé par l’air sortant. • Le bâtiment est conçu pour traiter les eaux grises et récupérer les eaux de pluie, qui seront utilisées pour les besoins en eau non potable. • Les matériaux sont pour la plupart d’origine locale et les matériaux de finition disposant d’un label écologique ont été privilégiés. • Le bâtiment abrite un parking vélos de 210 places, un vestiaire et des douches. • Un restaurant proposant une alimentation durable, compo - sée de produits locaux et de saison, est ouvert aux employés et aux visiteurs. • Le mobilier des bureaux, du centre et du restaurant est composé de meubles recyclés et relookés .
+D’une superficie de 16.750 m², le nouveau siège administratif de Bruxelles Environnement est aussi l’un des plus grands bâtiments de bureaux répondant au standard passif en Europe. • Sa conception passive (dont une isolation poussée et une bonne étanchéité à l’air) permet de consommer jusqu’à 96% de gaz en moins par rapport à l’ancien bâtiment. • 700 m² de panneaux photovoltaïques (intégrés au bâtiment pour raisons esthétiques) produisent près de 88.000 kWh d’électricité verte par an. • L’enveloppe du bâtiment, faite de métal et de verre, laisse large - ment entrer la lumière naturelle. Elle est conçue pour pouvoir activer une protection solaire automatique. • La géothermie permet de réguler la température toute l’année. Une pompe à chaleur utilise la température des eaux de la nappe phréatique. • Le système de ventilation à double flux associé à un échan geur thermique permet de mettre en contact l’air froid qui entre dans le bâtiment avec l’air chaud qui en sort. L’air entrant est ainsi préchauffé par l’air sortant. • Le bâtiment est conçu pour traiter les eaux grises et récupérer les eaux de pluie, qui seront utilisées pour les besoins en eau non potable. • Les matériaux sont pour la plupart d’origine locale et les matériaux de finition disposant d’un label écologique ont été privilégiés. • Le bâtiment abrite un parking vélos de 210 places, un vestiaire et des douches. • Un restaurant proposant une alimentation durable, composée de produits locaux et de saison, est ouvert aux employés et aux visiteurs. • Le mobilier des bureaux, du centre et du restaurant est composé de meubles recyclés et relookés .
 
 ### UN ESPACE ECO-DYNAMIQUE 
 
 Le bâtiment, grâce notamment à sa ventilation de l’air et son apport en lumière naturelle, est aménagé pour favoriser le confort et le bien-être de ses occupants. Moderne, flexible, adapté aux nouvelles techno logies... 
 l’environnement de travail favorise les interactions, mais aussi les pratiques d’éco-management comme la gestion électronique des dossiers (abandon progressif du papier), le télétravail ou encore l’optimalisation de l’occupation des espaces pour éviter de chauffer ou nettoyer des bureaux inoccupés.
 
-### Présentation Rapide de Paradigm
+### Présentation de Paradigm
 
 ### Centre d’Informatique pour la Région Bruxelloise – CIRB
 
@@ -278,33 +288,33 @@ Le Green IT, ou informatique verte, vise à réduire l'impact environnemental de
 
 - Les stratégies de sobriété numérique visent à optimiser l'utilisation des ressources numériques pour réduire la consommation d'énergie et minimiser l'impact environnemental global des technologies de l'information.
 
-### **Projets Actuels**
+### Projets Actuels
 
-#### **Connection des Grands Sites Techniques en Fibre (2020)**
+#### Connection des Grands Sites Techniques en Fibre (2020)
 
 L'installation de la fibre optique vise à fournir une connexion haut débit et stable à ces sites importants, permettant ainsi un accès rapide aux données et une meilleure communication entre les différents sites.
 
-#### **MPLEO (Project RH)**
+#### MPLEO (Project RH)
 
 Une plateforme RH qui centralise les données et les applications, simplifiant les processus de gestion des ressources humaines. Cela inclut la gestion des fiches de paie, l'automatisation des flux de validation et l'engagement des employés.
 
-#### **Smartphones pour les Agents Terrain**
+#### Smartphones pour les Agents Terrain
 
 Fournir des smartphones aux agents sur le terrain et leur offrir une formation pour utiliser ces appareils afin de réduire la fracture numérique et d'améliorer la communication et l'efficacité lorsqu'ils sont en déplacement.
 
-#### **MDM avec Intune de Microsoft**
+#### MDM avec Intune de Microsoft
 
 Le Mobile Device Management (Gestion des Appareils Mobiles) avec Intune permet de gérer et de sécuriser les appareils mobiles (comme les smartphones et tablettes) utilisés dans l'entreprise. Il assure le contrôle des données, des applications et des configurations des appareils, garantissant ainsi la sécurité et la conformité des appareils connectés au réseau de l'entreprise.
 
-#### **M365 et Exchange**
+#### M365 et Exchange
 
 Microsoft 365 (M365) est une suite d'applications et de services de productivité cloud de Microsoft. Exchange est une partie de cette suite, fournissant un service de messagerie et de collaboration pour gérer les emails, le calendrier, les contacts et les tâches au sein d'une organisation.
 
-#### **Amélioration du Système Trellix pour la Sécurité d'Entreprise**
+#### Amélioration du Système Trellix pour la Sécurité d'Entreprise
 
 Trellix est probablement un système utilisé pour renforcer la sécurité de l'entreprise. Cela peut inclure des fonctionnalités de surveillance, de gestion des accès et d'autres mesures visant à protéger les données et les infrastructures de l'entreprise contre les menaces.
 
-#### **Projets à Venir**
+#### Projets à Venir
 
 - **Sécurité Informatique :** Amélioration des protocoles de sécurité pour protéger les données et les infrastructures contre les cybermenaces.
 - **IOT (Internet of Things) :** Utilisation et intégration d'appareils connectés pour collecter des données et automatiser des processus.
@@ -312,17 +322,94 @@ Trellix est probablement un système utilisé pour renforcer la sécurité de l'
 - **Remplacement des Systèmes WiFi :** Mise à niveau ou changement des infrastructures WiFi pour une meilleure couverture et performance.
 - **Naas (Network as a Service) :** Fourniture de services réseau à la demande, permettant une flexibilité accrue dans la gestion et l'utilisation des ressources réseau.
 
+### Les responsabilités et fonctions du département Ops
+
+Le département des Opérations Informatiques de Bruxelles Environnement a pour mission de garantir le bon fonctionnement, la sécurité et l'efficacité des systèmes informatiques. Voici un résumé des responsabilités et des rôles clés au sein de ce département :
+
+### Le département Ops
+#### Responsabilités du Département Ops
+
+1. **Gestion des Infrastructures Informatiques :** Assurer le bon fonctionnement et la maintenance des infrastructures matérielles et logicielles.
+    
+2. **Maintenance et Support Technique :** Fournir une assistance et une maintenance continues pour assurer le bon fonctionnement des systèmes.
+    
+3. **Sécurité Informatique :** Protéger les systèmes contre les menaces et garantir la sécurité des données et des réseaux.
+    
+4. **Gestion des Parcs Informatiques :** Superviser l'ensemble des équipements informatiques utilisés au sein de l'organisation.
+    
+5. **Gestion des Données et Backup :** Assurer la sauvegarde des données pour éviter toute perte d'informations cruciales.
+    
+6. **Administration des Réseaux :** Superviser et maintenir les réseaux pour garantir leur disponibilité et leur performance.
+    
+7. **Gestion des Serveurs et du Cloud :** S'occuper de la maintenance et de la gestion des serveurs locaux et des services cloud.
+    
+8. **Gestion des Projets Techniques :** Diriger et exécuter des projets techniques pour améliorer les systèmes existants ou introduire de nouvelles technologies.
+    
+9. **Gestion des Logiciels et Applications :** Assurer le bon fonctionnement et la mise à jour des logiciels utilisés par l'organisation.
+    
+10. **Assistance aux Utilisateurs :** Fournir un support et une assistance technique aux utilisateurs pour résoudre les problèmes rencontrés.
+    
+11. **Conformité et Réglementation :** S'assurer que les systèmes informatiques respectent les normes et réglementations en vigueur.
+
+### la Composition de l'Équipe Ops
+
+Le département des Opérations Informatiques, dirigé par Xavier Lefèvre-Wastelain, est essentiel au bon fonctionnement des systèmes informatiques de Bruxelles Environnement. Voici une vue d'ensemble des métiers qui composent cette équipe :
+
+#### Service Support Informatique :
+
+- **Adjoints Administratifs :** Ils soutiennent administrativement le département, gérant la documentation, la correspondance et d'autres tâches administratives essentielles.
+    
+- **Techniciens IT :** Ces experts offrent un support technique, diagnostiquant et résolvant les problèmes informatiques rencontrés par les utilisateurs au quotidien.
+    
+- **Techniciens Audiovisuels :** Ils sont responsables du bon fonctionnement des équipements audiovisuels utilisés au sein de l'organisation, garantissant des présentations et des réunions sans accroc.
+    
+- **Opérateurs Helpdesk IT :** Ils assurent un support technique direct aux utilisateurs par le biais du helpdesk, guidant les employés à travers des problèmes informatiques.
+    
+
+#### Service Infrastructure IT :
+
+- **Ingénieurs Systèmes :** Ces professionnels expérimentés gèrent et maintiennent les infrastructures informatiques complexes, assurant la stabilité, la sécurité et l'évolutivité des systèmes.
+
+Cette équipe multidisciplinaire, composée de différents métiers spécialisés, travaille de concert pour garantir le bon fonctionnement, la sécurité et l'efficacité des systèmes informatiques de l'organisation. Chaque rôle contribue à maintenir un environnement informatique fiable et performant pour Bruxelles Environnement.
+
+
+### Journée Type d'un Technicien Informatique
+
+1. **Café :** Commencer la journée avec une bonne tasse de café pour se mettre en marche et se préparer mentalement pour la journée à venir.
+    
+2. **GPI (Gestion des Problèmes et Incidents) - Ticketing (Système de Ticketing) :** Cette étape implique la gestion des problèmes et incidents informatiques via un système de ticketing. Les techniciens reçoivent des requêtes (tickets) provenant des utilisateurs ou du système de surveillance pour résoudre des problèmes techniques ou répondre à des demandes spécifiques. Homegrade est le logiciel utilisé pour cela, où les tickets sont assignés, suivis et résolus.
+    
+3. **Temps Libre - Tâches de Fond :** Ce temps peut être consacré à des tâches de fond, comme la mise à jour des documentations, l'amélioration des processus, la recherche de nouvelles solutions pour résoudre des problèmes récurrents ou l'apprentissage de nouvelles compétences techniques. C'est un moment pour travailler sur des projets qui améliorent l'efficacité ou la qualité du service informatique.
+
+
+###   Visite des Serveurs de Bruxelles Environnement avec Xavier
+
+La salle des serveurs joue un rôle crucial en tant qu'espace de stockage matériel et pour la gestion de la géométrie du bâtiment. Nous avons eu l'occasion de la visiter.  
+
+#### Équipements informatiques Présents :
+
+- **Armoire pour la 4G gérée par Orange :** Cette armoire est gérée par l'opérateur Orange pour assurer la connectivité 4G. Elle est présente suite à des problèmes d'accès réseau.
+    
+- **4 Serveurs ESX :** Ces serveurs physiques exécutent plusieurs machines virtuelles. Ils constituent la plateforme de virtualisation. Fonctionnent avec Hyper-V
+    
+- **3 Serveurs Baremetal :** Ces serveurs fonctionnent sans virtualisation, exécutant directement le système d'exploitation et les applications sur le matériel physique.
+    
+- **Barracuda :** Ces appareils jouent un rôle dans la gestion des emails (mailing) et sont entièrement gérés au sein de l'environnement informatique de Bruxelles Environnement, et non dans le data center régional.
+    
+- **Infoblox :** Système de gestion des noms de domaine, permettant la résolution et la gestion efficace des noms de domaine sur le réseau.
+    
+- **Fortinet :** Équipements pare-feu (firewalls) qui sécurisent le réseau en contrôlant et en filtrant le trafic entrant et sortant.
+    
+- **Switchs Fibre :** Utilisés pour la connectivité via le réseau Irisnet. Irisnet fournit la connexion fibre, tandis que la connectivité 4G est assurée par Orange. Le débit total est de 1 Térabit, dont 600 GB pour le data center et 400 GB pour les utilisateurs.
+    
+- **Patch Panel Fibre :** Organise et gère les connexions des câbles fibre optique pour faciliter la connectivité.
+    
+- **DELL EMC :** Probablement une solution de stockage, mais sans plus de détails, il est difficile de préciser son rôle exact.
+    
+- **NAS Netgear :**  Stockage en réseau d'entreprise.
 
 
 
 
 
 
-
-
-
-
-# Sitographie
-[mpleo]([We do it for human experiences | mpleo](https://www.mpleo.com/))
-[Trellix]([Trellix | Revolutionary Threat Detection and Response](https://www.trellix.com/))
-[BA4]([Qu’est-ce qu’une attestation BA4 ou BA5 ? - Mensura](https://www.mensura.be/fr/acces-client/news/qu-est-ce-qu-une-attestation-ba4-ou-ba5))

@@ -1,6 +1,11 @@
 ---
-date: 2023-12-03
+date: 2023-12-04
 ---
-# Semaine 49 - 2023
-
-## Lundi 03/12/2023 
+# Semaine 49
+---
+## Lundi 04/12/2023
+##### Emploi
+- Travailler sur son CV
+##### Windows
+- Révisions
+##### Excel

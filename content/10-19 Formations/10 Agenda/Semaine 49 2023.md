@@ -16,3 +16,9 @@ date: 2023-12-04
 ---
 
 ## Mardi 05/12/2023
+##### Montage Pc 
+- Révisions
+##### Français
+- Fin de la lecture et des débats sur les réformes scolaires.
+##### communication
+- présentations oral

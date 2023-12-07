@@ -22,3 +22,18 @@ date: 2023-12-04
 - Fin de la lecture et des débats sur les réformes scolaires.
 ##### communication
 - présentations oral
+
+---
+## Mercredi 06/12/2023
+##### Word 
+- Rapport de visite
+##### Outlook
+- Révision 
+##### Mathématique
+- les identité remarquable
+- Théorie sur l'orthonomé
+
+---
+## Jeudi 07/12/2023
+##### Outlook
+- Correction es révisons 

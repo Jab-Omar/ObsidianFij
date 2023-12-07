@@ -1,21 +1,5 @@
----
-draft: "True"
----
 
-# Notes
-## Liens utiles
-[A propos](https://environnement.brussels/citoyen/a-propos-bruxelles-environnement)
-[paradigm](https://be.brussels/fr/propos-de-la-region/structure-et-organisation/apercu-des-administrations-et-institutions-de-la-region/paradigm/nos-services#Externaliser-l'hebergement-de-l'ecosysteme-IT-4950)
-[EcoConception](https://environnement.brussels/citoyen/comment-bruxelles-environnement-concu-un-site-internet-plus-durable-et-plus-ecologique?highlight=eco%20responsable)
-[Eco resbonsabilité SciencePresse Canada](https://www.sciencepresse.qc.ca/blogue/2011/04/15/leco-responsabilite-dela-green-washing)
-[Eco resbonasabilité Wikipedia Fr](https://fr.wikipedia.org/wiki/Responsabilit%C3%A9_environnementale)
-[mpleo]([We do it for human experiences | mpleo](https://www.mpleo.com/))
-[Trellix]([Trellix | Revolutionary Threat Detection and Response](https://www.trellix.com/))
-[BA4]([Qu’est-ce qu’une attestation BA4 ou BA5 ? - Mensura](https://www.mensura.be/fr/acces-client/news/qu-est-ce-qu-une-attestation-ba4-ou-ba5))
-
-
-Utilisation de l'IA pour : Bruxelles Environnement qu'est ce que c'est ? 
-
+# Notes pour le rapport de vistie
 
 ## Partie 1 : Présentation de Bruxelles Environnement
 

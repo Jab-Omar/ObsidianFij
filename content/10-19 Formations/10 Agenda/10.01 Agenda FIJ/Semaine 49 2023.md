@@ -36,4 +36,11 @@ date: 2023-12-04
 ---
 ## Jeudi 07/12/2023
 ##### Outlook
-- Correction es révisons 
+- Correction des révisons.
+##### Montage Pc
+- évaluation certificative. 
+
+---
+
+## Vendredi 08/12/2023
+

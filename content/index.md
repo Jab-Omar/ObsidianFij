@@ -14,10 +14,11 @@ title: FIJ TUI2023
 ---
 ## Notes Perso
 
-- **[[19.00 MOC DevOps]]**
+- **[[12 MOC DevOps]]**
 - [[Prompts pour optimiser son apprentissage]]
 - [[Mon annuaire de sites]]
 - [[Progression OvertheWire privé]]
+- [[Notes Bruxelles Environement]]
 ---
 ## Agenda Hebdo
 

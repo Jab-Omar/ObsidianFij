@@ -43,4 +43,13 @@ date: 2023-12-04
 ---
 
 ## Vendredi 08/12/2023
+##### Windows
+- Révisions
+##### Word
+- Travail sur le rapport de visite
+##### Anglais
+- Traduction de la deuxième partie de What is a network ?
+
+---
+
 

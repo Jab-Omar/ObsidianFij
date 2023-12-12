@@ -4,20 +4,18 @@ title: FIJ TUI2023
 # Index pour Formation FIJ
 ## Cours
 
-- **[[11.01 MOC Hardware]]**
-- **[[11.02 MOC Windows]]**
-- **[[11.03 MOC Outlook]]**
-- **[[11.04 MOC Excel]]**
-- **[[11.05 MOC Anglais]]**
-- **[[11.06 MOC Emploi]]**
-- **[[11.07 MOC Français]]**
+- **[[31.01 MOC Hardware]]**
+- **[[31.02 MOC Windows]]**
+- **[[31.03 MOC Outlook]]**
+- **[[31.04 MOC Excel]]**
+- **[[31.05 MOC Anglais]]**
+- **[[31.06 MOC Emploi]]**
+- **[[31.07 MOC Français]]**
 ---
 ## Notes Perso
 
-- **[[12 MOC DevOps]]**
+- **[[32.00 MOC DevOps]]**
 - [[Prompts pour optimiser son apprentissage]]
-- [[Mon annuaire de sites]]
-- [[Progression OvertheWire privé]]
 - [[Notes Bruxelles Environement]]
 ---
 ## Agenda Hebdo
@@ -34,7 +32,7 @@ title: FIJ TUI2023
 |--------|---------|
 |[[Semaine 44 2023]]|[[Semaine 48 2023]]|
 |[[Semaine 45 2023]]|[[Semaine 49 2023]]|
-|[[Semaine 46 2023]]|
+|[[Semaine 46 2023]]|[[Semaine 50 2023]]|
 |[[Semaine 47 2023]]|
 
 ---

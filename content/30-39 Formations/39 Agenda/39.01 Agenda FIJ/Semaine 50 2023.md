@@ -23,9 +23,16 @@ date: 2023-12-08
 ---
 ## Jeudi 14/12/2023
 ##### Word
-
+- Temps libre
 ##### Français
 - Examen certificatif
 
 ##### Uf Stage
 - Présentation du rapport de stage.
+---
+## Vendredi 15/12/2023
+##### Windows
+- Révisions
+##### Anglais
+- Révisions
+---

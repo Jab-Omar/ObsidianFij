@@ -16,23 +16,13 @@ title: FIJ TUI2023
 
 - **[[32.00 MOC DevOps]]**
 - [[Prompts pour optimiser son apprentissage]]
-- [[Notes Bruxelles Environement]]
+
 ---
 ## Agenda Hebdo
 
+|**Janvier 2024**|**Février 2024**|
+|-------|-------|
+|Semaine 02 2024|
 
-|**Septembre 2023**|**Octobre 2023**|
-|---------|-------|
-|[[Semaine 36 2023]]|[[Semaine 40 2023]]|
-|[[Semaine 37 2023]]|[[Semaine 41 2023]]|
-|[[Semaine 38 2023]]|[[Semaine 42 2023]]|
-|[[Semaine 39 2023]]|[[Semaine 43 2023]]|
-
-|**Novembre 2023**|**Décembre** 2023|
-|--------|---------|
-|[[Semaine 44 2023]]|[[Semaine 48 2023]]|
-|[[Semaine 45 2023]]|[[Semaine 49 2023]]|
-|[[Semaine 46 2023]]|[[Semaine 50 2023]]|
-|[[Semaine 47 2023]]|
 
 ---

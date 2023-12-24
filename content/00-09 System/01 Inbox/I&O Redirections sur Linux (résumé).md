@@ -1,4 +1,4 @@
-# Redirection d'E/S (Entrée/Sortie) sous Linux
+# Redirection d'E/S (Entrée/Sortie) sous Linux ou (Input/Output)
 
 ## Introduction
 Les redirections d'E/S (Entrée/Sortie) sous Linux sont essentielles pour gérer le flux d'informations entre les commandes et les fichiers. Comprendre ces redirections permet de manipuler efficacement les flux de données dans le terminal.

@@ -50,7 +50,8 @@ Ce laboratoire vise à pratiquer la manipulation de données dans un fichier en 
     - Utilisez `cat` pour afficher le contenu du fichier de données :
         `cat data.txt`
     - Utilisez `head` et `tail` pour afficher les premières et dernières lignes du fichier :
-        `head data.txt tail data.txt`
+        `head data.txt` 
+        `tail data.txt`
     - Utilisez `grep` pour filtrer des lignes spécifiques. Exemple :
         `grep 'Paris' data.txt`
 

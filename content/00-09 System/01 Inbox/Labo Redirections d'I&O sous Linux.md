@@ -6,7 +6,7 @@
 - **Exercice 2**: Utilisez la commande `date >> list.txt` pour ajouter la date et l'heure actuelles à la fin du fichier `list.txt`.
 
 ## 2. Redirection de l'Entrée
-- **Exercice 3**: Utilisez `cat < input.txt` pour afficher le contenu du fichier `input.txt` dans le terminal.
+- **Exercice 3**: Utilisez `cat < list.txt` pour afficher le contenu du fichier `list.txt` dans le terminal.
 
 ## 3. Gestion des Erreurs
 - **Exercice 4**: Utilisez la commande `grep 'mot_cle' fichier_inexistant 2> errors.log` pour rediriger les erreurs de la commande `grep` vers un fichier nommé `errors.log`.

@@ -13,9 +13,26 @@ Simuler l'analyse d'un fichier de logs fictif en utilisant les commandes d'I&O R
         `nano logs.txt`
     - Ajoutez des lignes fictives de logs. Exemple de contenu :
 		```yaml
-		 2023-12-23 10:00:00 INFO: User logged in successfully. 
-	     2023-12-23 10:05:00 ERROR: Page not found - 404. 
-	     2023-12-23 10:10:00 WARNING: High CPU usage detected.
+			2023-12-23 10:00:00 INFO: Connexion de l'utilisateur réussie.
+			2023-12-23 10:05:00 ERROR: Page introuvable - 404.
+			2023-12-23 10:10:00 WARNING: Détection d'une utilisation élevée du processeur (CPU).
+			2023-12-23 10:15:00 INFO: Processus de sauvegarde démarré.
+			2023-12-23 10:20:00 ERROR: Échec de la sauvegarde - Espace de stockage insuffisant.
+			2023-12-23 10:25:00 INFO: Redémarrage du serveur pour maintenance planifiée.
+			2023-12-23 10:30:00 WARNING: Trafic réseau anormalement élevé.
+			2023-12-23 10:35:00 ERROR: Base de données inaccessible.
+			2023-12-23 10:40:00 INFO: Mise à jour du système terminée avec succès.
+			2023-12-23 10:45:00 WARNING: Température du processeur critique détectée.
+			2023-12-23 10:50:00 ERROR: Panne de l'alimentation électrique.
+			2023-12-23 10:55:00 INFO: Restauration des données à partir d'une sauvegarde.
+			2023-12-23 11:00:00 INFO: Connexion SSH établie depuis une adresse IP inconnue.
+			2023-12-23 11:05:00 WARNING: Disponibilité du disque dur en dessous du seuil critique.
+			2023-12-23 11:10:00 ERROR: Erreur système inattendue.
+			2023-12-23 11:15:00 INFO: Terminaison du processus système.
+			2023-12-23 11:20:00 ERROR: Perte de connexion au réseau.
+			2023-12-23 11:25:00 WARNING: Anomalie détectée dans les logs du système.
+			2023-12-23 11:30:00 INFO: Changement du mot de passe utilisateur.
+			2023-12-23 11:35:00 WARNING: Activité inhabituelle sur le compte administrateur.
 	     ```
         
 

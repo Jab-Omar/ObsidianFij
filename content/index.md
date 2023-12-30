@@ -19,7 +19,7 @@ title: FIJ TUI2023
 
 ---
 ## Agenda Hebdo
-![[Année 2024#Agenda Hebdo]]
 
-
----
+| **Janvier 2024** |
+| ---- |
+| [[Semaine 02 2024]] |

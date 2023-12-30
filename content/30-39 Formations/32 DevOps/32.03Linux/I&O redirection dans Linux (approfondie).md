@@ -102,10 +102,7 @@ cat /dev/null > /tmp/sysinfo.txt
 ```
 est utilisée. Elle utilise `cat` pour lire le contenu de `/dev/null`, qui est vide, et ensuite redirige cette sortie vide vers `/tmp/sysinfo.txt`, ce qui remplace tout contenu précédent dans ce fichier par une sortie vide. Ainsi, le fichier `/tmp/sysinfo.txt` est vidé de son contenu.
 
-Bien sûr, voici une note expliquant les opérateurs de redirection `1>`, `2>`, et `&>` utilisés dans les systèmes Linux/Unix pour la gestion des sorties.
-
 ---
-
 ## Opérateurs de redirection de sortie dans les commandes Linux/Unix
 
 Lors de l'exécution de commandes dans un terminal Linux/Unix, il est possible de rediriger la sortie vers différents emplacements en utilisant des opérateurs spécifiques. Voici trois opérateurs couramment utilisés :

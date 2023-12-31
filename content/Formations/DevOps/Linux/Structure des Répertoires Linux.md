@@ -1,7 +1,7 @@
 ---
 date: 2023-11-02
 ---
-## Structure des Répertoires Linux
+# Structure des Répertoires Linux
 
 Linux suit une hiérarchie de répertoires bien définie pour organiser ses fichiers et dossiers. Voici une vue d'ensemble des répertoires principaux et de leur utilité :
 

@@ -1,11 +1,11 @@
 ---
 date: 2023-11-02
 ---
-## Filtrage de Données sous Linux
+# Filtrage de Données
 
 Le filtrage de données est une compétence fondamentale pour l'administration système sous Linux. Il permet de rechercher, extraire ou afficher des informations spécifiques dans des fichiers ou des flux de données. Plusieurs commandes Linux sont essentielles pour cette tâche. Dans cette note, nous allons explorer ces commandes, discuter de leurs fonctionnalités avancées et partager des astuces de sysadmin.
 
-### 1. `grep` - Rechercher un Texte dans un Fichier
+## `grep` - Rechercher un Texte dans un Fichier
 
 La commande `grep` est un outil puissant pour rechercher un motif (pattern) dans un fichier ou un flux de données. Voici quelques options couramment utilisées :
 
@@ -23,7 +23,7 @@ La commande `grep` est un outil puissant pour rechercher un motif (pattern) dans
 - Affiche les noms de fichiers contenant "motif" 
 >`grep -l "motif" /chemin/vers/repertoire/*`
 
-### 2. `less` et `more` - Afficher un Fichier Page par Page
+## `less` et `more` - Afficher un Fichier Page par Page
 
 Les commandes `less` et `more` sont des visionneuses de fichiers qui permettent d'afficher un fichier page par page. Cela est particulièrement utile pour naviguer dans de grands fichiers. Pour afficher la page suivante, utilisez la touche `Espace`. Pour quitter, appuyez sur la touche `q`.
 
@@ -31,7 +31,7 @@ Les commandes `less` et `more` sont des visionneuses de fichiers qui permettent 
 
 >`less fichier.txt`
 
-### 3. `head` et `tail` - Afficher les Premières ou Dernières Lignes
+## `head` et `tail` - Afficher les Premières ou Dernières Lignes
 
 La commande `head` est utilisée pour afficher les premières lignes d'un fichier, tandis que `tail` est utilisée pour afficher les dernières lignes d'un fichier. Vous pouvez spécifier le nombre de lignes à afficher.
 
@@ -44,7 +44,7 @@ La commande `head` est utilisée pour afficher les premières lignes d'un fichie
 
 **Astuce de Sysadmin :** `tail -f` est utile pour surveiller les journaux en temps réel.
 
-### 4. `cut` - Extraire des Colonnes de Données
+## `cut` - Extraire des Colonnes de Données
 
 La commande `cut` permet d'extraire des colonnes de données à partir de fichiers texte. Vous spécifiez le délimiteur (généralement `-d`) et les numéros de colonnes (généralement `-f`).
 
@@ -53,7 +53,7 @@ La commande `cut` permet d'extraire des colonnes de données à partir de fichie
 - Extrait la première colonne (délimitée par des virgules) d'un fichier CSV 
 >`cut -d ',' -f 1 fichier.csv`
 
-### 5. `awk` - Traitement de Texte
+## `awk` - Traitement de Texte
 
 La commande `awk` est un outil polyvalent pour le traitement de texte. Vous spécifiez des motifs et d'autres actions à effectuer sur les lignes correspondantes.
 
@@ -64,7 +64,7 @@ La commande `awk` est un outil polyvalent pour le traitement de texte. Vous spé
 
 **Astuce de Sysadmin :** `awk` est idéal pour analyser des fichiers CSV ou TSV en extrayant des colonnes spécifiques.
 
-### 6. `sed` - Édition de Texte en Flux
+## `sed` - Édition de Texte en Flux
 
 La commande `sed` est utilisée pour effectuer des modifications de texte en flux. Vous spécifiez des expressions régulières pour rechercher et remplacer du texte.
 

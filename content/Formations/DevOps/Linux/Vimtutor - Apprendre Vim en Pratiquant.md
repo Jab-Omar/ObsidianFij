@@ -1,9 +1,6 @@
 ---
 date: 2023-11-02
 ---
-Bien sûr, voici une note spécifiquement pour Vimtutor :
-
----
 
 # Vimtutor : Apprendre Vim en Pratiquant
 

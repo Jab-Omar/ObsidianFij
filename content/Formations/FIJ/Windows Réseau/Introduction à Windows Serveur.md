@@ -28,6 +28,22 @@ Le choix entre une installation avec ou sans interface graphique dépend des bes
 - Cette version est adaptée aux administrateurs ou utilisateurs qui sont plus à l'aise avec une interface graphique pour gérer et surveiller le serveur.
 - Elle fournit un bureau, un gestionnaire de fichiers et une expérience utilisateur plus familière pour la configuration et la gestion du serveur.
 
+## Les CALs (Client Access Licenses)
+Les CALs (Client Access Licenses) sont des licences nécessaires pour accéder aux services fournis par un serveur Windows. Il existe deux types principaux de CALs : les CALs Utilisateur et les CALs Périphérique.
+
+1. **CAL Utilisateur :** Cette licence est attribuée à un utilisateur spécifique. Elle lui permet d'accéder aux services du serveur Windows depuis n'importe quel appareil.
+    
+2. **CAL Périphérique :** Cette licence est attribuée à un appareil spécifique, lui permettant d'accéder aux services du serveur Windows via cet appareil, quel que soit l'utilisateur.
+    
+
+En ce qui concerne les prix, ils varient selon le type de CAL et le modèle de licence choisi par l'entreprise. Ils peuvent être achetés individuellement ou en pack, souvent avec des tarifs dégressifs pour les achats en grande quantité.
+
+La gestion des CALs dépend de l'organisation. Un administrateur réseau ou un responsable informatique est généralement chargé de suivre le nombre de licences utilisées et de s'assurer que l'entreprise dispose du nombre adéquat de CALs pour couvrir tous les utilisateurs ou périphériques accédant aux services du serveur Windows.
+
+Microsoft propose des outils de gestion de licences pour aider à suivre et gérer les CALs. Ces outils aident à s'assurer que l'entreprise est conforme aux conditions de licence et dispose du nombre approprié de licences pour éviter toute violation de licence.
+
+Il est important de se conformer aux exigences en matière de licences pour éviter tout problème juridique et garantir l'accès aux services nécessaires pour les utilisateurs et les périphériques de l'entreprise.
+
 ## Versions Standard et Datacenter 
 |Fonctionnalité|Standard|Datacenter|
 |---|---|---|

@@ -4,16 +4,18 @@ title: FIJ TUI2023
 # Index pour Formation FIJ
 ## Cours
 
-- **[[MOC Hardware]]**
-- **[[MOC Windows]]**
-- **[[MOC Outlook]]**
-- **[[MOC Anglais]]**
-- **[[MOC Emploi]]**
-- **[[MOC Français]]**
+- [[MOC Hardware]]
+- [[MOC Windows]]
+- [[MOC Outlook]]
+- [[MOC Anglais]]
+- [[MOC Emploi]]
+- [[MOC Français]]
+- [[MOC Linux Réseau]]
+- [[MOC Window Réseau]]
 ---
 ## Notes Perso
 
-- **[[MOC DevOps]]**
+- [[MOC DevOps]]
 - [[Prompts pour optimiser son apprentissage]]
 
 ---

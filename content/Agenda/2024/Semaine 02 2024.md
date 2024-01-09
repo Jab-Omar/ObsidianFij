@@ -20,12 +20,16 @@ date: 2024-01-08
 ##### Windows Réseau
 - Précisions sur l'horaire et la matière vue en Windows Réseau.
 - Explication de la différence entre Hyperviseur de type 1 et 2. 
+- Configurations Réseau dans Oracle VirtualBox.
 - Installation des Vm srv2016, srv2019, win10, win11.
 - Réseau Nat Network + Changement du hostname + Guest additions et Snapshot.
 - Différence entre GUI et Sans-GUI + Différence entre version Standard et Datacenter.
 - **Devoir** : Faire un tableau comparatif entre windows server standard et datacenter.
 ##### Linux Réseau
 - Rappel de la matière vue au precedent cours. 
-- Correction TP Arborescence - Exercice 1
+- Correction TP Arborescence - Exercice 1.
+- Fin du TP Arborescence.
+- Correction du TP Arborescence.
+- Les commandes dnf et apt.
 ---
 ## Mercredi 10/01/2024

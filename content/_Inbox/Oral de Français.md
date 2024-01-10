@@ -20,4 +20,4 @@ draft: "True"
 # Pour ou contre la prison ?
 
 # Pour ou contre le Revenu Universel
-- http://www.politicoboy.fr/revenu-universel/pour-ou-contre-le-revenu-universel/# Le label Bio est Il fiable
+- http://www.politicoboy.fr/revenu-universel/pour-ou-contre-le-revenu-universel/# 

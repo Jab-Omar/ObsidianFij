@@ -53,5 +53,6 @@ date: 2024-01-08
 - [ ] Appeler Ikea Pour les Pieds de lit Slattum 504.502.22
 - [ ] BIM
 - [ ] Ateliers des droits sociaux
+- [ ] Ajouter Les fichiers Helpdesk dans teams.
 ##### Français
 

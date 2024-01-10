@@ -33,3 +33,17 @@ date: 2024-01-08
 - Les commandes dnf et apt.
 ---
 ## Mercredi 10/01/2024
+##### Helpdesk
+- Présentation de la matière qui sera vue au cours + grille d'évaluation.
+- Découverte de Quick Access.
+- Exercice de Helpdesk.
+##### BDD
+- Présentation du cours.
+- Qu'est ce une base de donnée ?
+- Introduction au bases de données.
+- Exercices 1 : Modèle "entité-association"
+##### Emploi
+- La lettre de motivation.
+
+---
+## Jeudi 11/01/2024

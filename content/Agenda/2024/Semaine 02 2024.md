@@ -41,9 +41,17 @@ date: 2024-01-08
 - Présentation du cours.
 - Qu'est ce une base de donnée ?
 - Introduction au bases de données.
-- Exercices 1 : Modèle "entité-association"
+- Exercices 1 : Modèle "entité association"
 ##### Emploi
 - La lettre de motivation.
+- Exercice sur la lettre de motivation.
+- **Devoir** : Pour le prochain cours faire une lettre de motivation.
 
 ---
 ## Jeudi 11/01/2024
+
+- [ ] Appeler Ikea Pour les Pieds de lit Slattum 504.502.22
+- [ ] BIM
+- [ ] Ateliers des droits sociaux
+##### Français
+

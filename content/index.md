@@ -11,7 +11,7 @@ title: FIJ TUI2023
 - [[MOC Emploi]]
 - [[MOC Français]]
 - [[MOC Linux Réseau]]
-- [[MOC Window Réseau]]
+- [[MOC Windows Réseau]]
 ---
 ## Notes Perso
 

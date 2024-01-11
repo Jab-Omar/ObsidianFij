@@ -63,3 +63,8 @@ date: 2024-01-08
 - Les systèmes numériques Théorie.
 - Les système numériques Exercices.
 
+---
+## Vendredi 12/01/2024
+##### BDD
+
+

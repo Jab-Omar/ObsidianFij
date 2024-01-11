@@ -50,9 +50,12 @@ date: 2024-01-08
 ---
 ## Jeudi 11/01/2024
 
-- [ ] Appeler Ikea Pour les Pieds de lit Slattum 504.502.22
-- [ ] BIM
-- [ ] Ateliers des droits sociaux
-- [ ] Ajouter Les fichiers Helpdesk dans teams.
+##### Anglais
+- Théorie sur by.
+- Faire des phrases en anglais avec by.
+- Théorie sur les comparatif et superlatif de supériorité.
 ##### Français
+- Choix des sujets plus sources et brève explication des sources.
+- Document Word à mettre dans teams avant le prochain cours.
+##### Mathématiques 
 

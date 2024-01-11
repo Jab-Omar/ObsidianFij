@@ -57,5 +57,7 @@ date: 2024-01-08
 ##### Français
 - Choix des sujets plus sources et brève explication des sources.
 - Document Word à mettre dans teams avant le prochain cours.
-##### Mathématiques 
+##### Mathématiques appliquée à l'informatique
+- Introduction au cours
+- 
 

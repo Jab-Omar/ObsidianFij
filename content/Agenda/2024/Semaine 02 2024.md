@@ -59,5 +59,7 @@ date: 2024-01-08
 - Document Word à mettre dans teams avant le prochain cours.
 ##### Mathématiques appliquée à l'informatique
 - Introduction au cours
-- 
+- Révision  Notation scientifique et ingénieure
+- Les systèmes numériques Théorie.
+- Les système numériques Exercices.
 

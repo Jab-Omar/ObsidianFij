@@ -43,3 +43,24 @@ Les **associations** décrivent les liens et les relations entre les entités da
 ### Relations binaires
 
 Les **relations binaires** sont des relations entre deux entités. Elles peuvent être de différents types, comme les relations un à un, un à plusieurs et plusieurs à plusieurs, décrivant la manière dont les entités sont liées les unes aux autres.
+
+### Les Relations Ternaires
+
+Dans le contexte des bases de données, les relations ternaires sont des liens entre trois entités distinctes. Alors que les relations binaires concernent deux entités et décrivent généralement des connexions simples, les relations ternaires permettent de modéliser des interactions plus complexes impliquant trois composants.
+
+### Ternaires en Binaire
+
+La représentation binaire des relations ternaires implique généralement l'utilisation de multiples clés étrangères pour relier les entités entre elles. Chaque clé étrangère contribue à établir une connexion spécifique dans la relation ternaire, et leur combinaison permet de définir les liens entre les trois entités concernées.
+
+Par exemple, considérons trois entités A, B et C dans une base de données. Une relation ternaire entre elles pourrait être représentée par l'utilisation de clés étrangères comme suit :
+
+- Clé étrangère de A dans la table de la relation ternaire
+- Clé étrangère de B dans la table de la relation ternaire
+- Clé étrangère de C dans la table de la relation ternaire
+
+Ces clés étrangères combinées créent une structure permettant de représenter et de maintenir la relation ternaire entre les entités.
+
+### Relations Récursives
+
+Les relations récursives se produisent lorsqu'une entité dans une table est liée à elle-même. Cela signifie qu'une instance de l'entité peut être connectée à une autre instance de la même entité. Les relations récursives sont couramment utilisées pour modéliser des hiérarchies ou des structures arborescentes.
+

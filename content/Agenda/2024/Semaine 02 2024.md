@@ -66,5 +66,9 @@ date: 2024-01-08
 ---
 ## Vendredi 12/01/2024
 ##### BDD
-
+- Schéma entité association : exercice 2 et 3.
+- Découverte du logiciel Access.
+##### Windows Réseau
+- Présentation des schéma réseaux.
+- Théorie sur les bases de l'Active Directory. (1 à 15)
 

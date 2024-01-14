@@ -59,6 +59,8 @@ date: 2024-01-09
 - **Fonctionnement** : Les machines virtuelles peuvent se communiquer entre elles dans un réseau privé et partagent une connexion à Internet via une interface NAT commune.
     
 ![[imgVirtualBoxNatNetwork.jpg]]
+
+
 ## Generic Driver Cloud Network
 
 - **Description** : Pilotes réseau pour se connecter à des services cloud ou à des réseaux basés sur des normes génériques.
@@ -81,6 +83,12 @@ date: 2024-01-09
 - **Fonctionnement** : Cette configuration permet de contrôler précisément la communication de la machine virtuelle en la reliant à une interface NAT spécifique.
     
 
+## Résumé 
+
+![[imgVirtualBoxNetworkAdapters.jpg]]
+### Port Fowarding
+
+Le port forwarding, ou redirection de port en français, est une technique qui permet de diriger le trafic réseau d'un port particulier vers une machine ou un service spécifique à l'intérieur d'un réseau. Cela se fait généralement au niveau du routeur ou du pare-feu, et cela permet d'autoriser le trafic externe à atteindre une application ou un service spécifique à l'intérieur du réseau local. En d'autres termes, le port forwarding permet de faire en sorte que les communications entrantes sur un certain port soient redirigées vers un appareil ou un service particulier dans le réseau local, facilitant ainsi l'accès à des services spécifiques depuis l'extérieur du réseau local.
 ## Paramètres Avancés :
 
 ### Promiscuous Mode

@@ -2,61 +2,59 @@
 date: 2024-01-12
 ---
 # Map Of Content Helpdesk
-## 1. Introduction au Helpdesk
+## Introduction au Helpdesk
 
-- 1.1 Définition du Helpdesk
-- 1.2 Importance du Helpdesk dans l'informatique
+- [[Définition du Helpdesk]]
+- [[Importance du Helpdesk dans l'informatique]]
 
-## 2. Compétences essentielles du technicien Helpdesk
+## Compétences essentielles du technicien Helpdesk
 
-- 2.1 Communication avec les utilisateurs
-- 2.2 Résolution de problèmes techniques de base
-- 2.3 Gestion du temps et des priorités
+- [[Communication avec les utilisateurs]]
+- [[Résolution de problèmes techniques de base]]
+## Outils et logiciels du Helpdesk
 
-## 3. Outils et logiciels du Helpdesk
+- Logiciels de ticketing
+- Outils de prise de contrôle à distance
+- Systèmes de gestion des connaissances
 
-- 3.1 Logiciels de ticketing
-- 3.2 Outils de prise de contrôle à distance
-- 3.3 Systèmes de gestion des connaissances
+## Types de demandes et scénarios courants
 
-## 4. Types de demandes et scénarios courants
+- Problèmes matériels
+- Problèmes logiciels
+- Demandes d'assistance générale
 
-- 4.1 Problèmes matériels
-- 4.2 Problèmes logiciels
-- 4.3 Demandes d'assistance générale
+## Bonnes pratiques en matière de service à la clientèle
 
-## 5. Bonnes pratiques en matière de service à la clientèle
+- Attitude et communication professionnelle
+- Empathie et résolution proactive des problèmes
+- Suivi des tickets et retours utilisateurs
 
-- 5.1 Attitude et communication professionnelle
-- 5.2 Empathie et résolution proactive des problèmes
-- 5.3 Suivi des tickets et retours utilisateurs
+## Sécurité informatique
 
-## 6. Sécurité informatique
+- Sensibilisation à la sécurité
+- Gestion des mots de passe
+- Signalement des incidents de sécurité
 
-- 6.1 Sensibilisation à la sécurité
-- 6.2 Gestion des mots de passe
-- 6.3 Signalement des incidents de sécurité
+## Documentation et mise à jour des bases de connaissances
 
-## 7. Documentation et mise à jour des bases de connaissances
+- Importance de la documentation
+- Création et mise à jour de la base de connaissances
+- Partage des informations entre équipes
 
-- 7.1 Importance de la documentation
-- 7.2 Création et mise à jour de la base de connaissances
-- 7.3 Partage des informations entre équipes
+## Formation continue et certifications
 
-## 8. Formation continue et certifications
+- Cours de formation en ligne
+- Certifications pertinentes en Helpdesk
+- Participation à des conférences et événements
 
-- 8.1 Cours de formation en ligne
-- 8.2 Certifications pertinentes en Helpdesk
-- 8.3 Participation à des conférences et événements
+## Gestion du stress et résolution de conflits
 
-## 9. Gestion du stress et résolution de conflits
+- Techniques de gestion du stress
+- Résolution de conflits avec les utilisateurs
+- Équilibrage vie professionnelle-vie personnelle
 
-- 9.1 Techniques de gestion du stress
-- 9.2 Résolution de conflits avec les utilisateurs
-- 9.3 Équilibrage vie professionnelle-vie personnelle
+## Évolution de carrière dans le Helpdesk
 
-## 10. Évolution de carrière dans le Helpdesk
-
-- 10.1 Possibilités d'avancement
-- 10.2 Transition vers d'autres rôles informatiques
-- 10.3 Développement des compétences spécialisées
+- Possibilités d'avancement
+- Transition vers d'autres rôles informatiques
+- Développement des compétences spécialisées

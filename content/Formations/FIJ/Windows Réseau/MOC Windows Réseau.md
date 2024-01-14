@@ -15,18 +15,19 @@ date: 2024-01-09
 - [[Définition de l'Active Directory]]
 - [[Rôle de l'Active Directory dans les Environnements Windows]]
 
-- [[Composants de l'Active Directory]]
-    - [[Les Domaines dans l'Active Directory]]
-    - [[Unités d'organisation (OU)]]
-    - [[Arbres et Forêts]]
-    - [[Le Schéma dans l'Active Directory]]
-    - [[Catalogue Global]]
-    - [[Contrôleur de Domaine]]
+### Les Composants de l'Active Directory
+- [[Les Domaines dans l'Active Directory]]
+- [[Unités d'organisation (OU)]]
+- [[Arbres et Forêts]]
+- [[Le Schéma dans l'Active Directory]]
+- [[Catalogue Global]]
+- [[Contrôleur de Domaine dans Active Directory]]
+- [[Les Composants de l'Active Directory]]
 
 ### Installation et Configuration
 
-- Processus d'installation de l'Active Directory
-- Configuration initiale d'un contrôleur de domaine
+- [[Processus d'installation de l'Active Directory]]
+- [[Configuration initiale d'un contrôleur de domaine]]
 
 ### Gestion des Objets
 

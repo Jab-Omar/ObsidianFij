@@ -15,17 +15,19 @@ _Analogie :_ Imaginez un domaine comme un département spécifique dans une gran
 
 ## Unités d'Organisation (OU)
 
-**Définition :** Les Unités d'Organisation sont des conteneurs dans un domaine qui organisent les objets de l'Active Directory de manière hiérarchique.
+**Définition :** [[Unités d'organisation (OU)|Les Unités d'Organisation]] sont des conteneurs dans un domaine qui organisent les objets de l'Active Directory de manière hiérarchique.
 
 **Rôle :** Les OUs facilitent la structuration logique des objets, simplifiant ainsi la gestion et l'attribution de politiques.
 
 _Analogie :_ Les UOs sont comme des étagères sur lesquelles vous organisez différents types de dossiers dans votre bureau. Chaque étagère peut contenir des dossiers spécifiques, vous permettant de maintenir un ordre logique dans votre espace de travail.
 
+
+
 ---
 
 ## Arbres
 
-**Définition :** Un arbre Active Directory est une collection de domaines liés de manière hiérarchique, avec chaque arbre ayant un domaine racine et plusieurs sous-domaines.
+**Définition :** [[Arbres et Forêts#Arbres dans Active Directory|Un arbre]] Active Directory est une collection de domaines liés de manière hiérarchique, avec chaque arbre ayant un domaine racine et plusieurs sous-domaines.
 
 **Rôle :** Les arbres établissent des relations parent-enfant entre les domaines, simplifiant la gestion à grande échelle.
 
@@ -35,7 +37,7 @@ _Analogie :_ Pensez à un arbre comme à une structure organisationnelle dans la
 
 ## Forêts
 
-**Définition :** Une forêt est un ensemble d'arbres Active Directory partageant une structure d'annuaire commune, des schémas et des configurations globales.
+**Définition :** [[Arbres et Forêts#Forêts dans Active Directory|Une forêt]] est un ensemble d'arbres Active Directory partageant une structure d'annuaire commune, des schémas et des configurations globales.
 
 **Rôle :** Les forêts permettent le partage de ressources entre les domaines et les arbres tout en maintenant une structure d'annuaire commune.
 
@@ -45,7 +47,7 @@ _Analogie :_ Imaginez une forêt comme une entreprise mère avec plusieurs filia
 
 ## Schéma
 
-**Définition :** Le schéma définit la structure et le type des objets stockés dans l'Active Directory, garantissant la cohérence des données.
+**Définition :** [[Le Schéma dans l'Active Directory|Le schéma]] définit la structure et le type des objets stockés dans l'Active Directory, garantissant la cohérence des données.
 
 **Rôle :** Il assure la consistance des données en définissant les attributs et les classes d'objets.
 
@@ -55,7 +57,7 @@ _Analogie :_ Le schéma est comme le plan architectural d'un bâtiment. Il spéc
 
 ## Catalogue Global
 
-**Définition :** Le catalogue global est une base de données contenant des informations sur tous les objets d'un domaine et des informations partielles sur les objets d'autres domaines de la forêt.
+**Définition :**[[Catalogue Global|Le catalogue global]] est une base de données contenant des informations sur tous les objets d'un domaine et des informations partielles sur les objets d'autres domaines de la forêt.
 
 **Rôle :** Il améliore l'efficacité des recherches en fournissant des informations centralisées sur les objets.
 
@@ -65,7 +67,7 @@ _Analogie :_ Le catalogue global est comme un index complet dans un livre. Il r�
 
 ## Contrôleur de Domaine
 
-**Définition :** Un contrôleur de domaine est un serveur contenant une copie de la base de données Active Directory pour son domaine.
+**Définition :** [[Contrôleur de Domaine dans Active Directory|Un contrôleur de domaine]] est un serveur contenant une copie de la base de données Active Directory pour son domaine.
 
 **Rôle :** Il gère l'authentification des utilisateurs et fournit des services d'annuaire.
 

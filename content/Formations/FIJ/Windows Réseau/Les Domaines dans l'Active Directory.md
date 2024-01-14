@@ -46,7 +46,7 @@ Les domaines peuvent établir des relations de confiance pour faciliter l'échan
 
 ### Contrôleurs de Domaine
 
-Au cœur de chaque domaine se trouve un contrôleur de domaine, responsable de l'authentification des utilisateurs et de la gestion des politiques.
+Au cœur de chaque domaine se trouve [[Contrôleur de Domaine dans Active Directory|un contrôleur de domaine]], responsable de l'authentification des utilisateurs et de la gestion des politiques.
 
 ### Migration
 
@@ -55,3 +55,5 @@ Passer d'un groupe de travail à un domaine implique une transition planifiée d
 ## Conclusion
 
 Les domaines, loin d'être mystérieux, sont des éléments pragmatiques de l'Active Directory. Ils offrent une structure ordonnée pour la gestion et la sécurité des réseaux, fournissant aux techniciens des outils essentiels pour simplifier les opérations et renforcer la collaboration au sein des organisations.
+
+![[imgActiveDirectoryDomain.png]]

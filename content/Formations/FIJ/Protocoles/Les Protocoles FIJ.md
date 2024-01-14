@@ -1,8 +1,7 @@
 ---
 date: 2023-11-08
 ---
-# Map Of Content Outlook
-## Les protocoles pour le mailing
+# Protocoles vu dans le cours d'Outlook
 
 | Protocole                                            | Port   |
 |------------------------------------------------------|--------|

@@ -1,5 +1,5 @@
 ---
-date: 2024-01-08
+date: 2024-01-12
 ---
 # Semaine 02 - FIJ
 ---
@@ -71,4 +71,7 @@ date: 2024-01-08
 ##### Windows Réseau
 - Présentation des schéma réseaux.
 - Théorie sur les bases de l'Active Directory. (1 à 15)
+- Installation de Active Directory sur La vm srv2016.
+- Mettre la vm Win10 dans le domaine tui.local(Domain controler : srv2016)
 
+---

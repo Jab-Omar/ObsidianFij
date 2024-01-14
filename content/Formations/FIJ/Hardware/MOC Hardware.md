@@ -1,7 +1,7 @@
 ---
 date: 2023-10-30
 ---
-# 11.01 MOC Hardware
+# MOC Hardware
 ## Composants Essentiels
 - [[Index Carte Mère]]
 - [[Index des ports d'un ordinateur]]

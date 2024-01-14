@@ -12,15 +12,11 @@ draft: "False"
 Windows Server est un système d'exploitation développé par Microsoft spécifiquement conçu pour les serveurs. Il offre des fonctionnalités essentielles pour la gestion des réseaux, des applications, du stockage de données et de la sécurité dans un environnement professionnel. Voici quelques points clés à retenir :
 
 - **Gestion des Serveurs et des Ressources :** Windows Server permet la gestion centralisée de plusieurs serveurs, offrant des outils pour administrer les ressources, surveiller les performances et configurer les rôles des serveurs.
-    
 - **Services et Rôles :** Il propose une variété de services et de rôles tels que Active Directory pour la gestion des identités, DNS pour la résolution de noms, DHCP pour l'attribution automatique des adresses IP, etc.
-    
 - **Sécurité :** Windows Server intègre des fonctionnalités de sécurité avancées telles que la gestion des stratégies de groupe, des pare-feu intégrés, des mécanismes d'authentification renforcés et des outils de surveillance des événements.
-    
 - **Stockage et Virtualisation :** Il offre des fonctionnalités avancées de stockage telles que le stockage dédupliqué, la gestion des espaces de stockage, et prend en charge la virtualisation via Hyper-V pour exécuter des machines virtuelles.
-    
 - **Versions Spécialisées :** Différentes versions de Windows Server sont disponibles pour répondre à des besoins spécifiques tels que Standard, Datacenter, Essentials, et d'autres versions spécialisées.
-    
+
 
 ## Versions avec et sans Interface Graphique
 

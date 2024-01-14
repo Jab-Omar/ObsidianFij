@@ -5,7 +5,7 @@ date: 2024-01-09
 
 ## Introduction à Windows Serveur
 
-- [[Compréhension des bases de Windows Serveur]]
+- [[Bases de Windows Serveur]]
 ## Configuration Réseau dans Oracle VirtualBox
 
 - [[Configurations Réseau dans Oracle VirtualBox]]

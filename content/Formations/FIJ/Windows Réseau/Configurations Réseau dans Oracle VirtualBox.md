@@ -11,8 +11,9 @@ date: 2024-01-09
     
 - **Scénario Pratique** : Configuration idéale pour un serveur web interne nécessitant un accès à Internet pour les mises à jour.
     
-    **Fonctionnement** : Lorsque la machine virtuelle envoie des demandes à Internet, l'adresse IP source est modifiée par celle de l'ordinateur hôte grâce à la traduction d'adresse réseau (NAT). Les réponses reviennent à l'ordinateur hôte qui transmet ensuite à la machine virtuelle.
+- **Fonctionnement** : Lorsque la machine virtuelle envoie des demandes à Internet, l'adresse IP source est modifiée par celle de l'ordinateur hôte grâce à la traduction d'adresse réseau (NAT). Les réponses reviennent à l'ordinateur hôte qui transmet ensuite à la machine virtuelle.
     
+![[imgVirtualBoxNat.jpg]]
 
 ## Bridged Adapter
 
@@ -22,9 +23,9 @@ date: 2024-01-09
     
 - **Scénario Pratique** : Parfait pour le développement et le test d'applications nécessitant une interaction avec d'autres machines du réseau local.
     
-    **Fonctionnement** : La machine virtuelle est comme un appareil physique sur le réseau local. Elle obtient une adresse IP directement depuis le routeur, permettant une communication transparente avec d'autres dispositifs du réseau local.
+- **Fonctionnement** : La machine virtuelle est comme un appareil physique sur le réseau local. Elle obtient une adresse IP directement depuis le routeur, permettant une communication transparente avec d'autres dispositifs du réseau local.
     
-
+![[imgVirtualBoxBridged.jpg]]
 ## Internal Network
 
 - **Description** : Crée un espace réseau isolé où les machines virtuelles peuvent communiquer entre elles uniquement.
@@ -33,9 +34,9 @@ date: 2024-01-09
     
 - **Scénario Pratique** : Configuration adaptée pour simuler un environnement d'entreprise isolé pour le développement et les tests.
     
-    **Fonctionnement** : Les machines virtuelles connectées à un réseau interne peuvent se communiquer entre elles, mais aucune connexion externe n'est autorisée. Idéal pour tester des scénarios privés.
+- **Fonctionnement** : Les machines virtuelles connectées à un réseau interne peuvent se communiquer entre elles, mais aucune connexion externe n'est autorisée. Idéal pour tester des scénarios privés.
     
-
+![[imgVirtualBoxInternal.jpg]]
 ## Host-only Adapter
 
 - **Description** : Établit un réseau isolé entre votre ordinateur hôte et les machines virtuelles.
@@ -44,9 +45,9 @@ date: 2024-01-09
     
 - **Scénario Pratique** : Utilisé pour la configuration d'un serveur de base de données accessible uniquement depuis l'ordinateur hôte.
     
-    **Fonctionnement** : Les machines virtuelles peuvent communiquer uniquement avec l'ordinateur hôte, créant un réseau isolé. Aucune connexion externe n'est autorisée.
+- **Fonctionnement** : Les machines virtuelles peuvent communiquer uniquement avec l'ordinateur hôte, créant un réseau isolé. Aucune connexion externe n'est autorisée.
     
-
+![[imgVirtualBoxHostOnly.jpg]]
 ## NAT Network
 
 - **Description** : Crée un réseau privé où plusieurs machines virtuelles partagent une connexion à Internet via une interface NAT commune.
@@ -55,9 +56,9 @@ date: 2024-01-09
     
 - **Scénario Pratique** : Configuration utile pour un laboratoire de test où plusieurs machines virtuelles nécessitent un accès à Internet.
     
-    **Fonctionnement** : Les machines virtuelles peuvent se communiquer entre elles dans un réseau privé et partagent une connexion à Internet via une interface NAT commune.
+- **Fonctionnement** : Les machines virtuelles peuvent se communiquer entre elles dans un réseau privé et partagent une connexion à Internet via une interface NAT commune.
     
-
+![[imgVirtualBoxNatNetwork.jpg]]
 ## Generic Driver Cloud Network
 
 - **Description** : Pilotes réseau pour se connecter à des services cloud ou à des réseaux basés sur des normes génériques.
@@ -66,7 +67,7 @@ date: 2024-01-09
     
 - **Scénario Pratique** : Configuré pour se connecter à des services cloud tels qu'Azure ou AWS pour des tests de déploiement.
     
-    **Fonctionnement** : Les pilotes génériques permettent aux machines virtuelles de se connecter à des services cloud, simulant une connectivité à des environnements cloud spécifiques.
+- **Fonctionnement** : Les pilotes génériques permettent aux machines virtuelles de se connecter à des services cloud, simulant une connectivité à des environnements cloud spécifiques.
     
 
 ## NAT Attached
@@ -77,7 +78,7 @@ date: 2024-01-09
     
 - **Scénario Pratique** : Configuration avancée pour des situations spécifiques nécessitant une gestion fine du trafic réseau.
     
-    **Fonctionnement** : Cette configuration permet de contrôler précisément la communication de la machine virtuelle en la reliant à une interface NAT spécifique.
+- **Fonctionnement** : Cette configuration permet de contrôler précisément la communication de la machine virtuelle en la reliant à une interface NAT spécifique.
     
 
 ## Paramètres Avancés :
@@ -88,7 +89,7 @@ date: 2024-01-09
     
 - **Scénario Pratique** : Utilisé dans des cas de débogage ou d'analyse de réseau avancés.
     
-    **Fonctionnement** : La machine virtuelle peut écouter tout le trafic sur le réseau, permettant des analyses détaillées mais nécessitant une précaution accrue pour éviter des risques de sécurité.
+- **Fonctionnement** : La machine virtuelle peut écouter tout le trafic sur le réseau, permettant des analyses détaillées mais nécessitant une précaution accrue pour éviter des risques de sécurité.
     
 
 ### MAC Address Spoofing
@@ -97,7 +98,7 @@ date: 2024-01-09
     
 - **Scénario Pratique** : Configuration pour tester des scénarios où l'adresse MAC doit être modifiée pour des raisons spécifiques.
     
-    **Fonctionnement** : Permet de changer l'adresse MAC de la machine virtuelle, utile pour simuler des scénarios où une autre carte réseau physique est utilisée.
+-  **Fonctionnement** : Permet de changer l'adresse MAC de la machine virtuelle, utile pour simuler des scénarios où une autre carte réseau physique est utilisée.
     
 
 ## Réglages Additionnels :
@@ -108,7 +109,7 @@ date: 2024-01-09
     
 - **Scénario Pratique** : Utile pour les tests sur des réseaux sans fil ou pour simuler des environnements avec une connexion Wi-Fi.
     
-    **Fonctionnement** : Permet à la machine virtuelle d'utiliser la connexion Wi-Fi de l'ordinateur hôte, simulant une connexion sans fil.
+- **Fonctionnement** : Permet à la machine virtuelle d'utiliser la connexion Wi-Fi de l'ordinateur hôte, simulant une connexion sans fil.
     
 
 ### Qualité de Service (QoS)
@@ -117,4 +118,4 @@ date: 2024-01-09
     
 - **Scénario Pratique** : Configuration pour tester des applications nécessitant une limitation de la bande passante.
     
-    **Fonctionnement** : Limite la vitesse de transfert de données de la machine virtuelle, permettant de contrôler la bande passante utilisée dans des scénarios spécifiques.
+-  **Fonctionnement** : Limite la vitesse de transfert de données de la machine virtuelle, permettant de contrôler la bande passante utilisée dans des scénarios spécifiques.

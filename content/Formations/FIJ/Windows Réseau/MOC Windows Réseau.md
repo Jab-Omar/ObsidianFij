@@ -4,26 +4,19 @@ date: 2024-01-09
 # Cours Windows Réseau avec Active Directory
 
 ## Introduction à Windows Serveur
-
 - [[Bases de Windows Serveur]]
 ## Configuration Réseau dans Oracle VirtualBox
-
 - [[Configurations Réseau dans Oracle VirtualBox]]
-
 ## Active Directory (AD)
-
-- [[Définition de l'Active Directory]]
-- [[Rôle de l'Active Directory dans les Environnements Windows]]
-
-### Les Composants de l'Active Directory
-- [[Les Domaines dans l'Active Directory]]
-- [[Unités d'organisation (OU)]]
-- [[Arbres et Forêts]]
-- [[Le Schéma dans l'Active Directory]]
-- [[Catalogue Global]]
-- [[Contrôleur de Domaine dans Active Directory]]
-- [[Les Composants de l'Active Directory]]
-
+### Un annuaire Active Directory, Pourquoi ?
+- [[Active Directory (AD)]]
+- [[Les intérêts d'un annuaire AD]]
+- [[La structure de l'Active Directory]]
+### Contrôleur de domaine et domaine
+- [[Workgroup vs domaine]]
+- [[Base de données SAM (Security Accounts Manager)]]
+- [[Les contrôleurs de domaine]]
+- [[NTDS.dit]]
 ### Installation et Configuration
 
 - [[Processus d'installation de l'Active Directory]]

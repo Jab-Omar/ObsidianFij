@@ -17,8 +17,9 @@ date: 2024-01-12
 ##### Linux réseau
 - Rappel du cours précédent.
 - Les commandes `dnf`, `apt`, `ip addr show`, `ip route show`, `cat`, `nano`
-- Mise à jour des vm Debian et Fedora.
-- Modification du fichier de configuration /etc/ssh/sshd_config
-- 
+- Mise à jour des Vm Debian et Fedora.
+- Modification du fichier de configuration /etc/ssh/sshd_config.
+- Remplir les 3 feuilles sur les commandes de Base linux. 
+- théorie sur le ssh et le sftp. 
 ---
 ## Mardi 16/01/2024

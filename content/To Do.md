@@ -2,6 +2,6 @@
 draft: "True"
 ---
 - [ ] BIM
+- [ ] Call Solidaris pour la lettre.
 - [ ] Ateliers des droits sociaux
-- [ ] Ikea aller sur place pour essayer d'avoir de nouveaux Pieds de lit.
 - [ ] électricien

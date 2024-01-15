@@ -14,9 +14,14 @@ date: 2024-01-09
 - [[La structure de l'Active Directory]]
 ### Contrôleur de domaine et domaine
 - [[Workgroup vs domaine]]
-- [[Base de données SAM (Security Accounts Manager)]]
+	- [[Base de données SAM (Security Accounts Manager)]]
 - [[Les contrôleurs de domaine]]
-- [[NTDS.dit]]
+	- [[NTDS.dit]]
+- [[La réplication des contrôleurs de domaine]]
+
+### Domaine, arbre et forêt
+- [[Symbolisation d’un domaine]]
+- [[Notion d'arbre]]
 ### Installation et Configuration
 
 - [[Processus d'installation de l'Active Directory]]

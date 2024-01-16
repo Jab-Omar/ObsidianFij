@@ -74,7 +74,7 @@ Bienvenue ! Ce tutoriel vous guidera à travers le processus de téléchargement
 - **Explorer les Fonctionnalités d'Obsidian:**
   - Prenez le temps d'explorer les fonctionnalités d'Obsidian, telles que la création de liens entre les notes, les panneaux latéraux, etc.
 
-C'est tout ! Vous devriez maintenant être prêt à explorer et utiliser les notes Obsidian à partir du référentiel WildMountainBoar. N'hésitez pas à poser des questions si vous en avez !
+C'est tout ! Vous devriez maintenant être prêt à explorer et utiliser les notes Obsidian à partir du référentiel ObsidianFij. N'hésitez pas à poser des questions si vous en avez !
 
 ---
 

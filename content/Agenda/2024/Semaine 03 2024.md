@@ -23,3 +23,12 @@ date: 2024-01-12
 - théorie sur le ssh et le sftp. 
 ---
 ## Mardi 16/01/2024
+##### Windows réseau
+- Introduction au modèle OSI et Iso.
+- Lecture de la théorie P15 à p24.
+- Théorie sur DNS.
+- Configuration du DNS de srv2016
+- les commandes `ipconfig /flushdns ` `ipconfig /displaydns`
+
+##### Linux réseau
+- 

@@ -31,4 +31,6 @@ date: 2024-01-12
 - les commandes `ipconfig /flushdns ` `ipconfig /displaydns`
 
 ##### Linux réseau
-- 
+- Pris un temps pour analyser les nouveaux horaires.
+- Théorie rapide sur les user and group.
+- Labo sur les utilisateurs et groupes

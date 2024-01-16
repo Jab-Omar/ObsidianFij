@@ -7,21 +7,24 @@ date: 2024-01-09
 - [[Bases de Windows Serveur]]
 ## Configuration Réseau dans Oracle VirtualBox
 - [[Configurations Réseau dans Oracle VirtualBox]]
-
 ## Windows Server : DNS
 ### Théorie
-- Introduction sur le service DNS
-- Les noms des domaines
-	- hiérarchie des nom de domaine
-	- Fully qualified domain name ou fqdn
+- [[Introduction sur le service DNS]]
+- [[Service DNS dans le Contexte d'Active Directory]]
+- [[Les noms des domaines]]
+	- [[la Hiérarchie des Noms de Domaines]]
+	- [[Fully qualified domain name ou fqdn]]
 ### La résolution des noms
-- Introduction au concept de la résolution des noms
-- Les serveurs racines
-- Les zones
-- Le cache
-- La redondance
+- [[Introduction au concept de la résolution des noms]]
+- [[Les serveurs racines]]
+- [[Compréhension des Zones dans le DNS]]
+- [[Le cache DNS]]
+	- [[Gestion du Cache DNS avec des Commandes]]
+- ==La redondance ??????? ==
 ### La résolution inverse
+- [[La Résolution Inverse dans le DNS]]
 ### Les enregistrement DNS
+- [[Enregistrements DNS]]
 ## Active Directory (AD)
 ### Théorie sur l'Active Directory
 #### Un annuaire Active Directory, Pourquoi ?
@@ -38,23 +41,19 @@ date: 2024-01-09
 #### Domaine, arbre et forêt
 - [[Symbolisation d’un domaine]]
 - [[Notion d'arbre]]
-- Notion de forêt
-- Le Niveau fonctionnel
+- [[Notion de forêt]]
+- [[Niveau Fonctionnel dans Active Directory]]
 
 #### Les protocoles LDAP,DNS, et Kerberos
-- Le protocole LDAP dans AD
-- Le proocole DNS dans AD
-- Le protocole Kerberos
+- [[Le protocole LDAP dans AD]]
+- [[Protocole DNS dans Active Directory]]
+- [[Le protocole Kerberos]]
 
 #### les principaux attributs d'objets dans l'active directory
-- Les principales classes
-- DistinguishedName et GUID
-- Les attributs indispensables
-#### Installation et Configuration
-
-- [[Processus d'installation de l'Active Directory]]
-- [[Configuration initiale d'un contrôleur de domaine]]
-
+- [[Principales Classes dans Active Directory]]
+- [[DistinguishedName (DN)]]
+- [[GUID (Globally Unique Identifier)]]
+- [[Les attributs indispensables]]
 #### Gestion des Objets
 
 - Utilisateurs
@@ -124,3 +123,10 @@ date: 2024-01-09
 - Livres recommandés
 - Sites web utiles
 - Cours en ligne
+
+### Pratique Active Directory
+
+#### Installation et Configuration
+
+- [[Processus d'installation de l'Active Directory]]
+- [[Configuration initiale d'un contrôleur de domaine]]

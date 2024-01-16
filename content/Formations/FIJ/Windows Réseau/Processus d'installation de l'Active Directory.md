@@ -36,7 +36,7 @@ Ouvrez le Gestionnaire de Serveur à partir du menu Démarrer. Cela peut être f
 
 - Une fois les fonctionnalités ajoutées, accédez à "Gérer" dans le Gestionnaire de Serveur.
 - Cliquez sur "Promouvoir ce serveur en contrôleur de domaine".
-- Sélectionnez "Ajouter une nouvelle forêt" si c'est la première installation, sinon, ajoutez le serveur à une [[Arbres et Forêts#Forêts dans Active Directory|forêt]] existante.
+- Sélectionnez "Ajouter une nouvelle forêt" si c'est la première installation, sinon, ajoutez le serveur à une [[Notion de forêt|forêt]] existante.
 
 ## 6. Configuration des options
 

@@ -34,3 +34,13 @@ date: 2024-01-12
 - Pris un temps pour analyser les nouveaux horaires.
 - Théorie rapide sur les user and group.
 - Labo sur les utilisateurs et groupes
+
+---
+
+## Mercredi 17/01/2024
+##### Helpdesk
+- Cours classique.
+##### Mathématiques appliqué
+- Rappel du cours précédent
+- 
+

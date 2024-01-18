@@ -49,3 +49,11 @@ date: 2024-01-12
 ---
 ## Jeudi 18/01/2024
 ##### Français
+- Travail sur l'expression écrite.
+##### Anglais
+- Correction des phrases faite au dernier cours.
+- Théorie sur les comparatifs de comparaison.
+- Faire des phrases en anglais avec 1 comparatif de comparaison et 1 autre comparatif.
+##### BDD
+- Rappel schéma entité-association.
+- 

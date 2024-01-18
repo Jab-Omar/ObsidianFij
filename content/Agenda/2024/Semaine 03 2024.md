@@ -39,8 +39,13 @@ date: 2024-01-12
 
 ## Mercredi 17/01/2024
 ##### Helpdesk
-- Cours classique.
+- Entrainement helpdesk. 
 ##### Mathématiques appliqué
-- Rappel du cours précédent
-- 
+- Rappel du cours précédent(Binaire, Hexadécimal)
+- Calculs avec différentes bases. ( base3,4,5,etc...)
+- L'algébre de bool.
+- Les tables de vérités. 
 
+---
+## Jeudi 18/01/2024
+##### Français

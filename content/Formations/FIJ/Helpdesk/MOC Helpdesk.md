@@ -13,16 +13,14 @@ date: 2024-01-12
 - [[Résolution de problèmes techniques de base]]
 ## Outils et logiciels du Helpdesk
 
-- Logiciels de ticketing
-- Outils de prise de contrôle à distance
-- Systèmes de gestion des connaissances
+- [[Logiciels de ticketing]]
+- [[Outils de prise de contrôle à distance]]
+- [[Systèmes de gestion des connaissances]]
 
 ## Types de demandes et scénarios courants
 
-- Problèmes matériels
-- Problèmes logiciels
-- Demandes d'assistance générale
-
+- [[Problèmes matériels]]
+- [[Problèmes logiciels]]
 ## Bonnes pratiques en matière de service à la clientèle
 
 - Attitude et communication professionnelle

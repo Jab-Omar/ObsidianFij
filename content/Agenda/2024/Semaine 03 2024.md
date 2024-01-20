@@ -56,4 +56,20 @@ date: 2024-01-12
 - Faire des phrases en anglais avec 1 comparatif de comparaison et 1 autre comparatif.
 ##### BDD
 - Rappel schéma entité-association.
-- 
+- On a mis tout le reste de la période à faire un simple schéma.
+
+---
+## Vendredi 19/01/2024
+##### BDD
+- Exercices Les requêtes de sélection simple + coreection.
+##### Windows Réseau
+- Lecture du document Notions d'Active Directory P 35 à 49.
+- On a reçu des feuilles sur le DHCP.
+- Configurer un service DHCP sur srv 2016.
+	- Crée le rôle DHCP.
+	- Vérifier les services DHCP.
+	- Crée un scoop tui 10.0.30.40 à 10.0.30.50.
+	- Exclusion de l'ip : 10.0.30.41.
+	- Mettre Win10 et Win11 en DHCP. (Mettre Win11 dans le domaine tui.local)
+	- **Devoir :** Faire une liste de question avec des réponses ( comme un quizz) et l'envoyer à Wassim par mail pour mardi.
+---

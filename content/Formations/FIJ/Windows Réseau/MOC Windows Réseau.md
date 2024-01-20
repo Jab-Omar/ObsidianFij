@@ -3,10 +3,13 @@ date: 2024-01-09
 ---
 # Cours Windows Réseau avec Active Directory
 
+---
 ## Introduction à Windows Serveur
 - [[Bases de Windows Serveur]]
+---
 ## Configuration Réseau dans Oracle VirtualBox
 - [[Configurations Réseau dans Oracle VirtualBox]]
+---
 ## Windows Server : DNS
 ### Théorie
 - [[Introduction sur le service DNS]]
@@ -25,6 +28,9 @@ date: 2024-01-09
 - [[La Résolution Inverse dans le DNS]]
 ### Les enregistrement DNS
 - [[Enregistrements DNS]]
+
+---
+
 ## Active Directory (AD)
 ### Théorie sur l'Active Directory
 #### Un annuaire Active Directory, Pourquoi ?

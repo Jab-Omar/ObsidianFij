@@ -3,7 +3,7 @@ date: 2024-01-08
 draft: "True"
 ---
 # Le Revenu Universel : Idée utopique ou réaliste ?
-
+## Sources
 L’article ["Le revenu universel : histoire, débats et enjeux"](http://www.politicoboy.fr/revenu-universel/pour-ou-contre-le-revenu-universel/) sur le site Politicoboy explore les origines, les discussions et les implications du revenu universel. Elle offre une perspective complète sur le sujet. Le contenu aborde les débats actuels, les arguments en faveur et contre, ainsi que les enjeux entourant cette proposition. Cette ressource est utile pour développer une compréhension approfondie du revenu universel dans le cadre de mon travail d'expression orale.
 
 
@@ -33,87 +33,141 @@ L’article [Le revenu universel - Gresea](https://gresea.be/Le-revenu-universel
 
 ## Introduction
 
-La notion de revenu universel est un sujet complexe qui suscite de nombreux débats. Pour garantir une compréhension commune, cette discussion se concentrera sur les implications spécifiques du revenu universel en France, compte tenu de la complexité du sujet en Belgique.
+La notion de revenu universel est un sujet complexe qui suscite de nombreux débats. Pour garantir une compréhension commune, cette discussion se concentrera sur les implications spécifiques du revenu universel en France, compte tenu de la complexité du sujet en Belgique. De plus plus d'études on été menée en france mais la france est la belgique sont relativement similaire. J'ai choisi de limité la question aux revenus universelles réalistes qui sont finançables comme le Liber ou 2RU. Il incluent une allocation avoisinant les 500 euro et une réforme fiscale. 
 
-### Définition du Revenu Universel
+### Définition du Revenu Universel ( Du 2RU)
+Le 2RU est la combinaison du Revenu universel plus de la redevance Universelle.
+#### Revenu Universel c'est quoi
+De 0 à 14 ans : 200 euro
+De 14 à 18 ans : 250 euro
+De 18 ans à vie : 500 euro
 
-Le revenu universel peut prendre différentes formes, mais dans le contexte français, il se définit comme un versement financier accordé à tous les citoyens tout au long de leur vie adulte. Plusieurs principes le caractérisent :
-
+**Les Principes du Ru sont  :**
 1. **Universalité**
-    
     - Le revenu universel est versé à tous les citoyens.
 2. **Inconditionnalité**
-    
     - Le versement mensuel est accordé sans aucune contrepartie, à l'exception de la citoyenneté.
 3. **Incompressibilité**
-    
     - Les salaires et autres revenus ne diminuent pas le montant du revenu universel.
 4. **Distribution par l'État et Financement Collectif**
-    
     - L'État est responsable de la distribution, financée par la collectivité sous différentes formes selon les auteurs.
+#### Redevance Universel c'est quoi
+La redevance universel est un impôt sur tout les revenus en excluent les 500 euro du Revenu universel pour tout le monde.
 
-### Diversité des Modèles de Revenu Universel
+Le taux d'imposition est de 30% pour tous.
+### Pourquoi un RU ? 
 
-Il existe une variété de modèles de revenu universel avec des montants, des réformes et des mécanismes de financement différents. Les débats sur ces variations sont nombreux, mettant en évidence des avantages et des inconvénients.
+Deux constats actuels justifient la reconsidération du revenu universel en France. Tout d'abord, les dispositifs actuels d'aides sociales, en particulier pour les plus démunis, sont devenus excessivement bureaucratiques, inefficaces et coûteux. Ils peinent à atteindre leurs objectifs primordiaux de lutte contre la grande pauvreté et de réinsertion dans la vie active. Deuxièmement, la perspective du chômage de masse s'intensifie avec la robotisation et la numérisation, accentuée par l'ubérisation de l'économie qui exerce une pression à la baisse sur les salaires.
 
-### Perspectives et Débats
+## Pour ou contre le Revenu universel 
+Voici les argument qui m'ont aider à me forger un avis sur cette question.
 
-Certains soutiennent que le revenu universel offre une sécurité financière de base, réduit la pauvreté et stimule la créativité en éliminant les contraintes financières. Cependant, d'autres soulignent des défis potentiels, tels que le financement et les impacts sur la motivation au travail.
+| **Thèse<br>Pour un Revenu Universel** | **Antithèse<br>Contre un Revenu Universel** |
+| :--: | :--: |
+| Optimisation Administrative et fiscale : Vers un Système Simplifié | Inclusion Sociale : Les Risques d'Exclusion des Non-Citoyens |
+| Bien-être Citoyen : L'Impact Humanitaire du Revenu Universel | Lutte Contre la Pauvreté : Les Limites des Montants Proposés pour un Revenu Universel Réaliste |
+| Travail Valorisé : Encourager l'Activité avec le Revenu Universel | Le Revenu Universel : Une Roue de Secours Insuffisante face à la Pauvreté |
 
-##  ## Revenu Universel "Liber": Un Aperçu
+---
 
-### Introduction
+### Optimisation Administrative et Fiscale : Vers un Système Simplifié
 
-Le revenu universel de type "crédit d'impôt", nommé **Liber**, émerge comme une proposition viable pour initier des changements significatifs dans la société. Fondé par Gaspard Koening, ce modèle se base sur les travaux de l'universitaire Marc de Basquiat. Ce revenu universel, en tant que concept novateur, présente des caractéristiques spécifiques qui seront examinées dans cet exposé.
+L'ampleur de la complexité des termes, dispositifs, et programmes actuels en France et en Belgique, telle que révélée dans l'image partagée, crée une confusion préjudiciable pour la population. Cette complexité se manifeste aussi bien au niveau des demandes d'aides qu'au niveau de la compréhension de la fiscalité. Le revenu universel (RU) émerge comme une solution transformative, simplifiant radicalement le système en octroyant un revenu à chaque citoyen. Cette démarche élimine la lourdeur administrative associée aux demandes d'aides complexes. De surcroît, la redevance universelle rend l'impôt plus transparent, contribuant ainsi à une simplification significative de la fiscalité.
 
-### Caractéristiques Principales
+Cette simplification du système administratif et fiscal engendre également des économies substantielles. Actuellement, d'énormes ressources humaines sont mobilisées pour gérer les aides et contrôler la fiscalité, représentant des coûts considérables pour l'État. Les économies réalisées grâce à l'efficacité du revenu universel peuvent être réinvesties, créant ainsi un cercle vertueux où les fonds économisés sont redistribués via le RU, contribuant ainsi à un système plus équitable et efficient.
 
-1. **Montants Alloués**
-    
-    - Adulte: 500€
-    - Adolescent (14-18 ans): 270€
-    - Enfant (- de 14 ans): 200€
-    - Coût annuel estimé: 350 milliards d’euros.
-2. **Remplacement de Dispositifs Existants**
-    
-    - Substitut au RSA, prime pour l’emploi, bourses étudiantes, et certains autres minima sociaux.
-    - Calculé pour fournir une protection équivalente aux programmes supprimés.
-3. **Maintien des Dispositifs d'Assurance et Aides Individualisées**
-    
-    - Conservation des régimes d’assurance (santé, chômage, incapacité).
-    - Maintien des aides individualisées comme l’aide au logement et au handicap.
-4. **Financement par Libertaxe (23%)**
-    
-    - Financement par un impôt à assiette large appelé Libertaxe, avec un taux de 23%.
-5. **CSG Santé et Maintien d'Impôts sur le Capital**
-    
-    - CSG santé de 13% pour couvrir les régimes d’assurance.
-    - Maintien des principaux impôts sur le capital tels que CRDS, ISF, taxe foncière.
+**Mots-clés :**
 
-### Vision à Long Terme
+- Simplification Administrative
+- Redevance Universelle
+- Économies Générées par le Revenu Universel
 
-La proposition **Liber** ne se limite pas à être une solution immédiate, mais vise à être un catalyseur pour des changements plus significatifs dans le futur. Son fondateur, Gaspard Koening, propose ce modèle comme un test pour évaluer l'impact du revenu universel sur la société, en ouvrant potentiellement la voie à des ajustements plus impactants.
+---
 
-### Conclusion
+### Bien-être Citoyen : L'Impact Humanitaire du Revenu Universel
 
-Le revenu universel **Liber** se présente comme une approche simple, mais potentiellement transformative, pour introduire le concept du revenu universel dans la société. Avec ses caractéristiques distinctes et son financement novateur, il offre une base pour évaluer les effets d'une telle politique sur la vie des citoyens et pourrait servir de modèle pour des changements futurs plus étendus..
+La pyramide de Maslow illustre de manière emblématique les besoins fondamentaux des individus pour atteindre le bien-être. Actuellement, le système social et économique confie la responsabilité de satisfaire ces besoins à divers dispositifs et programmes d'aide. Le revenu universel (RU) change cette dynamique en garantissant un soutien financier de base à tous les citoyens, éliminant ainsi les exclusions basées sur des critères spécifiques. Par exemple, en assurant un revenu de base, le revenu universel répond immédiatement aux besoins physiologiques, agissant comme un filet de sécurité constant.
+
+Le système actuel tente sans succès de combler ces besoins de base, car :
+
+1. Les aides sociales sont conditionnelles, et certaines personnes dans le besoin sont exclues des aides en raison de la lourdeur administrative ou de critères trop stricts.
+2. Lorsqu'une personne demande de l'aide, il y a un temps de latence entre sa demande, son acceptation et la réception de l'aide.
+3. Enfin, une personne bénéficiant d'aides doit constamment prouver qu'elle peut encore les recevoir.
+
+Le 2RU, en comblant les deux premiers étages de la pyramide de Maslow, permet d'améliorer le bien-être des citoyens en garantissant un accès immédiat et inconditionnel à un soutien financier de base. Cela élimine les barrières administratives et offre une sécurité financière constante, contribuant ainsi à une amélioration significative du bien-être de la population.
+
+**Mots-clés :**
+Système Actuel
+- Aides sociales sont conditionnelles
+- Temps de latence
+- prouver que l'on est éligible
+- Améliorer le bien-être
+
+### Travail Valorisé : Encouragement à l'Activité avec le Revenu Universel
+
+Le Revenu Universel (RU), même avec une allocation de 500 euros, transforme la perspective du travail, contrairement à ce que l'on pourrait penser. Actuellement, le système existant n'encourage pas vraiment les gens à travailler. Par exemple, lorsque vous recevez des aides comme le chômage ou le CPAS, les revenus supplémentaires réduisent le montant de votre aide, décourageant ainsi le travail à temps partiel. En revanche, le RU offre une stabilité financière constante sans diminution, ce qui a un effet positif sur l'emploi.
+
+De plus, le RU offre la possibilité aux travailleurs de réduire leurs heures de travail pour participer à des activités bénéfiques pour la société, telles que le bénévolat, l'éducation de leurs enfants, ou simplement pour améliorer leur bien-être. Il facilite également la vie des étudiants les plus démunis et stimule la création d'entreprises.
+
+**Mots-clés :**
+- Le Ru rendra les citoyens fainéants ?  
+- Le Ru est incompressible.
+- Plus de temps pour d'autre activités.
 
 
+### Inclusion Sociale : Les Risques d'Exclusion des Non-Citoyens
 
-## Pour ou contre le Revenu universel de type liber.
 
-### Argumentation en faveur du Ru de type "Liber"
+Limiter le revenu universel (2RU) aux citoyens français soulève une question fondamentale d'équité. Exclure légalement présents et contributeurs, même s'ils résident sur le territoire français, remet en cause le principe démocratique d'égalité des chances. Par exemple, une personne non-citoyenne résidant légalement et contribuant au système pourrait être exclue, suscitant des interrogations sur la justice et l'égalité des opportunités.
 
-|**Thèse: Pour un Ru de type Liber**|**Raisonnement ** |
-|---|---|
-|**Réduction des Coûts Administratifs**|La simplification des procédures administratives avec **Liber** est une bouffée d'air frais, éliminant la lourdeur bureaucratique qui freine actuellement nos systèmes sociaux. Cela signifie une gestion plus efficace et des économies substantielles.|
-|**Réalisme et Simplicité**|L'approche réaliste de **Liber** équivaut à une clé d'adoption en douceur. En abandonnant la complexité pour la simplicité, ce modèle est un véritable changement pragmatique, prêt à être mis en œuvre sans entraves.|
-|**Porte Ouverte à des Montants Plus Élevés**|**Liber** n'est pas simplement un point final, mais un prologue. En initiant avec des montants modestes, nous créons une rampe de lancement pour explorer des revenus universels plus généreux à l'avenir. Un début concret vers l'expérimentation audacieuse.|
+L'impact économique de l'exclusion des non-citoyens du 2RU va au-delà des questions sociales. En excluant cette partie de la main-d'œuvre, le risque de fragmentation sociale augmente. Une main-d'œuvre moins stable et intégrée pourrait résulter de cette exclusion, affectant la productivité et la stabilité économique globale. Par exemple, des travailleurs essentiels, bien qu'apportant leur contribution à l'économie, pourraient être exclus du 2RU.
 
-### Argumentation Contre le Ru de type "Liber"
+Les directives strictes de l'Union européenne sur l'immigration et les droits sociaux ajoutent une dimension législative aux risques potentiels d'exclusion. Si le 2RU est limité à l'échelle nationale, l'UE pourrait intervenir en raison de ses directives, retardant ainsi sa mise en œuvre. Par exemple, si la France ne respecte pas les directives de l'UE, des conséquences juridiques pourraient survenir, entraînant un retard dans la réalisation du 2RU.
 
-|**Antithèse: Contre un Ru de type Liber**|**Raisonnement** |
-|---|---|
-|**Libertaxe et Proportionalité de l'Impôt**|La Libertaxe, en transformant la progressivité en proportionnalité, représente une brèche potentielle dans nos principes fiscaux. Le risque d'inconstitutionnalité plane sur un modèle qui altère fondamentalement notre approche traditionnelle de la taxation.|
-|**Montant Insuffisant pour Sortir de la Pauvreté**|**Liber** peut-il vraiment être universel avec des montants qui peinent à franchir le seuil de pauvreté? Un filet de sécurité financière doit être solide pour que l'individu puisse réellement s'épanouir, et ce modèle pourrait ne pas être à la hauteur de cette aspiration.|
-|**Roue de Secours du Capitalisme**|La prudence s'impose lorsque nous considérons **Liber** comme une solution. Ce modèle pourrait être perçu non pas comme une révolution, mais comme une tentative de panser les plaies du capitalisme sans traiter ses maux profonds. Une mesure qui ne bouleverse pas l'ordre établi.|
+**Mots-clés :**
+- Question d'Équité Fondamentale
+- Impact Économique de l'Exclusion des Non-Citoyens
+- Contraintes Législatives de l'UE et le RU
+
+---
+
+### Lutte Contre la Pauvreté : Les Limites des Montants Proposés pour un Revenu Universel Réaliste
+
+Vivre exclusivement avec 500 euros, même avec les avantages potentiels du 2RU, semble insuffisant, surtout en zone urbaine où le coût de la vie est élevé. La réalité du coût de la vie, incluant le logement et les dépenses quotidiennes, dépasse largement le seuil du revenu universel. Par exemple, une personne seule en zone urbaine pourrait avoir du mal à subvenir à ses besoins essentiels avec une allocation aussi basse.
+
+Les études sur le 2RU cherchent à être réalistes, mais des montants aussi bas que 500 euros soulèvent des doutes quant à la faisabilité financière. Comparé à d'autres formes de revenu universel jugées utopiques, le 2RU propose un montant qui peut être perçu comme inadéquat. Par exemple, des études approfondies sur le financement du 2RU sont nécessaires pour garantir sa viabilité.
+
+Une proposition alternative, consistant à conserver certaines aides existantes tout en les taxant à 30%, peut sembler logique pour maintenir un filet social. Cependant, cela maintient une complexité administrative sans réelle simplification. Par exemple, cette approche peut conserver des démarches bureaucratiques importantes, annulant ainsi l'objectif de simplification du système.
+
+**Mots-clés :**
+- Insuffisance du Revenu Universel à 500 Euros.
+- Un RU plus conséquent est Utopique.
+- Complexité Administrative de la Proposition Alternative.
+
+
+---
+
+### Le Revenu Universel une Solution Temporaire ?
+
+Le concept du revenu universel soulève des questions sur son efficacité réelle pour lutter contre la pauvreté, surtout face aux défis profonds du système. Explorons ces préoccupations et comment le revenu universel pourrait être une solution temporaire.
+
+L'automatisation croissante dans l'industrie pose un défi auquel le revenu universel pourrait offrir un soulagement immédiat en fournissant un revenu de base. Cependant, il ne résout pas le besoin fondamental de former les travailleurs touchés pour les aider à trouver de nouveaux emplois.
+
+- _Exemple :_ Si un travailleur perd son emploi à cause de l'automatisation, le revenu universel peut lui offrir un soutien financier, mais des solutions à long terme nécessitent des programmes de formation pour de nouvelles opportunités.
+
+En période de crises financières, le revenu universel peut être un soutien immédiat en offrant un revenu de base. Cependant, il ne résout pas les problèmes profonds qui ont conduit à la crise.
+
+- _Exemple :_ Pendant une crise économique, le revenu universel peut aider à maintenir un niveau de vie décent, mais des changements systémiques sont nécessaires pour éviter de futures crises.
+
+La préoccupation principale est que le revenu universel pourrait être une solution temporaire, apportant un soulagement immédiat sans aborder les problèmes de fond. Pour avoir un impact durable, des réformes profondes, comme l'investissement dans l'éducation et la formation, sont nécessaires.
+
+- _Exemple :_ Plutôt que simplement donner de l'argent, des changements systémiques, tels que des investissements dans l'éducation et des ajustements sur le marché du travail, sont nécessaires pour résoudre les problèmes à la source.
+
+En résumé, bien que le revenu universel puisse aider dans certaines situations, son pouvoir de résolution à long terme dépend de changements structurels importants dans l'économie et le marché du travail.
+
+**Mots-clés :**
+- Automatisation dans l'Industrie : Un Secours à Court Terme
+- Crises Financières : Un Soutien Immédiat, mais des Défis Persistants
+- Nécessité de Réformes Structurelles Profondes
+
+---

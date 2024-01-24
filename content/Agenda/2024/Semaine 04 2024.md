@@ -15,3 +15,11 @@ date: 2024-01-20
 - Labo sur les permissions standard.
 - ---
 ## Mardi 23/01/2024
+##### Emploi (Didier)
+- Retour sur les rapports de visites. 
+- Lecture d'une convention de stage.
+##### Linux réseau
+- Fin du labo sur les permissions standard.
+- Temps libre. 
+
+---

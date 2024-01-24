@@ -23,3 +23,19 @@ date: 2024-01-20
 - Temps libre. 
 
 ---
+## Mercredi 24/01/2024
+##### Helpdesk 
+- Utilisateur ne trouve plus la barre de recherche dans Windows 11. (Elle était cachée)
+- L'ordinateur d'un utilisateur ne s'allume pas. (Le bouton était sur off)
+- L'utilisateur n'arrive pas à imprimer. (la mauvaise imprimante était sélectionné)
+- Pas d'affichage (car câble branché au mauvais port)
+- Affichage dans Outlook pas comme l'utilisateur le veut. 
+##### Mathématique appliqué
+- Rappel sur les unité informatique.
+- Rappel sur la notation scientifique et ingénieure. 
+
+---
+## Jeudi 25/01/2024
+- Absent
+
+---

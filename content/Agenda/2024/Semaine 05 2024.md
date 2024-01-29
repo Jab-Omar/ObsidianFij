@@ -13,8 +13,8 @@ date: 2024-01-29
 - Film et temps libre. (erreur dans l'horaire pour la 2éme période)
 ##### Méthodologie
 - introduction au cours de méthodologie.
-- comment se déroulera le tfe.
-- Rappel sur cq6 et cecafs.
-- 
+- comment se déroulera le TFE.
+- Rappel sur CQ6 et Cecafs.
+- Présentations d'un TFE + divers conseils.
 ---
 ## Mardi 30/01/2024

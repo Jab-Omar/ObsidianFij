@@ -1,7 +1,7 @@
 ---
 date: 2024-01-29
 ---
-## Traduire ces phrases en anglais.
+## Traduire ces phrases en anglais. (29/01/2024)
 1. Cette maison est plus haute que la tour de télévision mais elle est la moins profonde dans le quartier. 
 	*This house is higher dans the tv tower but it is the least deep in the area.*
 2. C'est la meilleure chanson que le musicien a écrite. 
@@ -16,10 +16,10 @@ date: 2024-01-29
 	*Some of smartest people have studied at this university.*
 7. Tu t'es aussi amusant qu’un clown.
 	*You are as funny as a clown.*
-## Faire des phrases en anglais.
+## Faire des phrases en anglais. (29/01/2024)
 1. **Comparatif de supériorité** : My desktop is more powerful than my laptop but it is less practical.
 2. **Comparatif d'égalité** : Learning a new software is not so difficult  as  a new language.
 3. **Comparatif d'inferiorite** : The FIJ network is less big than Microsoft one.
 4. **Superlatif de supériorité** : Our company server is the bulkiest in the area and it is the slowest one too. 
-5. **Superlatif d' infériorité** : Why are working with the least upgraded version of this software ? It may have some security issues.
+5. **Superlatif d' infériorité** : Why are you working with the least upgraded version of this software ? It may have some security issues.
 

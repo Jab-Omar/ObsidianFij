@@ -39,3 +39,9 @@ date: 2024-01-20
 - Absent
 
 ---
+## Vendredi 26/01/2024
+##### BDD
+- Les règles du passage d'un schéma entité - association vers schéma relationnel. 
+- Exercice sur les requêtes 02 de sélection multi table.
+##### Windows réseau
+- Tp sur active directory.

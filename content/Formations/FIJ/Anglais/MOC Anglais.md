@@ -16,3 +16,5 @@
 - [[les expressions de temps]]
 - [[Anglais Vocabulaire Informatique 2]]
 - [[Les Commandes MsDos]]
+## Exercices
+- [[Comparer des choses ou des personnes]]

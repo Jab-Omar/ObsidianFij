@@ -18,3 +18,14 @@ date: 2024-01-29
 - Présentations d'un TFE + divers conseils.
 ---
 ## Mardi 30/01/2024
+##### Windows Réseau
+- Partage de fichier et permissions NTFS du serveur vers les clients en réseau.
+- Ajout d'un deuxième Domain Controller (srv2019).
+	- Il faut être dans le même Domain avant de promouvoir le nouveau DC.
+- On a vu que les utilisateurs, la configuration DNS se synchronisent entre les deux Domain Controller.
+- Installation du service DHCP sur srv2019 et configuration pour faire le load-balancing entre srv2016 et srv2019.
+- Toute ce qu'on a vu ne sera pas utile pour l'examen c'est du bonus.
+
+---
+## Mercredi 31/01/2024
+##### Helpdesk

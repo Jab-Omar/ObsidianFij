@@ -1,7 +1,5 @@
 ---
 date: 2024-01-31
-tags:
-  - "#pasFini"
 ---
 # Index DHCP
 
@@ -25,18 +23,19 @@ tags:
    - [[Options de configuration supplémentaires]]
 
 ## Résolution des problèmes DHCP
-   - [[Problèmes courants]]
+   - [[Problèmes courants liés au DHCP]]
    - [[Outils de diagnostic]]
 
 ## Sécurité DHCP
-   - [[Mécanismes de sécurité]]
-   - [[Prévention des attaques]]
+   - [[Mécanismes de sécurité pour le DHCP]]
+   - [[Prévention des attaques DHCP]]
 
 ## Bonnes Pratiques
-   - [[Meilleures pratiques de configuration]]
-   - [[Maintenance régulière]]
+   - [[Meilleures pratiques de configuration DHCP]]
 
-## Ressources Additionnelles
-   - [[Livres recommandés]]
-   - [[Liens utiles]]
-   - [[Cours en ligne]]
+## Labo 
+- [[Laboratoire DHCP pour Débutants]]
+- [[Laboratoire sur les Commandes ipconfig pour la Gestion DHCP]]
+- [[Laboratoire sur la Sécurité DHCP]]
+- [[Laboratoire de Détection des Conflits d'Adresses IP]]
+- [[Laboratoire de Surveillance du Trafic DHCP]]

@@ -29,3 +29,13 @@ date: 2024-01-29
 ---
 ## Mercredi 31/01/2024
 ##### Helpdesk
+- Ma clé USB ne marche pas. (Il fallait formater le clé USB).
+- Je voudrais avoir la numérotation ds semaines dans mon calendrier outlook. Il faut cocher la case dans ( Options>options du calendrier>Options  d'affichage ).
+- Je veux que ma deuxième page de mon document word soit en paysage. Comment faire ? (Il faut faire des sauts de sections page suivante pour isoler la 2éme page et puis mettre l'orientation en paysage. )
+- Empêcher le démarrage des mise à jours entre 9h et 17h. (Windows Update>Advanced options>Active Hours> mettre entre 9h et 17h)
+##### Math Appliqué
+- Révisons la logique booléenne.  
+- Introduction à la loi de Morgan.
+- L'opérateur logique (XOR - OU exclusif)
+- Exercices de tables de vérité. 
+---

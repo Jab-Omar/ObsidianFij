@@ -11,8 +11,6 @@ title: FIJ TUI2023
 ## Cours Généraux
 - [[Les Protocoles FIJ]]
 - [[MOC Anglais]]
-- [[MOC Emploi]] 
-- [[MOC Français]] 
 - [[MOC Access]] 
 
 ---

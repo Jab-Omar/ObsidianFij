@@ -1,0 +1,42 @@
+---
+date: 2024-01-31
+tags:
+  - "#pasFini"
+---
+# Index DHCP
+
+## Introduction
+   - [[Qu'est-ce que le DHCP]]
+   - [[Pourquoi le DHCP est-il Important]]
+
+## Fonctionnement du DHCP
+   - [[Attribution dynamique d'adresses IP]]
+   - [[Processus de location d'adresses DHCP]]
+   - [[Renouvellement et libération d'adresses]]
+
+## Composants DHCP
+   - [[Serveur DHCP]]
+   - [[Client DHCP]]
+   - [[Relais DHCP]]
+
+## Configuration du Serveur DHCP
+   - [[Paramètres de configuration]]
+   - [[Plages d'adresses IP]]
+   - [[Options de configuration supplémentaires]]
+
+## Résolution des problèmes DHCP
+   - [[Problèmes courants]]
+   - [[Outils de diagnostic]]
+
+## Sécurité DHCP
+   - [[Mécanismes de sécurité]]
+   - [[Prévention des attaques]]
+
+## Bonnes Pratiques
+   - [[Meilleures pratiques de configuration]]
+   - [[Maintenance régulière]]
+
+## Ressources Additionnelles
+   - [[Livres recommandés]]
+   - [[Liens utiles]]
+   - [[Cours en ligne]]

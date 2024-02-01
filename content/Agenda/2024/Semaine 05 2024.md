@@ -39,3 +39,9 @@ date: 2024-01-29
 - L'opérateur logique (XOR - OU exclusif)
 - Exercices de tables de vérité. 
 ---
+## Jeudi 01/02/2024
+##### Français 
+- Présentations orales à blanc.
+##### Linux réseau
+- TP de synthèse. 
+---

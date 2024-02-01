@@ -45,3 +45,8 @@ date: 2024-01-29
 ##### Linux réseau
 - TP de synthèse. 
 ---
+## Vendredi 02/02/2024
+##### BDD
+##### Windows Réseau
+
+---

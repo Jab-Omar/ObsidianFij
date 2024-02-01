@@ -7,7 +7,6 @@ title: FIJ TUI2023
 - [[MOC Windows]]
 - [[MOC Linux]]
 - [[MOC Windows Réseau]]
-- [[MOC Helpdesk]]
 ## Cours Généraux
 - [[Les Protocoles FIJ]]
 - [[MOC Anglais]]

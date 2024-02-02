@@ -47,6 +47,9 @@ date: 2024-01-29
 ---
 ## Vendredi 02/02/2024
 ##### BDD
+- Exercice de modélisation 2,4,5 et exercices 2.
+- Théorie sur la passage du schéma entité-association vers schéma relation.
 ##### Windows Réseau
+- Théorie : OU, Users, Groups, NTFS permission + share.
 
 ---

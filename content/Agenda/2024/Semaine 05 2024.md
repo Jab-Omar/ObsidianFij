@@ -51,5 +51,7 @@ date: 2024-01-29
 - Théorie sur la passage du schéma entité-association vers schéma relation.
 ##### Windows Réseau
 - Théorie : OU, Users, Groups, NTFS permission + share.
+- Petit exercice de création de groupes et partage de fichiers serveurs.
+- Théorie sur les GPO dans AD.
 
 ---

@@ -53,5 +53,6 @@ date: 2024-01-29
 - Théorie : OU, Users, Groups, NTFS permission + share.
 - Petit exercice de création de groupes et partage de fichiers serveurs.
 - Théorie sur les GPO dans AD.
+- Mise en place de GPO dans srv2016.
 
 ---

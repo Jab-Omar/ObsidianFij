@@ -21,9 +21,9 @@ title: FIJ TUI2023
 ---
 ## Agenda Hebdo
 
-| **Janvier 2024** |
-| ---- |
-| [[Semaine 02 2024]] |
-| [[Semaine 03 2024]] |
-| [[Semaine 04 2024]] |
-| [[Semaine 05 2024]] |
+| **Janvier 2024** | **Février 2024** |
+| ---- | ---- |
+| [[Semaine 02 2024]] | [[Semaine 06 2024]] |
+| [[Semaine 03 2024]] |  |
+| [[Semaine 04 2024]] |  |
+| [[Semaine 05 2024]] |  |

@@ -18,3 +18,6 @@
 - [[Les Commandes MsDos]]
 ## Exercices
 - [[Comparer des choses ou des personnes]]
+
+## Textes
+- [[Le texte sur les backups]]

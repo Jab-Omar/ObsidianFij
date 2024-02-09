@@ -2,7 +2,8 @@
 draft: "True"
 ---
 - [ ] BIM mercredi 09:40h
-	- [ ] Remplir le document BIM avant mercredi.
+	- [x] Remplir le document BIM avant mercredi.
+	- [ ] Imprimer les documents à FIJ.  
 	
 - [ ] Réparation des prises
 	- [ ] Ateliers des droits sociaux.

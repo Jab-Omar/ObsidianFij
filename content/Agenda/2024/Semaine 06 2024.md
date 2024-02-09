@@ -4,7 +4,7 @@ Time: 15:38
 ---
 # FIJ Semaine 06
 ---
-## Lundi
+## Lundi 05/02/2024
 ##### HTML
 - Nous avons travailler sur l'exercice du menu.
 	- Ajout d'images.
@@ -15,3 +15,7 @@ Time: 15:38
 - lecture du texte.
 - Traduction du texte (*pas fini*)
 ##### Linux Réseau
+- Malade.
+---
+## Mardi 06/02/2024
+- Malade

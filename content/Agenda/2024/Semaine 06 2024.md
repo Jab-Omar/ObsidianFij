@@ -19,3 +19,17 @@ Time: 15:38
 ---
 ## Mardi 06/02/2024
 - Malade
+---
+## Mercredi 07/02/2024
+- Malade
+---
+## Jeudi 08/02/2024
+- Malade
+
+---
+## Vendredi 09/02/2024
+##### BDD 
+- Explication des propriétés de champs.
+- Exercices BDD 3 - La création de tables.
+
+##### Windows Réseau

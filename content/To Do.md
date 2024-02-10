@@ -1,9 +1,7 @@
 ---
 draft: "True"
 ---
-- [ ] BIM mercredi 09:40h
-	- [x] Remplir le document BIM avant mercredi.
-	- [ ] Imprimer les documents à FIJ.  
+- [ ] Attendre les résultats de la demande pour le statut BIM.
 	
 - [ ] Réparation des prises
 	- [ ] Ateliers des droits sociaux.
@@ -14,3 +12,4 @@ draft: "True"
 	- [ ] Acheter papier ponce.
 	- [ ] Vérifier matériel ( silicone, gun, ect ...)
 	- [ ] Fixer une date. 
+- [ ]  Jeter les vielles multiprises.

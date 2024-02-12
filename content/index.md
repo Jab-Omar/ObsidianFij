@@ -16,6 +16,7 @@ title: FIJ TUI2023
 ## Notes Perso
 
 - [[MOC DevOps]]
+- [[MOC Networking]]
 - [[Prompts pour optimiser son apprentissage]]
 
 ---

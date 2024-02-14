@@ -17,6 +17,8 @@ title: FIJ TUI2023
 
 - [[MOC DevOps]]
 - [[MOC Networking]]
+- [[MOC Python]]
+- [[MOC CheatSheet]]
 - [[Prompts pour optimiser son apprentissage]]
 
 ---
@@ -26,5 +28,5 @@ title: FIJ TUI2023
 | ---- | ---- |
 | [[Semaine 02 2024]] | [[Semaine 06 2024]] |
 | [[Semaine 03 2024]] | [[Semaine 07 2024]] |
-| [[Semaine 04 2024]] |  |
+| [[Semaine 04 2024]] | [[Semaine 08 2024]] |
 | [[Semaine 05 2024]] |  |

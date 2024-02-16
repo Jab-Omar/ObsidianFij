@@ -13,3 +13,5 @@ draft: "True"
 
 - [ ] Visite appartement Avenue de juillet à 14H30
 	- [ ] Candidature.
+
+- [ ] Jeudi 28 mars 2024 - Séance d'info école 19

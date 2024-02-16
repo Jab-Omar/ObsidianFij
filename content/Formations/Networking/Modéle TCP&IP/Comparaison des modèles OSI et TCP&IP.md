@@ -3,6 +3,7 @@ date: 14-02-2024
 Time: 22:40
 ---
 # Comparaison des modèles TCP/IP et OSI
+![[imgOsiVSTscp.jpg]]
 
 ## Popularité
 
@@ -23,3 +24,4 @@ Time: 22:40
 
 - En termes de popularité, de flexibilité et de déploiement, le modèle TCP/IP surpasse généralement l'OSI en raison de sa large adoption, de sa simplicité et de sa compatibilité.
 - Cependant, l'OSI reste pertinent en tant que référence conceptuelle pour la compréhension théorique des réseaux et des communications.
+

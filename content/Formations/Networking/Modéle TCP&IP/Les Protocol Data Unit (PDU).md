@@ -1,3 +1,7 @@
+---
+date: 18-02-2024
+Time: 00:55
+---
 # Les Protocol Data Unit (PDU)
 
 Les Protocol Data Unit (PDU) sont des entités de données utilisées dans les communications réseau pour encapsuler et transporter des informations entre les couches du modèle OSI (Open Systems Interconnection) ou du modèle TCP/IP. Chaque couche du modèle réseau a son propre PDU.

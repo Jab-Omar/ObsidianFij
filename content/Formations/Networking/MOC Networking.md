@@ -7,3 +7,5 @@ Time: 11:31
 ## Introduction au réseaux Informatiques
 - [[Introduction aux réseaux informatiques]]
 - [[Modèle TCP&IP]]
+- [[Comprendre le Système Binaire pour les Débutants]]
+- [[Comprendre le Système Hexadécimal pour les Débutants]]

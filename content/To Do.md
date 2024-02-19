@@ -15,3 +15,5 @@ draft: "True"
 	- [ ] Candidature.
 
 - [ ] Jeudi 28 mars 2024 - Séance d'info école 19
+
+- [ ] Envoyé le mail pour le stage - inclure Mia en copie.

@@ -6,4 +6,4 @@ Time: 12:09
 ## Faire 3 phrases en utilisant le prétérit
 - **Affirmative** : Back then the computers looked bigger and were slower than now.
 - **Négative** : My password did not contain 12 characters that is why I have issues now.
-- **Interrogative** : Did the manager introduced you to the helpdesk team ? 
+- **Interrogative** : Did the manager introduce you to the helpdesk team ? 

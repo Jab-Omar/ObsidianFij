@@ -18,4 +18,6 @@ Time: 22:24
 - Complément de temps qui marque le passé.
 ##### Linux Réseau
 - On a revu comment faire des câbles ethernet et on c'est entraîner.
-- Choix du matériel
+- Exercice sur le Choix du matériel.
+---
+## Mardi 20/02/2024

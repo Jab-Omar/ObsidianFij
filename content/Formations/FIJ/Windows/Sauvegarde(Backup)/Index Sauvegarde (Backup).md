@@ -1,5 +1,7 @@
 ---
 date: 2023-10-29
+tags:
+  - Index
 ---
 ## Introduction
 - [[Introduction à la Sauvegarde]]

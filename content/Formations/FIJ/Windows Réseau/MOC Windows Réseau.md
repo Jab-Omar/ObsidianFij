@@ -1,5 +1,7 @@
 ---
 date: 2024-01-09
+tags:
+  - MOC
 ---
 # Cours Windows Réseau 
 ## Introduction à Windows Serveur

@@ -1,5 +1,7 @@
 ---
 date: 2023-12-31
+tags:
+  - MOC
 ---
 
 # Map of content Linux

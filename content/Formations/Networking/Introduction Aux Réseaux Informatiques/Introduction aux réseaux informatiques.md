@@ -1,6 +1,8 @@
 ---
 date: 13-02-2024
 Time: 21:36
+tags:
+  - Index
 ---
 # Introduction aux réseaux informatiques
 ## C'est quoi un réseau informatique ?
@@ -33,3 +35,8 @@ Les réseaux informatiques offrent de nombreux avantages, notamment la possibili
 - [[IDS(Intrusion Detection Systems)]]
 - [[IPS(Intrusion Prevention Systems)]]
 - [[WLC(Wireless LAN Controllers)]]
+
+- [[Comprendre le Système Binaire pour les Débutants]]
+- [[Comprendre le Système Hexadécimal pour les Débutants]]
+- [[ARP (Address Resolution Protocol)]]
+- [[Adresses MAC (Media Access Control)]]

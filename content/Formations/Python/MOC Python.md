@@ -1,6 +1,8 @@
 ---
 date: 14-02-2024
 Time: 00:35
+tags:
+  - MOC
 ---
 # Python
 

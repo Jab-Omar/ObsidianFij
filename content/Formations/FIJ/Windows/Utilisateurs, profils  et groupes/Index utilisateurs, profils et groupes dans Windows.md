@@ -1,5 +1,7 @@
 ---
 date: 2023-11-20
+tags:
+  - Index
 ---
 # Index utilisateurs, profils et groupes dans Windows 
 

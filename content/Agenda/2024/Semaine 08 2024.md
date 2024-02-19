@@ -21,3 +21,6 @@ Time: 22:24
 - Exercice sur le Choix du matériel.
 ---
 ## Mardi 20/02/2024
+##### Windows Réseau
+##### Méthodologie
+##### Windows Linux

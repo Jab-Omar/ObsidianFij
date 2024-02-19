@@ -1,5 +1,7 @@
 ---
 date: 2023-11-04
+tags:
+  - Index
 ---
 1. [[Prompt - Loi de Pareto]]
 2. [[Prompt - La technique de Feynman]]

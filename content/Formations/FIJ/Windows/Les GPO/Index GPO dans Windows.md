@@ -3,6 +3,8 @@ aliases:
   - Politiques de Groupe (GPO)
   - GPO
 date: 2023-10-30
+tags:
+  - Index
 ---
 
 Les Group Policy Objects (GPO) sont un composant essentiel de la gestion des systèmes Windows. Ils permettent de définir des paramètres de configuration, des stratégies de sécurité et d'autres directives pour les ordinateurs et utilisateurs au sein d'un environnement Windows. Voici un index pour explorer les aspects liés aux GPO :

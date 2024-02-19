@@ -1,5 +1,7 @@
 ---
 date: 2023-11-08
+tags:
+  - Index
 ---
 # Protocoles vu dans le cours d'Outlook
 

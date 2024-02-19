@@ -1,6 +1,8 @@
 ---
 date: 13-02-2024
 Time: 23:04
+tags:
+  - Index
 ---
 # Le modèle TCP/IP
 

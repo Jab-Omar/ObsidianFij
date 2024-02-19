@@ -1,5 +1,7 @@
 ---
 title: FIJ TUI2023
+tags:
+  - Départ
 ---
 # Index pour Formation FIJ
 ## Cours UAA

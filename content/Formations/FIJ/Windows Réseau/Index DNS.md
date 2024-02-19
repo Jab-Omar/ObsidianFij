@@ -2,6 +2,7 @@
 date: 2024-01-31
 tags:
   - pasFini
+  - Index
 ---
 # Le DNS
 ## Théorie

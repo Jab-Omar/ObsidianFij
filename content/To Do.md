@@ -11,9 +11,7 @@ draft: "True"
 	
 - [ ]  Jeter les vielles multiprises.
 
-- [ ] Visite appartement Avenue de juillet à 14H30
-	- [ ] Candidature.
-
 - [ ] Jeudi 28 mars 2024 - Séance d'info école 19
 
-- [ ] Envoyé le mail pour le stage - inclure Mia en copie.
+- [x] Envoyé le mail pour le stage - inclure Mia en copie.
+	- [ ] Attendre une réponse.

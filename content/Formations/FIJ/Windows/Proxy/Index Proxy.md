@@ -1,5 +1,7 @@
 ---
 date: 2023-11-13
+tags:
+  - Index
 ---
 1. **Introduction aux Proxies**
     - [[C'est quoi un proxy]]

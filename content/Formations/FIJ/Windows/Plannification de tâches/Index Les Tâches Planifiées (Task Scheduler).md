@@ -1,5 +1,7 @@
 ---
 date: 2023-11-06
+tags:
+  - Index
 ---
 # Les tâches planifiées (Task Scheduler)
 

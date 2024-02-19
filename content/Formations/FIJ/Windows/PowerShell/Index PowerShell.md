@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - pasFini
+  - Index
 ---
 ## Théorie
 - [[PowerShell Intro]]

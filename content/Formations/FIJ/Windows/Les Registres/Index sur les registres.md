@@ -1,5 +1,7 @@
 ---
 date: 2023-10-30
+tags:
+  - Index
 ---
 
 Les **registres** dans le contexte de Windows font référence à une composante essentielle du système d'exploitation. Il s'agit d'une base de données hiérarchique qui stocke des configurations, des paramètres, des informations sur le matériel et d'autres données essentielles pour le fonctionnement du système. Chaque entrée dans le registre est organisée sous forme de clés et de valeurs, et ces données jouent un rôle fondamental dans la gestion des paramètres du système et des applications.

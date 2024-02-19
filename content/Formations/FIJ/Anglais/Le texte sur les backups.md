@@ -8,7 +8,7 @@ Time: 12:58
 ### Back up your computer with Windows 8 File History.
 
 Windows 8 includes a new backup solution called File History. After you turn it on, File History automatically backs up every files in your libraries every hours. The program is easy to turn on, is simple to figure out, runs automatically , and backs up everything you need. 
-Before  File History can go to  work, you need on thing : you need a portable hard drive, which is simply a hard drive in a little box. A cord connects from the box to one of your computer's USB ports;
+Before  File History can go to  work, you need one thing : you need a portable hard drive, which is simply a hard drive in a little box. A cord connects from the box to one of your computer's USB ports;
 When the drive is plugged in, Windows 8 recognizes the drive immediately.
 
 ## En Français

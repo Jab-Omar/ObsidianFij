@@ -28,4 +28,4 @@ Time: 22:24
 ##### Windows Linux
 - Lecture de la grille d'éval.
 - Théorie le modèle OSI et TCP/IP.
-- 
+- Tp routeurs.

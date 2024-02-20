@@ -22,5 +22,10 @@ Time: 22:24
 ---
 ## Mardi 20/02/2024
 ##### Windows Réseau
+- Correction de l'éval formative.
 ##### Méthodologie
+- Liste des sujets : comprendre les sujets et parcourir les sujets.
 ##### Windows Linux
+- Lecture de la grille d'éval.
+- Théorie le modèle OSI et TCP/IP.
+- 

@@ -14,4 +14,5 @@ draft: "True"
 - [ ] Jeudi 28 mars 2024 - Séance d'info école 19
 
 - [x] Envoyé le mail pour le stage - inclure Mia en copie.
-	- [ ] Attendre une réponse.
+	- [x] Attendre une réponse.
+	- [ ] Confirmer le rdv pour visiter les locaux et rencontrer le technicien en charge de notre stage.

@@ -22,4 +22,4 @@ tags:
 - [[MOC Linux]]
 
 - [[Index JSON]]
-- [[Index Obsidian pour Apprendre YAML]]
+- [[Index YAML]]

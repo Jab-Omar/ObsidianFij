@@ -1,6 +1,8 @@
 ---
 date: 25-02-2024
 Time: 14:08
+tags:
+  - Index
 ---
 # Index JSON - Apprentissage
 

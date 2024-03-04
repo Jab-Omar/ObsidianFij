@@ -5,20 +5,12 @@ draft: "True"
 	- [ ] Appeler pour demander des nouvelles.
 
 - [ ] Réparation salle de bain.
-	- [ ] Préparer l'enduit pour le mur.
-	- [ ] Acheter papier ponce.
-	- [ ] Vérifier matériel ( silicone, gun, ect ...)
-	- [ ] Fixer une date. 
-	
-
+- [ ] Mardi 5 mars RDV commune pour nationalité à  08:00
+- [ ] Mardi 5 mars RDV CPAS 13h30
 - [ ] Jeudi 28 mars 2024 - Séance d'info école 19
 
-- [x] Envoyé le mail pour le stage - inclure Mia en copie.
-	- [x] Attendre une réponse.
+- [ ] Stage Chez I-city
+	- [x] Prise de contact.
+	- [ ] Récupérer les document avant le 19 Mars.
 	- [ ] Confirmer le rdv pour visiter les locaux et rencontrer le technicien en charge de notre stage. (28mars).
 
-- [ ] Vacances
-	- [ ] Présentations entraînement
-	- [ ] Rattrapage Math
-	- [ ] Rattrapage BDD
-	- [ ] Rattrapage Windows réseau

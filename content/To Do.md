@@ -3,14 +3,13 @@ draft: "True"
 ---
 ## Urgent
 ---
-- [ ] Appeler pour demander des nouvelles pour le statut BIM.
-- [ ] Mardi 5 mars RDV commune pour nationalité à  08:00.
 - [ ] Mardi 5 mars RDV CPAS 13h30.
 - [ ] Jeudi 28 mars 2024 - Séance d'info école 19.
+- [ ] Mardi 2 avril - Appeler Actiris pour le test de langue.
 ---
 ## Au plus vite
 ---
-- [ ] **Statut BIM **
+- [ ] **Statut BIM**
 	- [ ] Attendre les résultats de la demande pour le statut BIM.
 
 - [ ] **Réparation salle de bain.**
@@ -30,5 +29,8 @@ draft: "True"
 	- [ ] Fonctions polynomiales du deuxième degré et leur graphe.
 	- [ ] Equations et inéquations du deuxième degré à une inconnue.
 	- [ ] Identités remarquables.
-	- [ ] Notion de fonction (de R dans R) et de graphe de fonction : domaine de définition, image, variation, croissance, parité, notamment 1/ X , sin X et cos X, …
+	- [ ] Notion de fonction (de R dans R) et de graphe de fonction : domaine de définition, image, variation, croissance, parité, notamment 1/ X , sin X et cos X, …	
+
+- [ ] **Nationalité Belge**
+	- [ ] Obtenir le CESS.
 ---

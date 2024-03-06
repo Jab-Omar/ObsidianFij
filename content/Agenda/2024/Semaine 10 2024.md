@@ -14,7 +14,11 @@ Time: 06:06
 ##### Helpdesk
 - Je n'arrive pas à accéder au site Facebook.com, Lesoir.com. (Il fallait modifier  le fichier "C:\Windows\System32\drivers\etc\hosts")
 - Quand je copie des fichier de ma clé USB vers ma machine c'est très lent. (La clé était sur un port 2.0 et pas un port 3.0)
-- Je n'arrive pas à brancher l'écran le port HDMI ne rentre pas.(Il faut utiliser un adaptateur Display port vers VGA et brancher le câble VGA à l'adaptateur et à l'écran.)
+- Je n'arrive pas à brancher l'écran, le port HDMI ne rentre pas.(Il faut utiliser un adaptateur Display port vers VGA et brancher le câble VGA à l'adaptateur et à l'écran.)
 ##### Mathématique
 - Exercices Binaire, Hexadécimal et base 10.
-- Les octet signé rappel.
+- Les octets signé rappel.
+- Exercices  sur les octets signé.
+- J'étais absent pour la deuxième période.
+---
+## Jeudi 07/03/2024

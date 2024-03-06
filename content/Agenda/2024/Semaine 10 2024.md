@@ -16,3 +16,5 @@ Time: 06:06
 - Quand je copie des fichier de ma clé USB vers ma machine c'est très lent. (La clé était sur un port 2.0 et pas un port 3.0)
 - Je n'arrive pas à brancher l'écran le port HDMI ne rentre pas.(Il faut utiliser un adaptateur Display port vers VGA et brancher le câble VGA à l'adaptateur et à l'écran.)
 ##### Mathématique
+- Exercices Binaire, Hexadécimal et base 10.
+- Les octet signé rappel.

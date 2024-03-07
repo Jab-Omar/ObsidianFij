@@ -43,4 +43,3 @@ Bien sûr, voici la liste réorganisée et sans doublons des verbes irréguliers
 | to swim       | swam           | swum            | nager                  |
 | to teach      | taught         | taught          | enseigner              |
 
-J'ai corrigé les erreurs de saisie et supprimé les doublons. Si vous avez d'autres questions, n'hésitez pas !

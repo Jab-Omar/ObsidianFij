@@ -28,7 +28,7 @@ Time: 06:06
 ##### Expression Orale
 - Passage de Simon.
 ##### Anglais
-
+- Les verbes irréguliers - fin de la liste. 
 ##### Emploi
 
 ---

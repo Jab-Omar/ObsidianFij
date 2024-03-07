@@ -23,4 +23,12 @@ Time: 06:06
 ---
 ## Jeudi 07/03/2024
 ##### HTML
-- Exercice tableau 3 : 
+- Exercice tableau 3 : Crée un tableau qui reprend les prof et les cours. Le titre du tableau sera "Liste des cours". 
+- Exercice tableau 4 : Faire en HTML et CSS un horaire similaire que celui de la classe. 
+##### Expression Orale
+- Passage de Simon.
+##### Anglais
+
+##### Emploi
+
+---

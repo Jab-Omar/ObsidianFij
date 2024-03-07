@@ -2,7 +2,7 @@
 date: 2024-03-07
 Time: 09:56
 ---
-Crée un tableau qui reprend les prof et les cours. Le titre du tableau sera liste des cours.
+Crée un tableau qui reprend les prof et les cours. Le titre du tableau sera "Liste des cours".
 Ajoute des colspan et rowspan si nécessaire. 
 
 ## HTML

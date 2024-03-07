@@ -32,5 +32,6 @@ Time: 06:06
 - Faire une phrase informatique avec un verbe irrégulier au trois formes.
 - Traduis ces phrases en anglais.
 ##### Emploi
-
+- La lettre de motivation fin.
+- Powerpoint sur la lettre de motivation.
 ---

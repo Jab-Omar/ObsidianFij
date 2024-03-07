@@ -3,7 +3,8 @@ draft: "True"
 ---
 ## Urgent
 ---
-- [ ] Mardi 5 mars RDV CPAS 13h30.
+- [x] Mardi 5 mars RDV CPAS 13h30.
+	- [ ] Attestation chômages et cotisations
 - [ ] Jeudi 28 mars 2024 - Séance d'info école 19.
 - [ ] Mardi 2 avril - Appeler Actiris pour le test de langue.
 ---

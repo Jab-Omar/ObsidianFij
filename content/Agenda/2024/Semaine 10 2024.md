@@ -22,3 +22,5 @@ Time: 06:06
 - J'étais absent pour la deuxième période.
 ---
 ## Jeudi 07/03/2024
+##### HTML
+- Exercice tableau 3 : 

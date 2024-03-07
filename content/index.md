@@ -9,6 +9,7 @@ tags:
 - [[MOC Windows]]
 - [[MOC Linux]]
 - [[MOC Windows Réseau]]
+- [[HTML]]
 ## Cours Généraux
 - [[Les Protocoles FIJ]]
 - [[MOC Anglais]]

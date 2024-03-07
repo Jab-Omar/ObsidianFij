@@ -23,6 +23,7 @@ tags:
 - [[les expressions de temps]]
 - [[Anglais Vocabulaire Informatique 2]]
 - [[Les Commandes MsDos]]
+- [[Anglais - Les verbes irréguliers]]
 ## Exercices
 - [[Comparer des choses ou des personnes]]
 - [[Le prétérit - exercices]]

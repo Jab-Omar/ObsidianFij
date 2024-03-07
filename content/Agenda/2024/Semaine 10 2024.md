@@ -29,6 +29,8 @@ Time: 06:06
 - Passage de Simon.
 ##### Anglais
 - Les verbes irréguliers - fin de la liste. 
+- Faire une phrase informatique avec un verbe irrégulier au trois formes.
+- Traduis ces phrases en anglais.
 ##### Emploi
 
 ---

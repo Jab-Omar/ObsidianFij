@@ -4,8 +4,6 @@ Time: 13:42
 ---
 # Liste des verbes irréguliers
 
-Bien sûr, voici la liste réorganisée et sans doublons des verbes irréguliers :
-
 | Infinitif  | Prétérit       | Participe passé | Traduction en français |     |
 | ---------- | -------------- | --------------- | ---------------------- | --- |
 | to be      | was/were       | been            | être                   |     |

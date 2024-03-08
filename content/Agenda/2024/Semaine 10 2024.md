@@ -39,6 +39,8 @@ Time: 06:06
 ##### BDD
 - Schéma entité-association exercice.
 - Schéma E-A vers schéma relationnel exercice.
-- Théorie sur les champs dans acess.
+- Théorie sur les champs dans Access.
 ##### Windows Réseau
-- Fin de l'installation du service WDS et test.
+- Fin de l'installation du service WDS et test de déploiement d'une machine Win10-client en boot PXE.
+- Automatiser le déploiement d’un OS Windows avec des fichiers de réponses sur WDS.
+---

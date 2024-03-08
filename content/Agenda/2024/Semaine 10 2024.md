@@ -1,5 +1,5 @@
 ---
-date: 29-02-2024
+date: 2024-02-20
 Time: 06:06
 ---
 # Semaine 10 FIJ
@@ -35,3 +35,10 @@ Time: 06:06
 - La lettre de motivation fin.
 - Powerpoint sur la lettre de motivation.
 ---
+## Vendredi 08/03/2024
+##### BDD
+- Schéma entité-association exercice.
+- Schéma E-A vers schéma relationnel exercice.
+- Théorie sur les champs dans acess.
+##### Windows Réseau
+- Fin de l'installation du service WDS et test.

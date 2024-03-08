@@ -1,5 +1,5 @@
 ---
-date: 19-02_2024
+date: 2024-02-20
 Time: 12:09
 ---
 # Le prétérit - exercices

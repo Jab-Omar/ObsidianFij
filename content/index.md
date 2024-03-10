@@ -9,11 +9,11 @@ tags:
 - [[MOC Windows]]
 - [[MOC Linux]]
 - [[MOC Windows Réseau]]
-- [[HTML]]
 ## Cours Généraux
 - [[Les Protocoles FIJ]]
 - [[MOC Anglais]]
-- [[MOC Access]] 
+- [[MOC Access]]
+- [[HTML]]
 
 ---
 ## Notes Perso
@@ -30,6 +30,6 @@ tags:
 | **Mars 2024**       |
 | ------------------- |
 | [[Semaine 10 2024]] |
-| Semaine 11 2024     |
+| [[Semaine 11 2024]] |
 | Semaine 12 2024     |
 | Semaine 13 2024     |

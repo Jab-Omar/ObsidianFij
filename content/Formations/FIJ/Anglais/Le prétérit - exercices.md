@@ -43,25 +43,25 @@ Time: 12:09
 >**Traduction** : Did they link all de FIJ website pages ?
 
 >Les stagiaires techniciens ont construit leurs propres réseaux internet.<br>
->**Traduction** : The technician trainee did build their own internet network.
+>**Traduction** : The technician trainee built their own internet network.
 
 >Nicolaï a coupé les premiers paragraphes du document <br>
->**Traduction** : Nicolaï cut the document firsts paragraphs
+>**Traduction** : Nicolaï cut the document first paragraphs.
 
 >Il est venu très tôt ce matin(Didier)<br>
->**Traduction** : He came really early this morning.
+>**Traduction** : He came very early this morning.
 
 >Vous avez trouvé les fichier supprimée hier midi.<br>
 >**Traduction** : you found the deleted files yesterday noon.
 
 >Il y a trois mois, un administrateur réseaux a oublié son mot de passe et son nom d'utilisateur.<br>
->**Traduction** : Three months ago an network administrator forgot his password and his username.
+>**Traduction** : Three months ago a network administrator forgot his password and his username.
 
 >Le weekend dernier il m'a donné son clavier pour le réparer.<br>
 >**Traduction** : Last week-end he gave me his keyboard to fix it.
 
->Il connaissait tout les accès pour pénètrer dans le réseaux.
+>Il connaissait tout les accès pour pénétrer dans le réseaux.
 >**Traduction** : They knew all the accesses to get into the network.
->
+
 
 

@@ -15,8 +15,8 @@ Time: 12:09
 
 
 ## Traduis ces phrases en anglais.
-- Le technicien en informatique a réparé l'ancienne carte-son dans le serveur.
-**Traduction** : The computing technician fixed the old sound board in the server.
+>- Le technicien en informatique a réparé l'ancienne carte-son dans le serveur.
+>**Traduction** : The computing technician fixed the old sound card in the server.
 
 - Est-ce qu'un utilisateur a imprimé toutes les pages du rapport hier matin ?
 **Traduction** : Did an user print all the page of the report yesterday morning ?

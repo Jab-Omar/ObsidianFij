@@ -18,7 +18,7 @@ Time: 12:09
 >Le technicien en informatique a réparé l'ancienne carte-son dans le serveur.<br>
 >**Traduction** : The computing technician fixed the old sound card in the server.
 
->- Est-ce qu'un utilisateur a imprimé toutes les pages du rapport hier matin ?<br>
+>Est-ce qu'un utilisateur a imprimé toutes les pages du rapport hier matin ?<br>
 >**Traduction** : Did a user print all the pages of the report yesterday morning ?
 
 >Mon système d'exploitation n'a pas configuré automatiquement ses pilotes.<br>
@@ -28,10 +28,10 @@ Time: 12:09
 >**Traduction** : Your database did not allow to process the old data.
 
 >Un stagiaire a choisi les paramètres de son portable.<br>
->**Traduction** : A trainee chose de settings of his cellphone/desktop.
+>**Traduction** : A trainee chose de settings of his cellphone/laptop.
 
 >Nous avons bu beaucoup de vin hier soir.<br>
->**Traduction** : We drank a lot of wine yesterday night.
+>**Traduction** : We drank a lot of wine yesterday evening.
 
 >Anaïs a oublié d'éteindre son nouveau portable il y a trois jours.<br>
->**Traduction** : Anaïs forgot to shut off her new desktop 3 days ago. 
+>**Traduction** : Anaïs forgot to turn off her new laptop 3 days ago. 

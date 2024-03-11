@@ -9,6 +9,7 @@ Time: 22:47
 - Expression orale présentation certificative.
 ##### Anglais
 - Fin de l'exercice : Traduis ces phrases en anglais.
+- Exercice : Traduis ces phrases en anglais v2.
 ##### Linux Réseau
 
 ---

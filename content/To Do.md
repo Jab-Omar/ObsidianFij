@@ -3,15 +3,12 @@ draft: "True"
 ---
 ## Urgent
 ---
-- [x] Mardi 5 mars RDV CPAS 13h30.
-	- [ ] Attestation chômages et cotisations
+
 - [ ] Jeudi 28 mars 2024 - Séance d'info école 19.
 - [ ] Mardi 2 avril - Appeler Actiris pour le test de langue.
 ---
 ## Au plus vite
 ---
-- [ ] **Statut BIM**
-	- [ ] Attendre les résultats de la demande pour le statut BIM.
 
 - [ ] **Réparation salle de bain.**
 

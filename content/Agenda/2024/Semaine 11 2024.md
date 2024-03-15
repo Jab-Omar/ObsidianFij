@@ -28,3 +28,6 @@ Time: 22:47
 - Exercices fonctions logiques.
 ---
 ## Jeudi 14/03/2024
+- Absent 
+---
+## Vendredi  15/03/2024

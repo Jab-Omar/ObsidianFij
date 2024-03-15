@@ -31,3 +31,11 @@ Time: 22:47
 - Absent 
 ---
 ## Vendredi  15/03/2024
+##### BDD
+- Théorie sur les listes déroulantes dans Access.
+- Exercices sur les listes déroulantes
+- Théorie sur les formulaires.
+- Exercices sur les formulaires.
+- Théorie sur les états.
+- Exercices sur les états. 
+##### Windows Réseau

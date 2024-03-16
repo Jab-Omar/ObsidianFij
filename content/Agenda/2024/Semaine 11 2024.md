@@ -39,5 +39,11 @@ Time: 22:47
 - Théorie sur les états.
 - Exercices sur les états. 
 ##### Windows Réseau
+- Installation et configuration de GLPI dans Windows server.
+	- Télécharger XAMP.
+	- Télécharger GLPI.
+	- Installer GLPI avec le tuto.
+	- Déployer Agent GLPI avec GPO.
+	- Configurer GLPI.
 
 ---

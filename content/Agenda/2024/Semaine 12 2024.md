@@ -8,4 +8,10 @@ Time: 13:11
 ##### Anglais
 - Révision pour l'examen.
 ##### Emploi
-- 
+- La méthode STAR.
+- Questions/Réponses sur l'entretien d'embauche.
+##### Méthodologie
+- Objectifs à atteindre dans le labo ?
+- Trouver la doc officielle.
+- Trouver un tuto pour réaliser le TFE.
+---

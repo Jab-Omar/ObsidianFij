@@ -26,4 +26,9 @@ Time: 13:58
 - **Je n'ai plus d'accés à internet mais les emails fonctionnent** (Il fallait modifier quelque chose dans le pare-feu.) 
 ##### Mathématiques + BDD
 - Révision Mathématiques.
-
+- Récap des formulaires et des états.
+- Théorie sur les requêtes de mise à jour et de suppression.
+- Théorie sur les requêtes d'ajouts.
+- Exercices Sur les requêtes de mise à jour, de suppression et d'ajouts.
+---
+## Jeudi 21/03/2024

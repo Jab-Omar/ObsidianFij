@@ -32,3 +32,8 @@ Time: 13:58
 - Exercices Sur les requêtes de mise à jour, de suppression et d'ajouts.
 ---
 ## Jeudi 21/03/2024
+##### HTML
+- éval certificative.
+##### Anglais
+- éval Anglais.
+---

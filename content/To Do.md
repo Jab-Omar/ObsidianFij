@@ -14,7 +14,7 @@ draft: "True"
 
 - [ ] **Stage Chez I-city**
 	- [x] Prise de contact.
-	- [ ] Récupérer les document avant le 19 Mars.
+	- [x] Récupérer les document avant le 19 Mars.
 	- [ ] Confirmer le rdv pour visiter les locaux et rencontrer le technicien en charge de notre stage. (28mars).
 ---
 ## Projets

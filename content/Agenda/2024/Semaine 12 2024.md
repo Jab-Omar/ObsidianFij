@@ -16,6 +16,8 @@ Time: 13:58
 - Trouver un tuto pour réaliser le TFE.
 ---
 ## Mardi 19/03/2024
+##### UAA5 
+- Passage du groupe 1
 ##### Stage
 - Lecture d'une feuille : Consignes pour le rapport de stage.
 ---
@@ -37,3 +39,8 @@ Time: 13:58
 ##### Anglais
 - éval Anglais.
 ---
+## Vendredi 22/03/2024
+##### UAA5
+- Passage du groupe 2
+##### Windows réseau
+- Révisions

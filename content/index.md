@@ -12,7 +12,6 @@ tags:
 ## Cours Généraux
 - [[Les Protocoles FIJ]]
 - [[MOC Anglais]]
-- [[MOC Access]]
 - [[HTML]]
 
 ---

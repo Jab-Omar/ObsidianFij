@@ -5,6 +5,7 @@ draft: "True"
 ---
 
 - [ ] Jeudi 28 mars 2024 - Séance d'info école 19.
+- [ ] Jeudi 28 mars - Remplir la carte chômage.
 - [ ] Mardi 2 avril - Appeler Actiris pour le test de langue.
 ---
 ## Au plus vite

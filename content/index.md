@@ -4,6 +4,7 @@ tags:
   - Départ
 ---
 # Index pour Formation FIJ
+[[Examen-sheet]]
 ## Cours UAA
 - [[MOC Hardware]]
 - [[MOC Windows]]
